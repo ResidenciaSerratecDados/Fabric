@@ -1,0 +1,6 @@
+PASSOS PARA CRIAR DATALAKE
+
+1 - Criar DataLake - grupo 
+2 - Workspace - 1 por membro
+3 - LakeHouse - 1 por Workspace 
+4 - Subir os arquivos de categoria e produto
