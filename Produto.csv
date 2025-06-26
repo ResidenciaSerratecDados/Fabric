@@ -1,0 +1,235 @@
+﻿IDSK,IDPRODUTO,NOME,ID_CATEGORIA,CUSTO_MEDIO,VALOR_UNITARIO
+1,1,Cavaleiro Dos 7 Reinos,1,15.00,30.00
+2,2,Jogos Vorazes,1,22.00,45.00
+3,3,Revelados,1,24.00,48.00
+4,4,A Culpa É Das Estrelas,1,12.00,24.00
+5,5,Um Caso Perdido,1,20.00,56.00
+6,6,Windows 2016 Visao Geral,1,45.00,90.00
+7,7,Exchange 2014,1,90.00,130.00
+8,8,C# Pratico,1,45.00,60.00
+9,9,Sql Server 2016,1,15.00,30.00
+10,10,Tsql Tuning,1,75.00,90.00
+11,11,Advanced Azure,1,55.00,70.00
+12,12,As Crônicas De Andromeda,1,30.00,69.00
+13,13,Cronicas Antigas,1,60.00,189.00
+14,14,O Senhor Do Crime,1,120.00,199.00
+15,15,Barco De Pedra,1,20.00,37.00
+16,16,O Patrão,2,50.00,78.00
+17,17,A Casa,2,140.00,299.00
+18,18,A Teoria,2,130.00,198.00
+19,19,Diário Romântico,2,100.00,176.00
+20,20,Dinossauros,2,18.00,40.00
+21,21,Jackson,2,18.00,34.00
+22,22,Escolinha Do Juca,2,23.00,56.00
+23,23,Casoas Antigos,2,20.00,37.00
+24,24,O Pequeno,2,23.00,43.00
+25,25,Poderoso Chefe,2,46.00,98.00
+26,26,Mentes Criminosas,2,130.00,210.00
+27,27,Familia Paratto,2,100.00,134.00
+28,28,Gladiadores,2,90.00,145.00
+29,29,O Super-herói,2,20.00,45.00
+30,30,Homem De Aço,2,20.00,45.00
+31,31,Gravitacional,2,37.00,78.00
+32,32,Vingança,2,20.00,45.00
+33,33,Jogos Maléficos,2,23.00,38.00
+34,34,A Vida Secreta,2,21.00,37.00
+35,35,O Imortal,2,26.00,37.00
+36,36,Cavaleiro Das Trevas,3,50.00,110.00
+37,37,Cartoon Movie,3,34.00,99.00
+38,38,Cavaleiros De Prata,3,89.00,145.00
+39,39,Wario,3,78.00,145.00
+40,40,Just Dance,3,34.00,99.00
+41,41,Revivals,3,57.00,145.00
+42,42,Load Runner,3,65.00,145.00
+43,43,Futebol 2018,3,67.00,145.00
+44,44,Soccer 2018,3,76.00,145.00
+45,45,Diabo,3,33.00,99.00
+46,46,Fantasy Star,3,30.00,89.00
+47,47,Titans,3,50.00,98.00
+48,48,Raider,3,50.00,120.00
+49,49,Castelvania,3,53.00,120.00
+50,50,South Place,3,45.00,98.00
+51,51,Dragon Blazer,3,40.00,90.00
+52,52,Thief,3,70.00,140.00
+53,53,Fabula,3,100.00,120.00
+54,54,Devilcry,3,65.00,120.00
+55,55,Mafia,3,55.00,120.00
+56,56,Moto G6,4,620.00,860.00
+57,57,Moto G5,4,465.00,679.00
+58,58,Moto Z Play 2,4,900.00,1150.00
+59,59,Motorola Tv,4,555.00,799.00
+60,60,Carregador Turbo Celular,4,55.00,99.00
+61,61,Nokia 549,4,300.00,450.00
+62,62,Nokia Quarty,4,190.00,300.00
+63,63,Nokia Asha 501,4,320.00,600.00
+64,64,Nokia Asha 202,4,430.00,700.00
+65,65,Carregador Universal Nokia,4,60.00,100.00
+66,66,Samsung E1203,4,385.00,560.00
+67,67,Samsung Xy 3,4,498.00,800.00
+68,68,Samsung Xy 4,4,965.00,1200.00
+69,69,Samsung Duos,4,750.00,1100.00
+70,70,Lg Optimus,4,500.00,890.00
+71,71,Lg C397,4,360.00,500.00
+72,72,Dreamc Vga,4,79.00,150.00
+73,73,Dreamc Quarty,4,98.00,180.00
+74,74,Xtg E1,4,200.00,300.00
+75,75,Xtg Sound,4,190.00,320.00
+76,76,Xtg Rad D3,4,489.00,700.00
+77,77,Xtg Rad D1,4,567.00,800.00
+78,78,Phone 4,4,1100.00,1900.00
+79,79,Phone 5,4,1900.00,2500.00
+80,80,Playstation 4,3,990.00,1980.00
+81,81,Playstation 3,3,590.00,980.00
+82,82,Sony W100,4,530.00,980.00
+83,83,Sony W200,4,900.00,1100.00
+84,84,Sony W500,4,780.00,1200.00
+85,85,Sony I7,5,1300.00,2500.00
+86,86,Sony I5,5,800.00,1800.00
+87,87,Desktop I3,5,986.00,1800.00
+88,88,Desktop I5,5,1020.00,2100.00
+89,89,Desktop 17,5,1800.00,2300.00
+90,90,Ipod Nano 16,5,110.00,300.00
+91,91,Ipod Nano 32,5,320.00,450.00
+92,92,Ipad Mini 16,5,790.00,1200.00
+93,93,Ipad 32,5,1300.00,1900.00
+94,94,Ipad 64,5,1700.00,2500.00
+95,95,Pendrive 32 Multilaser,5,25.00,50.00
+96,96,Pendrive 16,5,10.00,30.00
+97,97,Pendrive 64,5,45.00,80.00
+98,98,Pendrive 64 Ml,5,40.00,85.00
+99,99,Pendrive 256,5,190.00,240.00
+100,100,Pendrive 128 Crossair,5,98.00,137.00
+101,101,Pendrive 128,5,100.00,146.00
+102,102,Hd 1t Samsung,5,110.00,260.00
+103,103,Hd 2t Samsung,5,200.00,550.00
+104,104,Hd 3t Samsung,5,300.00,700.00
+105,105,Hd 1t,5,150.00,290.00
+106,106,Hd 2t,5,300.00,650.00
+107,107,Hd 3t,5,390.00,760.00
+108,108,Desktop P5 Ml,5,950.00,1400.00
+109,109,Desktop A5 Ml,5,890.00,1300.00
+110,110,Desktop P5 Ph,5,980.00,1400.00
+111,111,Desktop A5 Ph,5,700.00,1300.00
+112,112,Desktop A5 Hp,5,890.00,1300.00
+113,113,Desktop P5 Hp,5,980.00,1400.00
+114,114,Desktop A5 Hp,5,700.00,1300.00
+115,115,Notebook Hp C-34,5,1890.00,2300.00
+116,116,Notebook Hp One,5,1300.00,1870.00
+117,117,Notebook Hp Inove,5,2700.00,3300.00
+118,118,Notebook Sony Jk,5,1999.00,2800.00
+119,119,Notebook Sony 3d,5,2000.00,2500.00
+120,120,Notebook Sony Aws,5,2400.00,2750.00
+121,121,Notebook Msft Hibr,5,2999.00,4800.00
+122,122,Notebook Msft Touch,5,2800.00,3500.00
+123,123,Notebook Msft 17,5,2700.00,3100.00
+124,124,Notebook Acer 15,5,800.00,1500.00
+125,125,Notebook Acer 17,5,1700.00,2100.00
+126,126,Notebook Ln 15,5,800.00,1500.00
+127,127,Notebook Ln 17,5,1700.00,2100.00
+128,128,Tablet 7 Lenovo,5,450.00,600.00
+129,129,Tablet 10 Lenovo,5,650.00,800.00
+130,130,Mp4 32 Gb Sony,5,120.00,240.00
+131,131,Pc Dual Core,5,890.00,1350.00
+132,132,Galaxy Tab 10,5,750.00,2300.00
+133,133,Galaxy Note,5,1542.00,2900.00
+134,134,Roteador Wireless,5,38.00,90.00
+135,135,Roteador 18 Portas,5,110.00,300.00
+136,136,Adaptador Wireless,5,60.00,89.00
+137,137,Hub Switch 6 Portas,5,60.00,79.00
+138,138,Memoria Ddr 3 4gb,5,45.00,80.00
+139,139,Memoria Ddr 3 8gb,5,50.00,90.00
+140,140,Memoria Ddr 3 16gb,5,75.00,140.00
+141,141,Memoria Ddr 3 32gb,5,203.00,350.00
+142,142,Leitor De Cartoes,5,10.00,34.00
+143,143,Leitor De Cartoes Multilaser,5,11.00,24.00
+144,144,Cartao Sd 32 Gb Sandisk,5,15.00,32.00
+145,145,Cartao Sd 64 Gb Samsung,5,55.00,78.00
+146,146,Cartao Sd 128 Gb Sandisk,5,99.00,156.00
+147,147,Cartao Sd 32 Gb Sandisk,5,15.00,32.00
+148,148,Cartao Sd 64 Gb Samsung,5,55.00,78.00
+149,149,Cartao Sd 128 Gb Sandisk,5,99.00,156.00
+150,150,Placa De Som,5,130.00,290.00
+151,151,Combo Teclado E Mouse,5,120.00,310.00
+152,152,Teclado Wireless Multilaser,5,90.00,120.00
+153,153,Mouse Optico,5,51.00,89.00
+154,154,Combo Teclado E Mouse,5,89.00,130.00
+155,155,Teclado Wireless,5,70.00,89.00
+156,156,Mouse Optico,5,41.00,59.00
+157,157,Mochila Notebook 14 Pol,5,61.00,89.00
+158,158,Mochila Notebook 15.6 Pol,5,81.00,109.00
+159,159,Mochila Notebook 17 Pol,5,91.00,139.00
+160,160,Tv Led 42 Sony,6,1420.00,2000.00
+161,161,Tv Led 32 Sony,6,750.00,1000.00
+162,162,Tv Led 50 Sony,6,2465.00,3200.00
+163,163,Tv Led 60 Sony,6,3051.00,3900.00
+164,164,Tv Led 42 Lg,6,1620.00,2000.00
+165,165,Tv Led 32 Lg,6,850.00,1100.00
+166,166,Tv Led 50 Lg,6,2900.00,3100.00
+167,167,Tv Led 55 Lg,6,3050.00,3900.00
+168,168,Tv Led 42 Samsung,6,1354.00,2200.00
+169,169,Tv Led 32 Samsung,6,763.00,1210.00
+170,170,Tv Led 50 Samsung,6,2900.00,3300.00
+171,171,Tv Led 60 Samsung,6,3000.00,3800.00
+172,172,Tv Plasma Philips 42,6,980.00,1200.00
+173,173,Tv Led 42 Cce,6,800.00,1600.00
+174,174,Home Theater Lg,6,100.00,230.00
+175,175,Home Theater Panasonic,6,150.00,245.00
+176,176,Smart Tv Philips 46,6,2500.00,3199.00
+177,177,Smart Tv Samsung 52,6,3800.00,4300.00
+178,178,Smart Tv Panasonic 46,6,2500.00,3099.00
+179,179,Smart Tv Panasonic 52,6,3800.00,4200.00
+180,180,Smart Tv Panasonic 32,6,700.00,1099.00
+181,181,Smart Tv Panasonic 42,6,1800.00,2200.00
+182,182,Tv 3d Philips 42,6,3201.00,3800.00
+183,183,Tv 3d Sony 42,6,2684.00,3100.00
+184,184,Lavadora Lg 10l,7,2186.00,2800.00
+185,185,Geladeira Brastemp,7,2463.00,3000.00
+186,186,Microondas Brastemp,7,412.00,600.00
+187,187,Lavadora Ganca 10l,7,5020.00,5400.00
+188,188,Chapa A Gas Ganca,7,985.00,1800.00
+189,189,Panificadora Britania,7,130.00,250.00
+190,190,Grill Geroge Foreman,7,210.00,250.00
+191,191,Mixer Wallita,7,98.00,160.00
+192,192,Mixer Britania,7,68.00,90.00
+193,193,Liquidificador Wallita,7,75.00,90.00
+194,194,Liquidificador Arno,7,72.00,87.00
+195,195,Batedeira Brastemp,7,95.00,120.00
+196,196,Juicer Wallita,7,367.00,450.00
+197,197,Juicer Arno,7,367.00,450.00
+198,198,Juicer Cce,7,347.00,430.00
+199,199,Centrifuga Arno,7,2030.00,2800.00
+200,200,Freezer 300l Brastemp,7,986.00,1800.00
+201,201,Lava Loucas Brastemp,7,2945.00,3500.00
+202,202,Lava Loucas Cce,7,2745.00,3600.00
+203,203,Mesa 4 Lugares,8,823.00,1000.00
+204,204,Cadeira De Ferro,8,160.00,300.00
+205,205,Mesa Jantar 6 Lugares,8,1900.00,2500.00
+206,206,Rack Tv Mogno,8,1087.00,1500.00
+207,207,Armario Cozinha 6 Portas,8,2030.00,2500.00
+208,208,Conjunto De Sofa,8,2954.00,3500.00
+209,209,Mesa De Centro,8,350.00,500.00
+210,210,Cama Solteiro,8,256.00,600.00
+211,211,Cama Casal,8,752.00,1000.00
+212,212,Sao Paulo / Recife,9,300.00,360.00
+213,213,Sao Paulo / Goiania,9,360.00,400.00
+214,214,Sao Paulo / Salvador,9,400.00,450.00
+215,215,Sao Paulo / Rio De Janeiro,9,180.00,230.00
+216,216,Sao Paulo / Belo Horizonte,9,200.00,250.00
+217,217,Sao Paulo / Buenos Aires,9,1000.00,1090.00
+218,218,Sao Paulo / Lima,9,1830.00,1900.00
+219,219,Sao Paulo / Miami,9,2156.00,2300.00
+220,220,Sao Paulo / Madrid,9,2350.00,2700.00
+221,221,Sao Paulo / Roma,9,2400.00,2800.00
+222,222,Sao Paulo / Curitiba,9,260.00,300.00
+223,223,Sao Paulo / Londrina,9,280.00,310.00
+224,224,Rio De Janeiro / Campinas,9,210.00,250.00
+225,225,Rio De Janeiro / Lima,9,1570.00,1900.00
+226,226,Rio De Janeiro / Recife,9,500.00,560.00
+227,227,Rio De Janeiro / Curitiba,9,400.00,450.00
+228,228,Rio De Janeiro / Londrina,9,390.00,430.00
+229,229,Rio De Janeiro / Madrid,9,1623.00,1800.00
+230,230,Rio De Janeiro / Paris,9,1980.00,2300.00
+231,231,Rio De Janeiro / Miami,9,1763.00,1900.00
+232,232,Rio De Janeiro / New York,9,2354.00,2600.00
+233,58,Moto Z Play 3,4,900.00,1150.00
+234,233,Star Tack,4,200.00,1000.00
