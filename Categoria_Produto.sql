@@ -1,9 +1,9 @@
 SELECT * FROM dbo.categoria;
 
-'selecionar produtos com preços acima da média.'
+--selecionar produtos com preços acima da média.
 SELECT * FROM dbo.produto WHERE VALOR_UNITARIO > (SELECT AVG(VALOR_UNITARIO) FROM dbo.produto);
 
-'inner join produto categoria'
+--inner join produto categoria
 SELECT
     p.NOME AS produto,
     p.CUSTO_MEDIO AS custo_medio,
