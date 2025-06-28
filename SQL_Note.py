@@ -5,13 +5,13 @@
 # 
 # New notebook
 
-# In[70]:
+# In[1]:
 
 
 pip install plotly
 
 
-# In[71]:
+# In[2]:
 
 
 import pandas as pd
@@ -20,40 +20,40 @@ import plotly.graph_objects as go
 from pyspark.sql import SparkSession
 
 
-# In[72]:
+# In[3]:
 
 
 categoria = spark.sql("SELECT * FROM LakeHouse_Murilo.categoria LIMIT 1000")
 display(categoria)
 
 
-# In[73]:
+# In[4]:
 
 
 produto = spark.sql("SELECT * FROM LakeHouse_Murilo.produto LIMIT 1000")
 display(produto)
 
 
-# In[74]:
+# In[5]:
 
 
 df_categoria_pandas = categoria.toPandas()
 df_produto_pandas = produto.toPandas()
 
 
-# In[75]:
+# In[6]:
 
 
 df_categoria_pandas.head()
 
 
-# In[76]:
+# In[7]:
 
 
 df_produto_pandas.head()
 
 
-# In[77]:
+# In[8]:
 
 
 # The command is not a standard IPython magic command. It is designed for use within Fabric notebooks only.
@@ -69,7 +69,7 @@ df_produto_pandas.head()
 #     categoria c ON p.ID_CATEGORIA = c.IDCATEGORIA;
 
 
-# In[78]:
+# In[9]:
 
 
 # Realize o merge (join) com base nas colunas relacionais
@@ -93,7 +93,7 @@ df_join.rename(columns={
 display(df_join[['Produto', 'Categoria', 'Custo Médio', 'Valor Unitário']].head(300))
 
 
-# In[79]:
+# In[10]:
 
 
 # Realize o merge (join) com base nas colunas relacionais
@@ -110,7 +110,7 @@ df_join2 = pd.merge(
 df_join2.head(300)
 
 
-# In[80]:
+# In[11]:
 
 
 join = {
@@ -123,7 +123,7 @@ join_view = pd.DataFrame(join)
 join_view.head(300)
 
 
-# In[81]:
+# In[12]:
 
 
 # Criar gráfico de dispersão
@@ -145,21 +145,49 @@ fig = px.scatter(
 fig.show()
 
 
-# In[89]:
+# In[24]:
 
 
-df_join.to_csv('Categorias.csv', sep=';')
+type(df_join)
 
 
-# In[90]:
+# In[83]:
 
 
-#1 Criar DataFrame Spark
+# Inicia uma sessão Spark (se ainda não tiver uma)
 spark = SparkSession.builder.getOrCreate()
-df_spark = spark.createDataFrame(df_join)
 
-caminho_da_tabela = "Tables/Dispersao.csv"
-df_spark.write.mode("overwrite").option("header", "true").csv(caminho_da_tabela)
+# Converte o pandas DataFrame para Spark DataFrame
+spark_df_join = spark.createDataFrame(df_join)
+
+# Agora você pode usar .write
+spark_df_join.write.format("csv").option("header", "true").mode("overwrite").save("Tables/Categorias_Produtos.csv")
+
+
+# In[79]:
+
+
+spark.sql("CREATE TABLE IF NOT EXISTS Categorias_Produtos USING DELTA LOCATION 'Files/Categorias_Produtos'")
+
+
+# In[74]:
+
+
+df_join = produto.alias("p") \
+    .join(
+        categoria.alias("c"),
+        on=produto.ID_CATEGORIA == categoria.IDCATEGORIA,
+        how="inner"
+    ) \
+    .select(
+        produto.NOME.alias("produto"),
+        produto.CUSTO_MEDIO.alias("custo_medio"),
+        produto.VALOR_UNITARIO.alias("valor_unitario"),
+        categoria.NOME.alias("categoria")
+    )
+
+# Mostrar resultados
+df_join.show(300)
 
 
 # 
