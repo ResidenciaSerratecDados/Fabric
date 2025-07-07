@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Note_IBGE_Murilo Copy
+# ## Note_IBGE_Murilo
 # 
 # New notebook
 
-# In[66]:
+# In[24]:
 
 
 import pandas as pd
@@ -13,23 +13,24 @@ from pyspark.sql import SparkSession
 import pyspark.pandas as ps
 from pyspark.sql import functions as F
 from pyspark.sql.types import FloatType
+import numpy as np
 
 
-# In[ ]:
+# In[3]:
 
 
 df = spark.sql("SELECT * FROM LakeHouse_IBGE_Murilo.petropolis_setores LIMIT 1000")
 display(df)
 
 
-# In[38]:
+# In[4]:
 
 
 df_geral = spark.sql("SELECT * FROM LakeHouse_IBGE_Murilo.setoresbasicos")
 display(df_geral)
 
 
-# In[48]:
+# In[5]:
 
 
 # Filtrando o DataFrame para incluir apenas os registros de Petrópolis
@@ -39,7 +40,7 @@ df_petropolis = df_geral.filter(df_geral["NM_MUN"] == "Petrópolis")
 display(df_petropolis)
 
 
-# In[61]:
+# In[6]:
 
 
 df_petropolis_pd = df_petropolis.toPandas()
@@ -50,14 +51,14 @@ df_petropolis_pd.to_csv(
 )
 
 
-# In[63]:
+# In[7]:
 
 
 df_pet22 = spark.sql("SELECT * FROM LakeHouse_IBGE_Murilo.petropolis_setores LIMIT 1000")
 display(df_pet22)
 
 
-# In[69]:
+# In[8]:
 
 
 #renomear colunas e converter para float as colunas
@@ -76,7 +77,7 @@ display(df_pet22)
 '''
 
 
-# In[70]:
+# In[9]:
 
 
 #Listar as comunidades
@@ -84,7 +85,7 @@ fcu_set = df_pet22.select(F.collect_set("NM_FCU").alias("fcu_list")).first()["fc
 print(fcu_set)
 
 
-# In[76]:
+# In[10]:
 
 
 df_sum = df_pet22.groupBy("NM_FCU") \
@@ -95,7 +96,39 @@ df_sorted = df_sum.orderBy(F.col("Residentes").desc())
 display(df_sorted)
 
 
-# In[78]:
+# In[11]:
+
+
+#Cálculo Demanda
+#Q = n * p * q
+
+#Q = demanda (metade de moradores * preço) = 100 * Q/2
+#Q = 50 Q
+#n = número de compradores
+#p = preço médio
+#q = quantidade média de compradores por ano
+
+#Se n for maior que 150, tem potencial para o curso de idiomas
+#n = Q/(p * q) = 50Q/(100 * 150)
+#n = Q/300
+
+
+# In[33]:
+
+
+# Converte DataFrame Spark para pandas
+comunidade = df_sorted.toPandas()
+
+# Calcula o potencial
+comunidade['Potencial'] = (comunidade['Residentes'] / 300).round(0)
+#Situação de demanda
+comunidade['Classificacao'] = np.where(comunidade['Potencial'] >= 50, 'SIM', 'NÃO')
+
+# Exibe o resultado
+display(comunidade)
+
+
+# In[13]:
 
 
 #Listar os aglomerados
@@ -103,7 +136,7 @@ fcu_aglom = df_pet22.select(F.collect_set("NM_AGLOM").alias("fcu_aglom")).first(
 print(fcu_aglom)
 
 
-# In[80]:
+# In[14]:
 
 
 df_sum2 = df_pet22.groupBy("NM_AGLOM") \
@@ -114,7 +147,22 @@ df_sorted2 = df_sum2.orderBy(F.col("Residentes").desc())
 display(df_sorted2)
 
 
-# In[81]:
+# In[32]:
+
+
+# Converte DataFrame Spark para pandas
+aglomerado = df_sorted2.toPandas()
+
+# Calcula o potencial
+aglomerado['Potencial'] = (aglomerado['Residentes'] / 300).round(0)
+#Situação de demanda
+aglomerado['Classificacao'] = np.where(aglomerado['Potencial'] >= 50, 'SIM', 'NÃO')
+
+# Exibe o resultado
+display(aglomerado)
+
+
+# In[15]:
 
 
 #Listar os DISTRITOS
@@ -122,7 +170,7 @@ fcu_dist = df_pet22.select(F.collect_set("NM_DIST").alias("fcu_dist")).first()["
 print(fcu_dist)
 
 
-# In[82]:
+# In[16]:
 
 
 df_sum3 = df_pet22.groupBy("NM_DIST") \
@@ -133,13 +181,32 @@ df_sorted3 = df_sum3.orderBy(F.col("Residentes").desc())
 display(df_sorted3)
 
 
+# In[31]:
+
+
+# Converte DataFrame Spark para pandas
+distrito = df_sorted3.toPandas()
+
+# Calcula o potencial
+distrito['Potencial'] = (distrito['Residentes'] / 300).round(0)
+#Situação de demanda
+distrito['Classificacao'] = np.where(distrito['Potencial'] >= 50, 'SIM', 'NÃO')
+
+# Exibe o resultado
+display(distrito)
+
+
+# In[17]:
+
+
+df800 = spark.sql("SELECT * FROM LakeHouse_IBGE_Murilo.petropolis300 LIMIT 1000")
+display(df800)
+
+
 # In[ ]:
 
 
 #CÁCULO DA DEMANDA:
 #https://pt.slideshare.net/slideshow/clculo-de-demanda/59396535#4
 #Ver o potencial para abrir curso de imgles por local
-
-#Criar Pipeline
-#Conectar Fabric com GitHub
 
