@@ -1,4 +1,4 @@
-﻿index;Publishing Year;Book Name;Author;language_code;Author_Rating;Book_average_rating;Book_ratings_count;genre;gross sales;publisher revenue;sale price;sales rank;Publisher ;units sold
+index;Publishing Year;Book Name;Author;language_code;Author_Rating;Book_average_rating;Book_ratings_count;genre;gross sales;publisher revenue;sale price;sales rank;Publisher ;units sold
 0;1975.0;Beowulf;Unknown, Seamus Heaney;en-US;Novice;3.42;155903;genre fiction;34160.0;20496.0;4.88;1;HarperCollins Publishers;7000
 1;1987.0;Batman: Year One;Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil;eng;Intermediate;4.23;145267;genre fiction;12437.5;7462.5;1.99;2;HarperCollins Publishers;6250
 2;2015.0;Go Set a Watchman;Harper Lee;eng;Novice;3.31;138669;genre fiction;47795.0;28677.0;8.69;3;Amazon Digital Services,  Inc.;5500
@@ -53,19 +53,19 @@
 51;1997.0;Rich Dad , Poor Dad;Robert T. Kiyosaki;eng;Intermediate;3.95;153764;genre fiction;1705.77;1.023.462;0.99;53;Random House LLC;1723
 52;2011.0;Silence ;Becca Fitzpatrick;eng;Intermediate;4.16;190722;genre fiction;8517.93;0.0;4.99;54;Amazon Digital Services,  Inc.;1707
 53;2009.0;The Magicians;Lev Grossman;eng;Novice;3.47;147908;genre fiction;1675.08;1.005.048;0.99;55;Macmillan;1692
-54;2004.0;Ã£Æ’â€¡Ã£â€šÂ¹Ã£Æ’Å½Ã£Æ’Â¼Ã£Æ’Ë† #1 (Desu NÃ…Âto) Taikutsu (Ã©â‚¬â‚¬Ã¥Â±Ë†);Tsugumi Ohba, Takeshi Obata;eng;Famous;4.42;139501;genre fiction;6687.24;0.0;3.99;56;Amazon Digital Services,  Inc.;1676
+54;2004.0;ãƒ‡ã‚¹ãƒŽãƒ¼ãƒˆ #1 (Desu NÅto) Taikutsu (é€€å±ˆ);Tsugumi Ohba, Takeshi Obata;eng;Famous;4.42;139501;genre fiction;6687.24;0.0;3.99;56;Amazon Digital Services,  Inc.;1676
 55;2003.0;A Great and Terrible Beauty;Libba Bray;eng;Intermediate;3.79;173613;genre fiction;4966.39;2.979.834;2.99;57;Penguin Group (USA) LLC;1661
 56;2002.0;Everything Is Illuminated;Jonathan Safran Foer;eng;Intermediate;3.9;131492;genre fiction;1629.54;977.724;0.99;58;Amazon Digital Services,  Inc.;1646
 57;1986.0;The Bourne Supremacy;Robert Ludlum;en-US;Intermediate;4.09;142168;genre fiction;17783.3;10669.98;10.91;59;Penguin Group (USA) LLC;1630
 58;2012.0;Easy;Tammara Webber;en-CA;Intermediate;4.11;133937;genre fiction;1613.7;0.0;0.99;59;Amazon Digital Services,  Inc.;1630
 59;1849.0;David Copperfield;Charles Dickens, Jeremy Tambling;eng;Intermediate;3.96;150512;genre fiction;18394.85;11036.91;11.39;60;Hachette Book Group;1615
 60;2007.0;The Absolutely True Diary of a Part-Time Indian;Sherman Alexie, Ellen Forney;eng;Intermediate;4.11;160607;genre fiction;10384.0;6230.4;6.49;61;Random House LLC;1600
-61;1967.0;ÃÅ“ÃÂ°Ã‘ÂÃ‘â€šÃÂµÃ‘â‚¬ ÃÂ¸ ÃÅ“ÃÂ°Ã‘â‚¬ÃÂ³ÃÂ°Ã‘â‚¬ÃÂ¸Ã‘â€šÃÂ°;Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer;eng;Intermediate;4.32;131389;genre fiction;6320.16;0.0;3.99;62;Amazon Digital Services,  Inc.;1584
+61;1967.0;ÐœÐ°ÑÑ‚ÐµÑ€ Ð¸ ÐœÐ°Ñ€Ð³Ð°Ñ€Ð¸Ñ‚Ð°;Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer;eng;Intermediate;4.32;131389;genre fiction;6320.16;0.0;3.99;62;Amazon Digital Services,  Inc.;1584
 62;1968.0;A Wizard of Earthsea;Ursula K. Le Guin;en-US;Intermediate;3.99;155042;genre fiction;4707.0;0.0;3.0;63;Amazon Digital Services,  Inc.;1569
 63;2000.0;Because of Winn-Dixie;Kate DiCamillo, Chris Sheban;eng;Intermediate;4.0;154476;genre fiction;1522.62;0.0;0.99;65;Amazon Digital Services,  Inc.;1538
 64;1959.0;A Separate Peace;John Knowles;en-US;Intermediate;3.56;155901;genre fiction;5924.47;0.0;3.89;66;Amazon Digital Services,  Inc.;1523
 65;1995.0;The Rainmaker;John Grisham;eng;Intermediate;3.91;137412;genre fiction;12040.93;0.0;7.99;67;Amazon Digital Services,  Inc.;1507
-66;1605.0;Don Quijote de La Mancha;Miguel de Cervantes Saavedra, Roberto GonzÃƒÂ¡lez EchevarrÃƒÂ­a, John Rutherford;eng;Intermediate;3.85;134931;genre fiction;13413.08;8.047.848;8.99;68;Hachette Book Group;1492
+66;1605.0;Don Quijote de La Mancha;Miguel de Cervantes Saavedra, Roberto GonzÃ¡lez EchevarrÃ­a, John Rutherford;eng;Intermediate;3.85;134931;genre fiction;13413.08;8.047.848;8.99;68;Hachette Book Group;1492
 67;1995.0;Assassin's Apprentice;Robin Hobb;eng;Intermediate;4.14;132777;genre fiction;2907.39;0.0;1.99;70;Amazon Digital Services,  Inc.;1461
 68;1980.0;The Restaurant at the End of the Universe;Douglas Adams;eng;Intermediate;4.22;153838;genre fiction;11553.54;6.932.124;7.99;71;Penguin Group (USA) LLC;1446
 69;2010.0;Torment;Lauren Kate;eng;Intermediate;3.89;174393;genre fiction;5705.7;0.0;3.99;72;Amazon Digital Services,  Inc.;1430
@@ -82,7 +82,7 @@
 80;1977.0;The Silmarillion;J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith;eng;Intermediate;3.87;134106;genre fiction;6447.08;3.868.248;4.99;81;Random House LLC;1292
 81;1987.0;The Drawing of the Three;Stephen King;eng;Intermediate;4.23;139052;nonfiction;2539.24;1.523.544;1.99;82;HarperCollins Publishers;1276
 82;2008.0;The Forgotten Garden;Kate Morton;en-GB;Intermediate;4.12;138377;genre fiction;4907.7;0.0;3.99;85;Amazon Digital Services,  Inc.;1230
-83;1925.0;Der ProzeÃƒÅ¸;Franz Kafka, Edwin Muir, Willa Muir, Max Brod;eng;Intermediate;3.98;131856;genre fiction;1202.85;0.0;0.99;86;Amazon Digital Services,  Inc.;1215
+83;1925.0;Der ProzeÃŸ;Franz Kafka, Edwin Muir, Willa Muir, Max Brod;eng;Intermediate;3.98;131856;genre fiction;1202.85;0.0;0.99;86;Amazon Digital Services,  Inc.;1215
 84;2002.0;This Lullaby;Sarah Dessen;eng;Intermediate;4.03;151829;genre fiction;2417.85;1450.71;1.99;86;HarperCollins Publishers;1215
 85;2000.0;Plain Truth;Jodi Picoult;eng;Intermediate;3.97;128406;genre fiction;1188.0;0.0;0.99;87;Amazon Digital Services,  Inc.;1200
 86;2010.0;Orange Is the New Black: My Year in a Women's Prison;Piper Kerman;eng;Intermediate;3.7;127186;fiction;2388.0;0.0;1.99;87;Amazon Digital Services,  Inc.;1200
@@ -103,7 +103,7 @@
 101;2011.0;Shatter Me (Shatter Me, #1);Tahereh Mafi;en-US;Intermediate;4.01;176433;fiction;2195.2;1317.12;2.24;104;Amazon Digital Services,  Inc.;980
 102;1959.0;Starship Troopers;Robert A. Heinlein;en-CA;Intermediate;3.99;136886;genre fiction;7312.5;4387.5;7.5;105;Hachette Book Group;975
 103;2011.0;I've Got Your Number;Sophie Kinsella;eng;Intermediate;3.93;144533;genre fiction;960.3;0.0;0.99;106;Amazon Digital Services,  Inc.;970
-104;1991.0;Sofies Verden;Jostein Gaarder, Paulette MÃƒÂ¸ller;eng;Intermediate;3.88;109692;genre fiction;10224.0;6134.4;10.65;108;Penguin Group (USA) LLC;960
+104;1991.0;Sofies Verden;Jostein Gaarder, Paulette MÃ¸ller;eng;Intermediate;3.88;109692;genre fiction;10224.0;6134.4;10.65;108;Penguin Group (USA) LLC;960
 105;2011.0;;Mark Cotta Vaz;eng;Intermediate;4.3;188136;genre fiction;7670.4;4602.24;7.99;108;Penguin Group (USA) LLC;960
 106;1950.0;The Martian Chronicles;Ray Bradbury;en-US;Intermediate;4.12;143236;genre fiction;1880.55;0.0;1.99;111;Amazon Digital Services,  Inc.;945
 107;2010.0;A Visit From the Goon Squad;Jennifer Egan;eng;Intermediate;3.64;120126;genre fiction;4690.6;2814.36;4.99;112;Macmillan;940
@@ -117,11 +117,11 @@
 115;1390.0;Tales of Caunterbury;Geoffrey Chaucer, Nevill Coghill;eng;Novice;3.48;148480;genre fiction;891.0;0.0;0.99;120;Amazon Digital Services,  Inc.;900
 116;2006.0;Baby Proof;Emily Giffin;en-US;Intermediate;3.71;124371;nonfiction;5841.0;3504.6;6.49;120;Macmillan;900
 117;2011.0;Inheritance;Christopher Paolini;en-US;Intermediate;4.08;146905;nonfiction;10731.05;6438.63;11.99;121;Random House LLC;895
-118;2009.0;Ã£Ââ€žÃ£ÂÂ¡Ã£ÂÂÃ£â€šâ€¦Ã£Ââ€ Ã£ÂÂ¯Ã£ÂÂ¡Ã£â€šË†Ã£â€šâ€œ [Ichi-KyÃ…Â«-Hachi-Yon];Haruki Murakami, Jay Rubin, Philip Gabriel;eng;Intermediate;3.89;125195;genre fiction;2661.1;0.0;2.99;122;Amazon Digital Services,  Inc.;890
+118;2009.0;ã„ã¡ãã‚…ã†ã¯ã¡ã‚ˆã‚“ [Ichi-KyÅ«-Hachi-Yon];Haruki Murakami, Jay Rubin, Philip Gabriel;eng;Intermediate;3.89;125195;genre fiction;2661.1;0.0;2.99;122;Amazon Digital Services,  Inc.;890
 119;1852.0;Uncle Tom's Cabin or Life Among the Lowly;Harriet Beecher Stowe;eng;Intermediate;3.83;137858;fiction;1771.1;1062.66;1.99;122;HarperCollins Publishers;890
-120;1909.0;Le FantÃƒÂ´me de l'OpÃƒÂ©ra;Gaston Leroux, Alexander Teixeira de Mattos;eng;Intermediate;3.97;141110;genre fiction;3531.15;0.0;3.99;123;Amazon Digital Services,  Inc.;885
+120;1909.0;Le FantÃ´me de l'OpÃ©ra;Gaston Leroux, Alexander Teixeira de Mattos;eng;Intermediate;3.97;141110;genre fiction;3531.15;0.0;3.99;123;Amazon Digital Services,  Inc.;885
 121;2006.0;Definitely Dead (Sookie Stackhouse, #6);Charlaine Harris;en-US;Intermediate;4.02;163054;genre fiction;6525.0;3915.0;7.5;126;Simon and Schuster Digital Sales Inc;870
-122;1995.0;Ensaio Sobre a Cegueira;JosÃƒÂ© Saramago, Giovanni Pontiero;en-US;Intermediate;4.08;98738;genre fiction;3451.35;0.0;3.99;127;Amazon Digital Services,  Inc.;865
+122;1995.0;Ensaio Sobre a Cegueira;JosÃ© Saramago, Giovanni Pontiero;en-US;Intermediate;4.08;98738;genre fiction;3451.35;0.0;3.99;127;Amazon Digital Services,  Inc.;865
 123;2010.0;Freedom;Jonathan Franzen;en-US;Intermediate;3.73;119213;genre fiction;6871.4;4122.84;7.99;128;Random House LLC;860
 124;2011.0;Crossed;Ally Condie;eng;Intermediate;3.52;100886;genre fiction;841.5;504.9;0.99;130;Amazon Digital Services,  Inc.;850
 125;2006.0;I'd Tell You I Love You, But Then I'd Have to Kill You;Ally Carter;en-US;Intermediate;3.82;150222;genre fiction;10131.55;6078.93;11.99;131;Hachette Book Group;845
@@ -137,9 +137,9 @@
 135;2005.0;Anansi Boys;Neil Gaiman;eng;Intermediate;4.0;137639;nonfiction;1572.1;943.26;1.99;142;Amazon Digital Services,  Inc.;790
 136;2009.0;Along for the Ride;Sarah Dessen;eng;Intermediate;4.08;151721;genre fiction;9412.15;5647.29;11.99;143;Penguin Group (USA) LLC;785
 137;2014.0;Everything I Never Told You;Celeste Ng;eng;Intermediate;3.78;108703;genre fiction;3112.2;0.0;3.99;144;Amazon Digital Services,  Inc.;780
-138;1982.0;La casa de los espÃƒÂ­ritus;Isabel Allende, Magda Bogin;en-US;Intermediate;4.2;119930;genre fiction;8269.25;4961.55;10.67;145;Simon and Schuster Digital Sales Inc;775
+138;1982.0;La casa de los espÃ­ritus;Isabel Allende, Magda Bogin;en-US;Intermediate;4.2;119930;genre fiction;8269.25;4961.55;10.67;145;Simon and Schuster Digital Sales Inc;775
 139;1979.0;The Dead Zone;Stephen King;en-US;Intermediate;3.9;132723;genre fiction;1512.4;907.44;1.99;148;HarperCollins Publishers;760
-140;1920.0;The Mysterious Affair at Styles;Agatha Christie, ÃŽÂ¡ÃŽÂ¿ÃŽÂ¶ÃŽÂ¯Ãâ€žÃŽÂ± ÃŽÂ£ÃÅ½ÃŽÂºÃŽÂ¿Ãâ€¦;eng;Intermediate;3.98;135514;genre fiction;3012.45;0.0;3.99;149;Amazon Digital Services,  Inc.;755
+140;1920.0;The Mysterious Affair at Styles;Agatha Christie, Î¡Î¿Î¶Î¯Ï„Î± Î£ÏŽÎºÎ¿Ï…;eng;Intermediate;3.98;135514;genre fiction;3012.45;0.0;3.99;149;Amazon Digital Services,  Inc.;755
 141;1934.0;Murder in the Calais Coach;Agatha Christie;eng;Intermediate;4.16;138444;genre fiction;3742.5;0.0;4.99;150;Amazon Digital Services,  Inc.;750
 142;2013.0;Americanah;Chimamanda Ngozi Adichie;eng;Intermediate;4.26;113252;genre fiction;2992.5;0.0;3.99;150;Amazon Digital Services,  Inc.;750
 143;2001.0;Suzanne's Diary for Nicholas;James Patterson;eng;Intermediate;4.16;121398;genre fiction;3717.55;2230.53;4.99;151;Random House LLC;745
@@ -170,7 +170,7 @@
 168;1869.0;Vingt Mille Lieues Sous les Mers;Jules Verne, Anthony Bonner;eng;Intermediate;3.86;121112;genre fiction;3540.25;0.0;5.95;181;Amazon Digital Services,  Inc.;595
 169;2005.0;The Constant Princess;Philippa Gregory;en-US;Intermediate;3.88;124786;genre fiction;3564.05;2138.43;5.99;181;Penguin Group (USA) LLC;595
 170;1925.0;Mrs Dalloway;Virginia Woolf, Maureen Howard;en-US;Intermediate;3.78;136327;genre fiction;1174.1;704.46;1.99;182;Amazon Digital Services,  Inc.;590
-171;2009.0;HundraÃƒÂ¥ringen som klev ut genom fÃƒÂ¶nstret och fÃƒÂ¶rsvann;Jonas Jonasson, Rod Bradbury;en-GB;Intermediate;3.81;92275;genre fiction;5200.65;3120.39;8.89;183;Macmillan;585
+171;2009.0;HundraÃ¥ringen som klev ut genom fÃ¶nstret och fÃ¶rsvann;Jonas Jonasson, Rod Bradbury;en-GB;Intermediate;3.81;92275;genre fiction;5200.65;3120.39;8.89;183;Macmillan;585
 172;1998.0;Bag of Bones;Stephen King;en-US;Intermediate;3.87;131004;genre fiction;569.25;0.0;0.99;185;Amazon Digital Services,  Inc.;575
 173;1985.0;The Cider House Rules;John Irving;eng;Intermediate;4.1;124876;genre fiction;1134.3;0.0;1.99;186;Amazon Digital Services,  Inc.;570
 174;1984.0;Thinner;Richard Bachman, Stephen King;en-GB;Intermediate;3.66;130219;genre fiction;1659.45;0.0;2.99;189;Amazon Digital Services,  Inc.;555
@@ -188,7 +188,7 @@
 186;2012.0;;Kate Egan;en-US;Famous;4.51;119915;genre fiction;2950.91;1.770.546;6.01;205;HarperCollins Publishers;491
 187;1929.0;The Sound and the Fury;William Faulkner;eng;Intermediate;3.86;124665;genre fiction;2445.1;1467.06;4.99;206;Hachette Book Group;490
 188;2005.0;A New Earth: Awakening to Your Life's Purpose;Eckhart Tolle;eng;Intermediate;4.02;106211;genre fiction;483.12;289.872;0.99;207;Amazon Digital Services,  Inc.;488
-189;2002.0;BLEACHÃ¢â‚¬â€¢Ã£Æ’â€“Ã£Æ’ÂªÃ£Æ’Â¼Ã£Æ’ÂÃ¢â‚¬â€¢Ã£â‚¬â‚¬1;Tite Kubo;eng;Intermediate;4.21;120004;fiction;2605.92;1.563.552;5.34;207;Penguin Group (USA) LLC;488
+189;2002.0;BLEACHâ€•ãƒ–ãƒªãƒ¼ãƒâ€•ã€€1;Tite Kubo;eng;Intermediate;4.21;120004;fiction;2605.92;1.563.552;5.34;207;Penguin Group (USA) LLC;488
 190;2013.0;;Allie Brosh;eng;Intermediate;4.17;118910;genre fiction;5269.53;3.161.718;10.91;210;Penguin Group (USA) LLC;483
 191;1992.0;The Shadow Rising ;Robert Jordan;en-US;Intermediate;4.21;122524;nonfiction;2057.58;1.234.548;4.26;210;HarperCollins Publishing;483
 192;2003.0;Shantaram;Gregory David Roberts;eng;Intermediate;4.26;95213;genre fiction;476.19;0.0;0.99;211;Amazon Digital Services,  Inc.;481
@@ -240,7 +240,7 @@
 238;1894.0;The Complete Sherlock Holmes;Arthur Conan Doyle;eng;Famous;4.5;109754;genre fiction;3180.02;1.908.012;7.99;261;Penguin Group (USA) LLC;398
 239;1599.0;The Tragedy of Julius Caesar;William Shakespeare, Roma Gill;eng;Intermediate;3.65;119933;genre fiction;392.04;235.224;0.99;262;Amazon Digital Services,  Inc.;396
 240;2011.0;In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin;Erik Larson;eng;Intermediate;3.81;110481;genre fiction;392.04;235.224;0.99;262;Amazon Digital Services,  Inc.;396
-241;-380.0;ÃŽÂ ÃŽÂ¿ÃŽÂ»ÃŽÂ¹Ãâ€žÃŽÂµÃŽÂ¯ÃŽÂ±;Plato, Desmond Lee;eng;Intermediate;3.9;110274;genre fiction;387.09;232.254;0.99;265;Amazon Digital Services,  Inc.;391
+241;-380.0;Î Î¿Î»Î¹Ï„ÎµÎ¯Î±;Plato, Desmond Lee;eng;Intermediate;3.9;110274;genre fiction;387.09;232.254;0.99;265;Amazon Digital Services,  Inc.;391
 242;1593.0;The Taming of the Shrew;William Shakespeare;en-US;Intermediate;3.81;126318;nonfiction;2726.1;1635.66;6.99;266;Hachette Book Group;390
 243;2014.0;Cress;Marissa Meyer;eng;Famous;4.46;162069;nonfiction;1154.14;692.484;2.99;268;Macmillan;386
 244;2010.0;Just Kids;Patti Smith;en-US;Intermediate;4.14;106542;genre fiction;766.15;459.69;1.99;269;Random House LLC;385
@@ -260,7 +260,7 @@
 258;1952.0;Foundation and Empire;Isaac Asimov;eng;Intermediate;4.2;105595;genre fiction;1094.34;0.0;2.99;280;Amazon Digital Services,  Inc.;366
 259;1997.0;The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book;Miguel Ruiz;;Intermediate;4.12;97016;genre fiction;4388.34;2.633.004;11.99;280;Penguin Group (USA) LLC;366
 260;2010.0;House Rules;Jodi Picoult;en-US;Intermediate;4.01;111239;nonfiction;4084.35;2450.61;11.19;281;HarperCollins Publishers;365
-261;1812.0;BrÃƒÂ¼der Grimm: Kinder- und HausmÃƒÂ¤rchen;Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern;eng;Intermediate;4.31;116324;genre fiction;1811.37;0.0;4.99;282;Amazon Digital Services,  Inc.;363
+261;1812.0;BrÃ¼der Grimm: Kinder- und HausmÃ¤rchen;Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern;eng;Intermediate;4.31;116324;genre fiction;1811.37;0.0;4.99;282;Amazon Digital Services,  Inc.;363
 262;1967.0;From the Mixed-Up Files of Mrs. Basil E. Frankweiler;E.L. Konigsburg;eng;Intermediate;4.15;134537;genre fiction;1085.37;651.222;2.99;282;Amazon Digital Services,  Inc.;363
 263;2013.0;Doctor Sleep;Stephen King;eng;Intermediate;4.1;95276;genre fiction;357.39;214.434;0.99;283;Amazon Digital Services,  Inc.;361
 264;1998.0;About a Boy;Nick Hornby;en-US;Intermediate;3.79;101999;genre fiction;1079.39;647.634;2.99;283;Penguin Group (USA) LLC;361
@@ -271,14 +271,14 @@
 269;1902.0;The Story of My Life;Helen Keller;eng;Intermediate;4.07;107313;nonfiction;347.49;208.494;0.99;289;Amazon Digital Services,  Inc.;351
 270;2009.0;This Is Where I Leave You;Jonathan Tropper;eng;Intermediate;3.88;98645;genre fiction;346.5;0.0;0.99;290;Amazon Digital Services,  Inc.;350
 271;2010.0;Abraham Lincoln: Vampire Hunter;Seth Grahame-Smith;en-US;Intermediate;3.7;106336;genre fiction;344.52;0.0;0.99;291;Amazon Digital Services,  Inc.;348
-272;1999.0;Ã£Æ’â€¢Ã£Æ’Â«Ã£Æ’Â¼Ã£Æ’â€žÃ£Æ’ÂÃ£â€šÂ¹Ã£â€šÂ±Ã£Æ’Æ’Ã£Æ’Ë† 1;Natsuki Takaya, Alethea Nibley, Athena Nibley;eng;Intermediate;4.23;118467;nonfiction;1031.55;618.93;2.99;293;Simon and Schuster Digital Sales Inc;345
+272;1999.0;ãƒ•ãƒ«ãƒ¼ãƒ„ãƒã‚¹ã‚±ãƒƒãƒˆ 1;Natsuki Takaya, Alethea Nibley, Athena Nibley;eng;Intermediate;4.23;118467;nonfiction;1031.55;618.93;2.99;293;Simon and Schuster Digital Sales Inc;345
 273;1623.0;The Tempest;William Shakespeare;en-US;Intermediate;3.8;125178;genre fiction;1025.57;0.0;2.99;294;Amazon Digital Services,  Inc.;343
 274;2010.0;Burned: A House of Night Novel;P.C. Cast, Kristin Cast;eng;Intermediate;3.98;120763;genre fiction;1019.59;0.0;2.99;295;Amazon Digital Services,  Inc.;341
 275;1997.0;Wizard and Glass;Stephen King, Dave McKean;eng;Intermediate;4.24;105026;fiction;1019.59;611.754;2.99;295;Simon and Schuster Digital Sales Inc;341
 276;2013.0;The Circle;Dave Eggers;eng;Novice;3.46;109412;genre fiction;3872.6;2323.56;11.39;296;Penguin Group (USA) LLC;340
 277;2007.0;The Invention of Hugo Cabret;Brian Selznick;eng;Intermediate;4.23;132159;genre fiction;1686.62;0.0;4.99;297;Amazon Digital Services,  Inc.;338
 278;1932.0;Brave New World/Brave New World Revisited;Aldous Huxley, Christopher Hitchens;eng;Intermediate;4.16;108124;genre fiction;1676.64;0.0;4.99;298;Amazon Digital Services,  Inc.;336
-279;2003.0;Ã¦Â¡Å“Ã¨ËœÂ­Ã©Â«ËœÃ¦Â Â¡Ã£Æ’â€ºÃ£â€šÂ¹Ã£Æ’Ë†Ã©Æ’Â¨ 1;Bisco Hatori;eng;Excellent;4.36;113881;genre fiction;666.65;399.99;1.99;299;HarperCollins Publishers;335
+279;2003.0;æ¡œè˜­é«˜æ ¡ãƒ›ã‚¹ãƒˆéƒ¨ 1;Bisco Hatori;eng;Excellent;4.36;113881;genre fiction;666.65;399.99;1.99;299;HarperCollins Publishers;335
 280;2014.0;The Good Girl;Mary Kubica;eng;Intermediate;3.81;100936;genre fiction;2620.72;1.572.432;7.99;303;Random House LLC;328
 281;2012.0;Fallen Too Far (Too Far, #1);Abbi Glines;eng;Excellent;4.21;138871;genre fiction;2875.32;1.725.192;8.82;304;Penguin Group (USA) LLC;326
 282;2014.0;Landline;Rainbow Rowell;eng;Intermediate;3.55;113805;genre fiction;1300.74;0.0;3.99;304;Amazon Digital Services,  Inc.;326
@@ -292,7 +292,7 @@
 290;2010.0;The Best of Me;Nicholas Sparks;en-US;Intermediate;3.91;103915;genre fiction;307.89;184.734;0.99;313;Amazon Digital Services,  Inc.;311
 291;2011.0;The Sense of an Ending;Julian Barnes;eng;Intermediate;3.7;94968;genre fiction;306.9;0.0;0.99;314;Amazon Digital Services,  Inc.;310
 292;1982.0;A is for Alibi;Sue Grafton;en-US;Intermediate;3.82;116026;genre fiction;616.9;370.14;1.99;314;Amazon Digital Services,  Inc.;310
-293;-430.0;ÃŽÅ¸Ã¡Â¼Â°ÃŽÂ´ÃŽÂ¯Ãâ‚¬ÃŽÂ¿Ãâ€¦Ãâ€š ÃŽÂ¤ÃÂÃÂÃŽÂ±ÃŽÂ½ÃŽÂ½ÃŽÂ¿Ãâ€š;Sophocles, J.E. Thomas;eng;Intermediate;3.67;119496;genre fiction;2460.92;1.476.552;7.99;315;Hachette Book Group;308
+293;-430.0;ÎŸá¼°Î´Î¯Ï€Î¿Ï…Ï‚ Î¤ÏÏÎ±Î½Î½Î¿Ï‚;Sophocles, J.E. Thomas;eng;Intermediate;3.67;119496;genre fiction;2460.92;1.476.552;7.99;315;Hachette Book Group;308
 294;2009.0;Shanghai Girls;Lisa See;eng;Intermediate;3.87;106729;nonfiction;2152.92;1.291.752;6.99;315;Penguin Group (USA) LLC;308
 295;1908.0;The Wind in the Willows;Kenneth Grahame, Gillian Avery;eng;Intermediate;3.98;124612;genre fiction;10327.3;6196.38;33.86;317;Penguin Group (USA) LLC;305
 296;2014.0;To All the Boys I've Loved Before;Jenny Han;eng;Excellent;4.11;136938;nonfiction;598.99;0.0;1.99;319;Amazon Digital Services,  Inc.;301
@@ -303,12 +303,12 @@
 301;1995.0;Naked in Death;J.D. Robb;en-US;Excellent;4.13;78028;genre fiction;1772.95;1063.77;6.01;323;HarperCollins Publishers;295
 302;1994.0;The Chamber;John Grisham;eng;Intermediate;3.76;102715;genre fiction;292.05;0.0;0.99;323;Amazon Digital Services,  Inc.;295
 303;2008.0;Midnight Sun (Partial Draft);Stephenie Meyer;eng;Excellent;4.03;138118;genre fiction;290.07;0.0;0.99;324;Amazon Digital Services,  Inc.;293
-304;1999.0;NARUTO -Ã£Æ’Å Ã£Æ’Â«Ã£Æ’Ë†- Ã¥Â·Â»Ã£Æ’Å½Ã¤Â¸â‚¬ ;Masashi Kishimoto, Katy Bridges;eng;Excellent;4.35;104633;nonfiction;288.09;172.854;0.99;325;HarperCollins Christian Publishing;291
+304;1999.0;NARUTO -ãƒŠãƒ«ãƒˆ- å·»ãƒŽä¸€ ;Masashi Kishimoto, Katy Bridges;eng;Excellent;4.35;104633;nonfiction;288.09;172.854;0.99;325;HarperCollins Christian Publishing;291
 305;2012.0;The Unlikely Pilgrimage of Harold Fry;Rachel Joyce;eng;Intermediate;3.89;94012;genre fiction;3694.6;2216.76;12.74;326;Hachette Book Group;290
 306;2012.0;Every Day;David Levithan;eng;Intermediate;3.99;121863;genre fiction;1149.12;689.472;3.99;327;Amazon Digital Services,  Inc.;288
 307;1991.0;Xenocide;Orson Scott Card;eng;Intermediate;3.77;104467;genre fiction;1707.15;1024.29;5.99;329;Simon and Schuster Digital Sales Inc;285
 308;1596.0;The Merchant of Venice;William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine;eng;Intermediate;3.78;115621;genre fiction;427.5;0.0;1.5;329;Amazon Digital Services,  Inc.;285
-309;1975.0;ShÃ…Âgun;James Clavell;eng;Excellent;4.37;104339;genre fiction;2071.56;1.242.936;7.32;330;Hachette Book Group;283
+309;1975.0;ShÅgun;James Clavell;eng;Excellent;4.37;104339;genre fiction;2071.56;1.242.936;7.32;330;Hachette Book Group;283
 310;2006.0;Lover Awakened (Black Dagger Brotherhood, #3);J.R. Ward;eng;Famous;4.45;134249;genre fiction;1412.17;847.302;4.99;330;Simon and Schuster Digital Sales Inc;283
 311;2015.0;A Court of Thorns and Roses;Sarah J. Maas;eng;Excellent;4.29;167848;nonfiction;3650.19;2.190.114;12.99;331;Amazon Digital Services,  Inc.;281
 312;2012.0;;E.L. James;;Excellent;4.13;76876;genre fiction;1387.22;0.0;4.99;333;Amazon Digital Services,  Inc.;278
@@ -336,8 +336,8 @@
 334;1978.0;Night Shift;Stephen King, John D. MacDonald;en-GB;Intermediate;3.96;104248;genre fiction;244.53;146.718;0.99;356;Amazon Digital Services,  Inc.;247
 335;1974.0;Jaws;Peter Benchley;eng;Intermediate;3.96;102574;genre fiction;1227.54;736.524;4.99;357;Simon and Schuster Digital Sales Inc;246
 336;2005.0;The History of Love;Nicole Krauss;eng;Intermediate;3.91;98379;genre fiction;977.55;0.0;3.99;359;Amazon Digital Services,  Inc.;245
-337;1945.0;Pippi LÃƒÂ¥ngstrump;Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn;eng;Excellent;4.11;123065;genre fiction;977.55;586.53;3.99;360;Amazon Digital Services,  Inc.;245
-338;2006.0;L'ÃƒÂ©lÃƒÂ©gance du hÃƒÂ©risson;Muriel Barbery, Alison Anderson;eng;Intermediate;3.73;101669;genre fiction;1698.57;1.019.142;6.99;363;Hachette Book Group;243
+337;1945.0;Pippi LÃ¥ngstrump;Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn;eng;Excellent;4.11;123065;genre fiction;977.55;586.53;3.99;360;Amazon Digital Services,  Inc.;245
+338;2006.0;L'Ã©lÃ©gance du hÃ©risson;Muriel Barbery, Alison Anderson;eng;Intermediate;3.73;101669;genre fiction;1698.57;1.019.142;6.99;363;Hachette Book Group;243
 339;2005.0;Team of Rivals: The Political Genius of Abraham Lincoln;Doris Kearns Goodwin, Suzanne Toren;eng;Excellent;4.3;102923;genre fiction;726.57;435.942;2.99;364;Amazon Digital Services,  Inc.;243
 340;2010.0;Dead in the Family;Charlaine Harris;en-US;Intermediate;3.88;127379;genre fiction;1494.45;896.67;6.15;364;Amazon Digital Services,  Inc.;243
 341;1947.0;La peste;Albert Camus, Stuart Gilbert;en-US;Intermediate;3.97;95803;genre fiction;965.58;0.0;3.99;366;Amazon Digital Services,  Inc.;242
@@ -361,7 +361,7 @@
 359;1953.0;;Isaac Asimov;eng;Excellent;4.23;96865;nonfiction;690.69;414.414;2.99;388;HarperCollins Publishers;6237
 360;2001.0;Fool Moon ;Jim Butcher;eng;Excellent;4.04;111371;genre fiction;687.7;412.62;2.99;389;Macmillan;6210
 361;2011.0;David and Goliath;Malcolm Gladwell;eng;Intermediate;3.9;90083;nonfiction;2509.3;1505.58;10.91;389;Random House LLC;6210
-362;2002.0;Ã©â€¹Â¼Ã£ÂÂ®Ã©Å’Â¬Ã©â€¡â€˜Ã¨Â¡â€œÃ¥Â¸Â« 1;Hiromu Arakawa, Akira Watanabe;eng;Famous;4.49;93990;genre fiction;226.71;0.0;0.99;391;Amazon Digital Services,  Inc.;6183
+362;2002.0;é‹¼ã®éŒ¬é‡‘è¡“å¸« 1;Hiromu Arakawa, Akira Watanabe;eng;Famous;4.49;93990;genre fiction;226.71;0.0;0.99;391;Amazon Digital Services,  Inc.;6183
 363;1989.0;Guards! Guards!;Terry Pratchett;eng;Excellent;4.32;108652;genre fiction;1142.71;0.0;4.99;392;Amazon Digital Services,  Inc.;6183
 364;2005.0;The Year of Magical Thinking;Joan Didion;eng;Intermediate;3.86;94590;genre fiction;909.72;0.0;3.99;393;Amazon Digital Services,  Inc.;6156
 365;2003.0;We Need to Talk About Kevin;Lionel Shriver;eng;Excellent;4.07;101343;genre fiction;5902.92;3.541.752;25.89;393;HarperCollins Publishers;6156
@@ -388,9 +388,9 @@
 386;2006.0;The Blade Itself;Joe Abercrombie;eng;Excellent;4.14;97501;genre fiction;1717.85;1030.71;7.99;419;Random House LLC;5805
 387;2002.0;The Arctic Incident;Eoin Colfer;eng;Intermediate;3.94;108031;nonfiction;642.85;385.71;2.99;420;Amazon Digital Services,  Inc.;5805
 388;1993.0;The Shipping News;Annie Proulx;eng;Intermediate;3.83;103151;genre fiction;1281.86;0.0;5.99;421;Amazon Digital Services,  Inc.;5778
-389;2011.0;Ã¤ÂºÂºÃ§â€Å¸Ã£ÂÅ’Ã£ÂÂ¨Ã£ÂÂÃ£â€šÂÃ£ÂÂÃ§â€°â€¡Ã£ÂÂ¥Ã£Ââ€˜Ã£ÂÂ®Ã©Â­â€Ã¦Â³â€¢;Marie KondÃ…Â, Cathy Hirano;eng;Intermediate;3.77;105063;genre fiction;849.87;509.922;3.99;423;Amazon Digital Services,  Inc.;5751
-390;2015.0;All the Bright Places;Jennifer Niven, Ã™ÂÃ˜Â±Ã˜Â§Ã™â€ ÃšÂ© Ã™â€¦Ã˜Â¹Ã™â€ Ã™Ë†Ã›Å’;eng;Excellent;4.19;132087;genre fiction;423.87;254.322;1.99;423;HarperCollins Publishers;5751
-391;1997.0;DÃƒÂ©jÃƒÂ  Dead;Kathy Reichs;eng;Intermediate;3.86;100369;genre fiction;1062.87;637.722;4.99;424;Hachette Book Group;5751
+389;2011.0;äººç”ŸãŒã¨ãã‚ãç‰‡ã¥ã‘ã®é­”æ³•;Marie KondÅ, Cathy Hirano;eng;Intermediate;3.77;105063;genre fiction;849.87;509.922;3.99;423;Amazon Digital Services,  Inc.;5751
+390;2015.0;All the Bright Places;Jennifer Niven, ÙØ±Ø§Ù†Ú© Ù…Ø¹Ù†ÙˆÛŒ;eng;Excellent;4.19;132087;genre fiction;423.87;254.322;1.99;423;HarperCollins Publishers;5751
+391;1997.0;DÃ©jÃ  Dead;Kathy Reichs;eng;Intermediate;3.86;100369;genre fiction;1062.87;637.722;4.99;424;Hachette Book Group;5751
 392;2007.0;The Alchemyst: The Secrets of The Immortal Nicholas Flamel;Michael Scott;eng;Intermediate;3.84;58396;genre fiction;1693.88;1.016.328;7.99;425;Penguin Group (USA) LLC;5724
 393;2011.0;The Marriage Plot;Jeffrey Eugenides;eng;Novice;3.42;90551;genre fiction;1080.32;648.192;5.12;427;Random House LLC;5697
 394;1998.0;Hija de la fortuna;Isabel Allende, Margaret Sayers Peden;eng;Intermediate;3.89;89770;genre fiction;630.89;0.0;2.99;428;Amazon Digital Services,  Inc.;5697
@@ -483,7 +483,7 @@
 481;2012.0;The Secret Keeper;Kate Morton;;Excellent;4.13;89460;genre fiction;332.33;199.398;1.99;532;HarperCollins Publishers;4509
 482;1953.0;Better Homes & Gardens New Cook Book;Better Homes and Gardens;;Excellent;4.14;93640;nonfiction;165.33;0.0;0.99;534;Amazon Digital Services,  Inc.;4509
 483;1984.0;So Long, and Thanks for All the Fish;Douglas Adams;eng;Excellent;4.08;93774;genre fiction;1985.63;1.191.378;11.89;535;HarperCollins Publishers;4509
-484;1927.0;Der Steppenwolf: ErzÃƒÂ¤hlung;Hermann Hesse, Basil Creighton;eng;Excellent;4.11;80769;fiction;833.33;499.998;4.99;535;Amazon Digital Services,  Inc.;4509
+484;1927.0;Der Steppenwolf: ErzÃ¤hlung;Hermann Hesse, Basil Creighton;eng;Excellent;4.11;80769;fiction;833.33;499.998;4.99;535;Amazon Digital Services,  Inc.;4509
 485;2001.0;The Surgeon;Tess Gerritsen;en-GB;Excellent;4.1;89468;nonfiction;1835.33;1.101.198;10.99;536;Random House LLC;4509
 486;2012.0;The Girl You Left Behind;Jojo Moyes;eng;Intermediate;3.95;80991;genre fiction;1152.04;691.224;6.94;537;Random House LLC;4482
 487;1996.0;Royal Assassin;Robin Hobb;eng;Excellent;4.21;82608;fiction;164.34;0.0;0.99;538;Amazon Digital Services,  Inc.;4482
@@ -509,7 +509,7 @@
 507;1976.0;Roll of Thunder, Hear My Cry;Mildred D. Taylor;eng;Intermediate;3.79;92980;nonfiction;642.39;385.434;3.99;561;Hachette Book Group;4347
 508;2009.0;Pride and Prejudice and Zombies;Seth Grahame-Smith, Jane Austen;eng;Novice;3.28;103995;genre fiction;615.02;369.012;3.82;562;Amazon Digital Services,  Inc.;4347
 509;2013.0;Lets Explore Diabetes with Owls;David Sedaris;eng;Intermediate;3.8;81616;genre fiction;478.4;287.04;2.99;565;Macmillan;4320
-510;1868.0;ÃËœÃÂ´ÃÂ¸ÃÂ¾Ã‘â€š;Fyodor Dostoyevsky, Constance Garnett, Alan Myers, Joseph Frank, Anna Brailovsky;eng;Excellent;4.18;74642;fiction;1438.4;863.04;8.99;565;Penguin Group (USA) LLC;4320
+510;1868.0;Ð˜Ð´Ð¸Ð¾Ñ‚;Fyodor Dostoyevsky, Constance Garnett, Alan Myers, Joseph Frank, Anna Brailovsky;eng;Excellent;4.18;74642;fiction;1438.4;863.04;8.99;565;Penguin Group (USA) LLC;4320
 511;1987.0;Dirk Gently's Holistic Detective Agency;Douglas Adams;en-US;Intermediate;3.97;89569;nonfiction;478.4;0.0;2.99;566;Amazon Digital Services,  Inc.;4320
 512;2008.0;Rodrick Rules;Jeff Kinney;en-US;Excellent;4.1;91831;genre fiction;478.4;0.0;2.99;567;Amazon Digital Services,  Inc.;4320
 513;2015.0;Why Not Me?;Mindy Kaling;eng;Intermediate;3.89;74199;genre fiction;1598.4;959.04;9.99;568;Random House LLC;4320
@@ -550,7 +550,7 @@
 548;1993.0;The Celestine Prophecy;James Redfield;en-US;Intermediate;3.6;72675;genre fiction;594.51;356.706;3.99;615;Penguin Group (USA) LLC;4023
 549;2012.0;My Life Next Door ;Huntley Fitzpatrick;eng;Excellent;4.02;102012;genre fiction;594.51;356.706;3.99;615;Simon and Schuster Digital Sales Inc;4023
 550;2012.0;Winter of the World;Ken Follett;eng;Excellent;4.29;71971;nonfiction;1488.51;893.106;9.99;616;HarperCollins Publishing;4023
-551;2013.0;Ã¨â€°Â²Ã¥Â½Â©Ã£â€šâ€™Ã¦Å’ÂÃ£ÂÅ¸Ã£ÂÂªÃ£Ââ€žÃ¥Â¤Å¡Ã¥Â´Å½Ã£ÂÂ¤Ã£ÂÂÃ£â€šâ€¹Ã£ÂÂ¨Ã£â‚¬ÂÃ¥Â½Â¼Ã£ÂÂ®Ã¥Â·Â¡Ã§Â¤Â¼Ã£ÂÂ®Ã¥Â¹Â´ [Shikisai o motanai Tazaki Tsukuru to, kare no junrei no toshi];Haruki Murakami, Philip Gabriel;eng;Intermediate;3.82;67873;fiction;594.51;0.0;3.99;616;Amazon Digital Services,  Inc.;4023
+551;2013.0;è‰²å½©ã‚’æŒãŸãªã„å¤šå´Žã¤ãã‚‹ã¨ã€å½¼ã®å·¡ç¤¼ã®å¹´ [Shikisai o motanai Tazaki Tsukuru to, kare no junrei no toshi];Haruki Murakami, Philip Gabriel;eng;Intermediate;3.82;67873;fiction;594.51;0.0;3.99;616;Amazon Digital Services,  Inc.;4023
 552;1999.0;Lucky;Alice Sebold;eng;Intermediate;3.77;77462;children;1427.42;856.452;9.58;617;Amazon Digital Services,  Inc.;4023
 553;1927.0;To The Lighthouse ;Virginia Woolf;eng;Intermediate;3.76;83066;genre fiction;1144.04;686.424;7.73;619;Macmillan;3996
 554;2004.0;Five Point Someone: What Not to Do at IIT;Chetan Bhagat;en-GB;Novice;3.43;67438;genre fiction;146.52;0.0;0.99;620;Amazon Digital Services,  Inc.;3996
@@ -562,12 +562,12 @@
 560;1993.0;Cruel & Unusual;Patricia Cornwell;nl;Excellent;4.11;83695;genre fiction;439.53;263.718;2.99;626;Amazon Digital Services,  Inc.;3969
 561;2013.0;Sycamore Row;John Grisham;eng;Intermediate;3.98;56315;genre fiction;1074.57;644.742;7.31;627;Penguin Group (USA) LLC;3969
 562;2011.0;Awakened;P.C. Cast, Kristin Cast;en-US;Excellent;4.02;101234;genre fiction;675.98;405.588;4.63;628;Hachette Book Group;3942
-563;1918.0;My ÃƒÂntonia;Willa Cather;eng;Intermediate;3.76;81102;genre fiction;582.54;0.0;3.99;629;Amazon Digital Services,  Inc.;3942
+563;1918.0;My Ãntonia;Willa Cather;eng;Intermediate;3.76;81102;genre fiction;582.54;0.0;3.99;629;Amazon Digital Services,  Inc.;3942
 564;2006.0;Life As We Knew It;Susan Beth Pfeffer;eng;Intermediate;3.89;94282;nonfiction;1097.92;658.752;7.52;629;Amazon Digital Services,  Inc.;3942
 565;2004.0;America (The Book): A Citizen's Guide to Democracy Inaction;Jon Stewart, Ben Karlin, David Javerbaum, Rich Bloomquist, Steve Bodow, Tim Carvell, Eric Drysdale, J.R. Havlan, Scott Jacobson, Tom Johnson, Rob Kutner, Chris Regan, Jason Reich, Jason Ross, Stephen Colbert, Samantha Bee, Rob Corddry, Brendan Hay, Ed Helms;eng;Excellent;4.02;74511;nonfiction;1166.54;699.924;7.99;630;Random House LLC;3942
 566;2004.0;90 Minutes in Heaven;Don Piper, Cecil Murphey;;Intermediate;3.91;67937;genre fiction;1251.22;750.732;8.57;631;Amazon Digital Services,  Inc.;3942
 567;2012.0;The Longest Ride;Nicholas Sparks;eng;Excellent;4.14;71276;genre fiction;144.54;0.0;0.99;631;Amazon Digital Services,  Inc.;3942
-568;-300.0;Ã©Ââ€œÃ¥Â¾Â·Ã§Â¶â€œ [dÃƒÂ o dÃƒÂ© jÃ„Â«ng];Lao Tzu, Gia-Fu Feng, Jane English, Chungliang Al Huang, Rowena Pattee Kryder, Toinette Lippe;eng;Excellent;4.31;39863;genre fiction;665.55;399.33;4.59;632;Penguin Group (USA) LLC;3915
+568;-300.0;é“å¾·ç¶“ [dÃ o dÃ© jÄ«ng];Lao Tzu, Gia-Fu Feng, Jane English, Chungliang Al Huang, Rowena Pattee Kryder, Toinette Lippe;eng;Excellent;4.31;39863;genre fiction;665.55;399.33;4.59;632;Penguin Group (USA) LLC;3915
 569;1979.0;Kane and Abel;Jeffrey Archer;en-US;Excellent;4.27;74052;fiction;723.55;0.0;4.99;632;Amazon Digital Services,  Inc.;3915
 570;2008.0;Change of Heart;Jodi Picoult;en-US;Intermediate;3.91;86471;genre fiction;990.35;594.21;6.83;634;Simon and Schuster Digital Sales Inc;3915
 571;2003.0;Dry: A Memoir;Augusten Burroughs;eng;Excellent;4.01;70550;children;1448.55;869.13;9.99;635;Amazon Digital Services,  Inc.;3915
@@ -594,9 +594,9 @@
 592;1985.0;Skeleton Crew;Stephen King;eng;Intermediate;3.93;82320;genre fiction;957.72;574.632;6.94;668;Random House LLC;53568
 593;2002.0;Lullaby;Chuck Palahniuk;;Intermediate;3.73;66713;genre fiction;1094.63;656.778;7.99;671;Hachette Book Group;53352
 594;2009.0;Two States;Chetan Bhagat;eng;Intermediate;3.42;67866;genre fiction;836.4;501.84;6.15;675;Amazon Digital Services,  Inc.;53352
-595;2005.0;Ã£Æ’Â´Ã£â€šÂ¡Ã£Æ’Â³Ã£Æ’â€˜Ã£â€šÂ¤Ã£â€šÂ¢Ã©Â¨Å½Ã¥Â£Â« 1;Matsuri Hino, Tomo Kimura;eng;Excellent;4.1;89733;nonfiction;1225.36;0.0;9.01;675;Amazon Digital Services,  Inc.;53136
+595;2005.0;ãƒ´ã‚¡ãƒ³ãƒ‘ã‚¤ã‚¢é¨Žå£« 1;Matsuri Hino, Tomo Kimura;eng;Excellent;4.1;89733;nonfiction;1225.36;0.0;9.01;675;Amazon Digital Services,  Inc.;53136
 596;2002.0;Summer Knight;Jim Butcher;eng;Excellent;4.3;91012;genre fiction;542.64;0.0;3.99;676;Amazon Digital Services,  Inc.;52920
-597;1968.0;Dragonflight;Anne McCaffrey, Teodor PanasiÃ…â€žski;eng;Excellent;4.1;95378;genre fiction;133.65;0.0;0.99;679;Amazon Digital Services,  Inc.;52488
+597;1968.0;Dragonflight;Anne McCaffrey, Teodor PanasiÅ„ski;eng;Excellent;4.1;95378;genre fiction;133.65;0.0;0.99;679;Amazon Digital Services,  Inc.;52488
 598;2007.0;The History of the Hobbit, Part One: Mr. Baggins;John D. Rateliff, J.R.R. Tolkien;eng;Intermediate;3.81;108399;genre fiction;538.65;0.0;3.99;680;Amazon Digital Services,  Inc.;52488
 599;2014.0;Ugly Love;Colleen Hoover;eng;Excellent;4.3;107583;genre fiction;808.65;485.19;5.99;681;Random House LLC;52488
 600;1998.0;Chocolat;Joanne Harris;eng;Intermediate;3.95;84770;nonfiction;873.68;524.208;6.52;682;Amazon Digital Services,  Inc.;52056
@@ -641,17 +641,17 @@
 639;2013.0;Unravel Me (Shatter Me, #2);Tahereh Mafi;eng;Excellent;4.28;109183;genre fiction;122.76;73.656;0.99;728;Amazon Digital Services,  Inc.;45792
 640;2003.0;The Birth of Venus;Sarah Dunant;en-US;Intermediate;3.79;78129;genre fiction;370.76;0.0;2.99;730;Amazon Digital Services,  Inc.;45576
 641;2005.0;The Opal Deception;Eoin Colfer;eng;Excellent;4.04;95638;genre fiction;121.77;73.062;0.99;733;Amazon Digital Services,  Inc.;45360
-642;2015.0;Det som inte dÃƒÂ¶dar oss;David Lagercrantz, Stieg Larsson, George Goulding;eng;Intermediate;3.73;53751;genre fiction;121.77;73.062;0.99;736;Random House LLC;45144
+642;2015.0;Det som inte dÃ¶dar oss;David Lagercrantz, Stieg Larsson, George Goulding;eng;Intermediate;3.73;53751;genre fiction;121.77;73.062;0.99;736;Random House LLC;45144
 643;2016.0;The Girls;Emma Cline;eng;Novice;3.49;76761;genre fiction;974.78;584.868;7.99;737;Random House LLC;44928
 644;2003.0;The Goose Girl;Shannon Hale;en-US;Excellent;4.18;92952;genre fiction;120.78;72.468;0.99;738;Simon and Schuster Digital Sales Inc;44280
 645;2001.0;Mystic River;Dennis Lehane;en-US;Excellent;4.19;86103;genre fiction;1096.78;658.068;8.99;739;Random House LLC;43848
 646;2010.0;Warm Bodies;Isaac Marion;;Intermediate;3.93;66381;genre fiction;486.78;292.068;3.99;740;Amazon Digital Services,  Inc.;43848
 647;1881.0;The Prince and the Pauper;Mark Twain, Everett H. Emerson;eng;Intermediate;3.84;84682;genre fiction;966.79;580.074;7.99;741;Random House LLC;43416
 648;1966.0;The Moon is a Harsh Mistress;Robert A. Heinlein;eng;Excellent;4.17;80366;genre fiction;930.49;558.294;7.69;743;Penguin Group (USA) LLC;43416
-649;2010.0;The Forty Rules of Love;Elif Shafak, Ã˜Â¥Ã™â€žÃ™Å Ã™Â Ã˜Â´Ã˜Â§Ã™ÂÃ˜Â§Ã™â€š, Ã˜Â§Ã˜Â±Ã˜Â³Ã™â€žÃ˜Â§Ã™â€  Ã™ÂÃ˜ÂµÃ›Å’Ã˜Â­Ã›Å’, Ã™â€¦Ã˜Â­Ã™â€¦Ã˜Â¯ Ã˜Â¯Ã˜Â±Ã™Ë†Ã™Å Ã˜Â´;eng;Excellent;4.17;35283;genre fiction;119.79;71.874;0.99;743;Amazon Digital Services,  Inc.;43416
+649;2010.0;The Forty Rules of Love;Elif Shafak, Ø¥Ù„ÙŠÙ Ø´Ø§ÙØ§Ù‚, Ø§Ø±Ø³Ù„Ø§Ù† ÙØµÛŒØ­ÛŒ, Ù…Ø­Ù…Ø¯ Ø¯Ø±ÙˆÙŠØ´;eng;Excellent;4.17;35283;genre fiction;119.79;71.874;0.99;743;Amazon Digital Services,  Inc.;43416
 650;1999.0;High Five;Janet Evanovich;eng;Excellent;4.17;92737;children;671.55;402.93;5.55;745;Amazon Digital Services,  Inc.;43200
 651;2013.0;Joyland;Stephen King;eng;Intermediate;3.9;75018;genre fiction;118.8;0.0;0.99;746;Amazon Digital Services,  Inc.;42768
-652;2010.0;Ã©â‚¬Â²Ã¦â€™Æ’Ã£ÂÂ®Ã¥Â·Â¨Ã¤ÂºÂº 1;Hajime Isayama, Sheldon Drzka;eng;Famous;4.42;82565;genre fiction;118.8;71.28;0.99;748;Amazon Digital Services,  Inc.;42552
+652;2010.0;é€²æ’ƒã®å·¨äºº 1;Hajime Isayama, Sheldon Drzka;eng;Famous;4.42;82565;genre fiction;118.8;71.28;0.99;748;Amazon Digital Services,  Inc.;42552
 653;1933.0;Tender Is the Night;F. Scott Fitzgerald;en-US;Intermediate;3.83;79008;genre fiction;118.8;71.28;0.99;750;Amazon Digital Services,  Inc.;42120
 654;1984.0;Cold Sassy Tree;Olive Ann Burns;;Intermediate;3.99;82281;genre fiction;950.81;570.486;7.99;751;Random House LLC;42120
 655;1945.0;The Glass Menagerie;Tennessee Williams;eng;Intermediate;3.67;90032;nonfiction;117.81;70.686;0.99;752;Amazon Digital Services,  Inc.;41904
@@ -667,13 +667,13 @@
 665;1973.0;A Wind in the Door;Madeleine L'Engle;eng;Excellent;4.07;87277;genre fiction;355.81;0.0;2.99;765;Amazon Digital Services,  Inc.;39312
 666;2012.0;Free Four: Tobias Tells the Divergent Story;Veronica Roth;eng;Excellent;4.18;81621;nonfiction;1188.81;713.286;9.99;765;Hachette Book Group;38880
 667;2015.0;A Little Life;Hanya Yanagihara;eng;Excellent;4.27;66782;genre fiction;355.81;213.486;2.99;766;Amazon Digital Services,  Inc.;38664
-668;2003.0;Y: The Last Man, Vol. 1: Unmanned;Brian K. Vaughan, Pia Guerra, JosÃƒÂ© MarzÃƒÂ¡n Jr.;eng;Excellent;4.12;81326;genre fiction;117.81;0.0;0.99;767;Amazon Digital Services,  Inc.;38664
+668;2003.0;Y: The Last Man, Vol. 1: Unmanned;Brian K. Vaughan, Pia Guerra, JosÃ© MarzÃ¡n Jr.;eng;Excellent;4.12;81326;genre fiction;117.81;0.0;0.99;767;Amazon Digital Services,  Inc.;38664
 669;2011.0;The Alloy of Law;Brandon Sanderson;eng;Excellent;4.2;72185;genre fiction;593.81;0.0;4.99;768;Amazon Digital Services,  Inc.;38448
 670;2011.0;Dead Reckoning;Charlaine Harris;eng;Intermediate;3.77;87066;nonfiction;117.81;70.686;0.99;770;Amazon Digital Services,  Inc.;38448
 671;1985.0;The Accidental Tourist;Anne Tyler, Jennifer Bassett;eng;Intermediate;3.9;80075;genre fiction;784.21;470.526;6.59;770;Amazon Digital Services,  Inc.;38448
-672;2012.0;Aristotle and Dante Discover the Secrets of the Universe;Benjamin Alire SÃƒÂ¡enz;;Excellent;4.34;108884;fiction;1082.9;649.74;9.1;770;Amazon Digital Services,  Inc.;38232
+672;2012.0;Aristotle and Dante Discover the Secrets of the Universe;Benjamin Alire SÃ¡enz;;Excellent;4.34;108884;fiction;1082.9;649.74;9.1;770;Amazon Digital Services,  Inc.;38232
 673;1897.0;The Invisible Man;H.G. Wells;eng;Intermediate;3.62;84778;genre fiction;117.81;70.686;0.99;772;Macmillan;38016
-674;1985.0;Ã¤Â¸â€“Ã§â€¢Å’Ã£ÂÂ®Ã§Âµâ€šÃ£â€šÅ Ã£ÂÂ¨Ã£Æ’ÂÃ£Æ’Â¼Ã£Æ’â€°Ã£Æ’Å“Ã£â€šÂ¤Ã£Æ’Â«Ã£Æ’â€°Ã£Æ’Â»Ã£Æ’Â¯Ã£Æ’Â³Ã£Æ’â‚¬Ã£Æ’Â¼Ã£Æ’Â©Ã£Æ’Â³Ã£Æ’â€° [Sekai no owari to hÃ„Âdoboirudo wandÃ„Ârando];Haruki Murakami, Alfred Birnbaum;eng;Excellent;4.15;63764;genre fiction;117.81;70.686;0.99;773;Amazon Digital Services,  Inc.;38016
+674;1985.0;ä¸–ç•Œã®çµ‚ã‚Šã¨ãƒãƒ¼ãƒ‰ãƒœã‚¤ãƒ«ãƒ‰ãƒ»ãƒ¯ãƒ³ãƒ€ãƒ¼ãƒ©ãƒ³ãƒ‰ [Sekai no owari to hÄdoboirudo wandÄrando];Haruki Murakami, Alfred Birnbaum;eng;Excellent;4.15;63764;genre fiction;117.81;70.686;0.99;773;Amazon Digital Services,  Inc.;38016
 675;1994.0;Na margem do rio Piedra eu sentei e chorei;Paulo Coelho, Alan R. Clarke;eng;Intermediate;3.57;62106;genre fiction;915.11;549.066;7.69;775;Random House LLC;37584
 676;1812.0;Der Schweizerische Robinson;Johann David Wyss, Scott McKowen, Arthur Pober;eng;Intermediate;3.92;78355;genre fiction;355.81;0.0;2.99;779;Amazon Digital Services,  Inc.;37584
 677;1990.0;Four Past Midnight;Stephen King;en-GB;Intermediate;3.9;76376;nonfiction;640.22;384.132;5.38;779;HarperCollins Publishers;37368
@@ -707,7 +707,7 @@
 705;2005.0;Haunted: A Novel of Stories;Chuck Palahniuk;eng;Intermediate;3.59;68861;fiction;234.82;140.892;1.99;810;Simon and Schuster Digital Sales Inc;35424
 706;1987.0;The Shell Seekers;Rosamunde Pilcher;eng;Excellent;4.13;73573;genre fiction;588.82;0.0;4.99;811;Amazon Digital Services,  Inc.;35424
 707;2006.0;What Is the What: The Autobiography of Valentino Achak Deng;Dave Eggers;eng;Excellent;4.16;59333;genre fiction;1680.32;1.008.192;14.24;811;Penguin Group (USA) LLC;35424
-708;1981.0;CrÃƒÂ³nica de una muerte anunciada;Gabriel GarcÃƒÂ­a MÃƒÂ¡rquez, Gregory Rabassa;eng;Intermediate;3.95;56200;genre fiction;1128.08;676.848;9.56;813;Simon and Schuster Digital Sales Inc;35208
+708;1981.0;CrÃ³nica de una muerte anunciada;Gabriel GarcÃ­a MÃ¡rquez, Gregory Rabassa;eng;Intermediate;3.95;56200;genre fiction;1128.08;676.848;9.56;813;Simon and Schuster Digital Sales Inc;35208
 709;1891.0;A Scandal in Bohemia;Ronald Holt, Arthur Conan Doyle;;Excellent;4.22;65422;nonfiction;352.82;211.692;2.99;814;Amazon Digital Services,  Inc.;35208
 710;2011.0;Killing Lincoln: The Shocking Assassination that Changed America Forever;Bill O'Reilly, Martin Dugard;eng;Excellent;4.02;71868;children;872.02;523.212;7.39;816;Amazon Digital Services,  Inc.;35208
 711;2013.0;The Lowland;Jhumpa Lahiri;eng;Intermediate;3.82;62231;genre fiction;470.82;282.492;3.99;818;Amazon Digital Services,  Inc.;35208
@@ -738,7 +738,7 @@
 736;2003.0;To the Nines;Janet Evanovich;eng;Excellent;4.16;86963;genre fiction;1402.83;841.698;11.99;844;Penguin Group (USA) LLC;32832
 737;2012.0;Where We Belong;Emily Giffin;en-US;Intermediate;3.86;68224;nonfiction;115.83;0.0;0.99;845;Amazon Digital Services,  Inc.;32616
 738;1994.0;The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus;Richard   Preston;eng;Excellent;4.1;72207;genre fiction;349.83;0.0;2.99;846;Amazon Digital Services,  Inc.;32616
-739;1999.0;Ã£â€šÂ¹Ã£Æ’â€”Ã£Æ’Â¼Ã£Æ’Ë†Ã£Æ’â€¹Ã£â€šÂ¯Ã£ÂÂ®Ã¦Ââ€¹Ã¤ÂºÂº [SupÃ…Â«toniku no Koibito];Haruki Murakami, Philip Gabriel;eng;Intermediate;3.82;62229;genre fiction;1084.59;650.754;9.27;846;Penguin Group (USA) LLC;32616
+739;1999.0;ã‚¹ãƒ—ãƒ¼ãƒˆãƒ‹ã‚¯ã®æ‹äºº [SupÅ«toniku no Koibito];Haruki Murakami, Philip Gabriel;eng;Intermediate;3.82;62229;genre fiction;1084.59;650.754;9.27;846;Penguin Group (USA) LLC;32616
 740;2012.0;The Signature of All Things;Elizabeth Gilbert;eng;Intermediate;3.81;61135;nonfiction;232.83;139.698;1.99;848;Amazon Digital Services,  Inc.;32400
 741;2003.0;Eats, Shoots and Leaves;Lynne Truss;en-US;Intermediate;3.86;79117;genre fiction;466.83;0.0;3.99;852;Amazon Digital Services,  Inc.;32184
 742;2004.0;Dead Witch Walking;Kim Harrison;en-US;Excellent;4.04;91390;nonfiction;349.83;0.0;2.99;852;Amazon Digital Services,  Inc.;32184
@@ -748,9 +748,9 @@
 746;1988.0;The Case for Christ;Lee Strobel;;Excellent;4.1;67128;genre fiction;799.11;479.466;6.83;859;Macmillan;31752
 747;2005.0;Knife of Dreams;Robert Jordan;en-US;Excellent;4.12;71379;genre fiction;349.83;0.0;2.99;860;Amazon Digital Services,  Inc.;31752
 748;2002.0;Hoot;Carl Hiaasen;eng;Intermediate;3.81;75275;genre fiction;583.83;350.298;4.99;862;Penguin Group (USA) LLC;31752
-749;-17.0;Ãƒâ€ neis;Virgil, Robert Fitzgerald;eng;Intermediate;3.81;75051;genre fiction;114.84;0.0;0.99;863;Amazon Digital Services,  Inc.;31752
-750;2012.0;This is How You Lose Her;Junot DÃƒÂ­az;eng;Intermediate;3.75;66720;nonfiction;624.08;374.448;5.38;865;Amazon Digital Services,  Inc.;31536
-751;2004.0;Ã£â€šÂ¢Ã£Æ’â€¢Ã£â€šÂ¿Ã£Æ’Â¼Ã£Æ’â‚¬Ã£Æ’Â¼Ã£â€šÂ¯ [AfutÃ„Â dÃ„Âku];Haruki Murakami, Jay Rubin;eng;Intermediate;3.68;64278;genre fiction;694.84;0.0;5.99;866;Amazon Digital Services,  Inc.;31536
+749;-17.0;Ã†neis;Virgil, Robert Fitzgerald;eng;Intermediate;3.81;75051;genre fiction;114.84;0.0;0.99;863;Amazon Digital Services,  Inc.;31752
+750;2012.0;This is How You Lose Her;Junot DÃ­az;eng;Intermediate;3.75;66720;nonfiction;624.08;374.448;5.38;865;Amazon Digital Services,  Inc.;31536
+751;2004.0;ã‚¢ãƒ•ã‚¿ãƒ¼ãƒ€ãƒ¼ã‚¯ [AfutÄ dÄku];Haruki Murakami, Jay Rubin;eng;Intermediate;3.68;64278;genre fiction;694.84;0.0;5.99;866;Amazon Digital Services,  Inc.;31536
 752;1992.0;Ishmael: An Adventure of the Mind and Spirit;Daniel Quinn;en-US;Intermediate;3.97;63304;genre fiction;892.04;535.224;7.69;867;Random House LLC;31536
 753;2010.0;It's Not Summer Without You;Jenny Han;en-US;Excellent;4.14;80367;genre fiction;346.84;0.0;2.99;868;Amazon Digital Services,  Inc.;31536
 754;2012.0;Pushing the Limits;Katie McGarry;eng;Excellent;4.08;93818;genre fiction;462.84;0.0;3.99;869;Amazon Digital Services,  Inc.;31320
@@ -789,7 +789,7 @@
 787;1971.0;Post Office;Charles Bukowski;en-US;Excellent;4.01;59295;nonfiction;343.85;206.31;2.99;913;HarperCollins Publishers;2916
 788;1992.0;All the Pretty Horses;Cormac McCarthy;eng;Intermediate;3.97;68451;genre fiction;458.85;0.0;3.99;914;Amazon Digital Services,  Inc.;2916
 789;1914.0;Sherlock Holmes: The Complete Novels and Stories, Vol 2;Arthur Conan Doyle, Kyle Freeman;;Famous;4.46;66857;nonfiction;1263.85;758.31;10.99;914;Random House LLC;2916
-790;1997.0;One Piece, Volume 01;EiichirÃ…Â Oda, Andy Nakatani;eng;Famous;4.42;67047;genre fiction;458.85;0.0;3.99;915;Amazon Digital Services,  Inc.;2916
+790;1997.0;One Piece, Volume 01;EiichirÅ Oda, Andy Nakatani;eng;Famous;4.42;67047;genre fiction;458.85;0.0;3.99;915;Amazon Digital Services,  Inc.;2916
 791;1968.0;The Last Unicorn;Peter S. Beagle;eng;Excellent;4.18;76277;genre fiction;343.85;0.0;2.99;916;Amazon Digital Services,  Inc.;2916
 792;2005.0;Magyk;Angie Sage;eng;Intermediate;3.8;86805;genre fiction;343.85;206.31;2.99;917;Amazon Digital Services,  Inc.;2916
 793;2000.0;Fever 1793;Laurie Halse Anderson;en-US;Intermediate;3.89;81945;genre fiction;458.85;0.0;3.99;918;Amazon Digital Services,  Inc.;2916
@@ -799,10 +799,10 @@
 797;2013.0;I Am Pilgrim;Terry Hayes;eng;Excellent;4.23;49740;genre fiction;573.85;344.31;4.99;924;Amazon Digital Services,  Inc.;2916
 798;1956.0;Howl and Other Poems ;Allen Ginsberg, William Carlos Williams;eng;Excellent;4.14;71968;nonfiction;1269.6;761.76;11.04;926;HarperCollins Publishers;2916
 799;1997.0;Don't Sweat the Small Stuff;Richard Carlson;eng;Intermediate;3.95;63324;genre fiction;884.35;530.61;7.69;927;Random House LLC;2916
-800;2011.0;Go the Fuck to Sleep;Adam Mansbach, Ricardo CortÃƒÂ©s;eng;Excellent;4.26;71816;genre fiction;113.85;68.31;0.99;930;Amazon Digital Services,  Inc.;2916
+800;2011.0;Go the Fuck to Sleep;Adam Mansbach, Ricardo CortÃ©s;eng;Excellent;4.26;71816;genre fiction;113.85;68.31;0.99;930;Amazon Digital Services,  Inc.;2916
 801;1992.0;Mostly Harmless;Douglas Adams;en-US;Intermediate;3.96;72426;nonfiction;573.85;344.31;4.99;931;Simon and Schuster Digital Sales Inc;2916
 802;2003.0;Benjamin Franklin: An American Life;Walter Isaacson;eng;Intermediate;3.96;70335;genre fiction;573.85;344.31;4.99;933;Macmillan;2916
-803;2011.0;The Tiger's Wife;TÃƒÂ©a Obreht;eng;Novice;3.37;66104;genre fiction;113.85;0.0;0.99;936;Amazon Digital Services,  Inc.;2916
+803;2011.0;The Tiger's Wife;TÃ©a Obreht;eng;Novice;3.37;66104;genre fiction;113.85;0.0;0.99;936;Amazon Digital Services,  Inc.;2916
 804;2005.0;Poison Study;Maria V. Snyder;eng;Excellent;4.16;96417;genre fiction;343.85;0.0;2.99;937;Amazon Digital Services,  Inc.;2916
 805;2007.0;Lover Unbound;J.R. Ward;eng;Excellent;4.33;97514;fiction;910.86;546.516;7.99;938;Amazon Digital Services,  Inc.;2916
 806;2004.0;Going Postal;Terry Pratchett;eng;Excellent;4.36;75186;fiction;1366.86;820.116;11.99;939;Penguin Group (USA) LLC;2916
@@ -820,7 +820,7 @@
 818;2006.0;The Blind Side: Evolution of a Game;Michael   Lewis;eng;Excellent;4.16;37792;children;226.86;136.116;1.99;956;HarperCollins Publishers;2889
 819;2001.0;Lirael;Garth Nix;en-US;Excellent;4.29;78903;genre fiction;876.66;525.996;7.69;957;Penguin Group (USA) LLC;2889
 820;2006.0;School's Out Forever;James Patterson;en-US;Excellent;4.16;90157;fiction;340.86;204.516;2.99;958;Amazon Digital Services,  Inc.;2889
-821;2007.0;Ã©Â»â€™Ã¥Å¸Â·Ã¤Âºâ€¹ I [Kuroshitsuji I];Yana Toboso, Tomo Kimura;eng;Excellent;4.37;74378;nonfiction;1366.86;820.116;11.99;960;Penguin Group (USA) LLC;2889
+821;2007.0;é»’åŸ·äº‹ I [Kuroshitsuji I];Yana Toboso, Tomo Kimura;eng;Excellent;4.37;74378;nonfiction;1366.86;820.116;11.99;960;Penguin Group (USA) LLC;2889
 822;2015.0;Winter;Marissa Meyer;eng;Famous;4.49;100464;nonfiction;397.86;0.0;3.49;961;Amazon Digital Services,  Inc.;2889
 823;1886.0;The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror ;Robert Louis Stevenson, Robert Mighall;eng;Intermediate;3.94;80299;genre fiction;568.86;341.316;4.99;963;Random House LLC;2889
 824;2012.0;;Emily Seife;en-US;Famous;4.4;67264;genre fiction;340.86;0.0;2.99;963;Amazon Digital Services,  Inc.;2889
@@ -832,7 +832,7 @@
 830;2006.0;The Shifting Fog;Kate Morton;eng;Intermediate;3.93;69948;genre fiction;228.0;0.0;2.0;970;Amazon Digital Services,  Inc.;2889
 831;2000.0;;Robert Jordan;en-US;Intermediate;3.92;71355;fiction;597.36;358.416;5.24;970;Amazon Digital Services,  Inc.;2889
 832;2006.0;Proven Guilty;Jim Butcher;eng;Famous;4.41;75133;genre fiction;778.62;467.172;6.83;971;Simon and Schuster Digital Sales Inc;2889
-833;1864.0;Ãâ€”ÃÂ°ÃÂ¿ÃÂ¸Ã‘ÂÃÂºÃÂ¸ ÃÂ¸ÃÂ· ÃÂ¿ÃÂ¾ÃÂ´ÃÂ¿ÃÂ¾ÃÂ»Ã‘Å’Ã‘Â;Fyodor Dostoyevsky, Andrew R. MacAndrew, Ben Marcus;eng;Excellent;4.17;65900;genre fiction;910.86;546.516;7.99;971;Random House LLC;2889
+833;1864.0;Ð—Ð°Ð¿Ð¸ÑÐºÐ¸ Ð¸Ð· Ð¿Ð¾Ð´Ð¿Ð¾Ð»ÑŒÑ;Fyodor Dostoyevsky, Andrew R. MacAndrew, Ben Marcus;eng;Excellent;4.17;65900;genre fiction;910.86;546.516;7.99;971;Random House LLC;2889
 834;1940.0;The Heart is a Lonely Hunter;Carson McCullers;eng;Intermediate;3.97;67643;genre fiction;454.86;0.0;3.99;972;Amazon Digital Services,  Inc.;2889
 835;2014.0;The Infinite Sea;Rick Yancey;eng;Intermediate;3.94;78314;genre fiction;454.86;0.0;3.99;973;Amazon Digital Services,  Inc.;2889
 836;1958.0;The Once and Future King;T.H. White;eng;Excellent;4.08;76911;nonfiction;746.7;448.02;6.55;973;Macmillan;2889
@@ -840,7 +840,7 @@
 838;1999.0;Bud, Not Buddy;Christopher Paul Curtis;eng;Intermediate;3.89;73000;genre fiction;431.66;258.996;3.82;980;Amazon Digital Services,  Inc.;2889
 839;2006.0;;Alison Bechdel;eng;Excellent;4.12;48305;genre fiction;902.87;541.722;7.99;981;Hachette Book Group;2889
 840;2007.0;Predictably Irrational: The Hidden Forces that Shape Our Decisions;Dan Ariely;en-US;Excellent;4.1;61496;genre fiction;563.87;0.0;4.99;982;Amazon Digital Services,  Inc.;2889
-841;2012.0;Ã˜Â§Ã™â€žÃ™ÂÃ™Å Ã™â€ž Ã˜Â§Ã™â€žÃ˜Â£Ã˜Â²Ã˜Â±Ã™â€š;Ã˜Â£Ã˜Â­Ã™â€¦Ã˜Â¯ Ã™â€¦Ã˜Â±Ã˜Â§Ã˜Â¯;ara;Intermediate;3.8;53187;nonfiction;1128.87;677.322;9.99;984;Amazon Digital Services,  Inc.;2889
+841;2012.0;Ø§Ù„ÙÙŠÙ„ Ø§Ù„Ø£Ø²Ø±Ù‚;Ø£Ø­Ù…Ø¯ Ù…Ø±Ø§Ø¯;ara;Intermediate;3.8;53187;nonfiction;1128.87;677.322;9.99;984;Amazon Digital Services,  Inc.;2889
 842;1980.0;The Indian in the Cupboard;Lynne Reid Banks;eng;Intermediate;3.89;77046;genre fiction;450.87;0.0;3.99;985;Amazon Digital Services,  Inc.;2889
 843;2012.0;A Memory of Light;Robert Jordan, Brandon Sanderson;eng;Famous;4.5;68410;genre fiction;450.87;0.0;3.99;986;Amazon Digital Services,  Inc.;2889
 844;2012.0;Me and Earl and the Dying Girl;Jesse Andrews;en-US;Intermediate;3.58;82270;nonfiction;1241.87;745.122;10.99;988;Random House LLC;2889
@@ -850,7 +850,7 @@
 848;2002.0;2nd Chance;James Patterson, Andrew Gross;eng;Excellent;4.01;68834;genre fiction;1388.77;833.262;12.29;993;HarperCollins Publishers;2862
 849;1986.0;The Complete Maus;Art Spiegelman;en-GB;Famous;4.53;76785;nonfiction;111.87;67.122;0.99;994;Amazon Digital Services,  Inc.;2862
 850;2001.0;The Eyre Affair;Jasper Fforde;en-US;Intermediate;3.92;85683;nonfiction;111.87;67.122;0.99;995;Amazon Digital Services,  Inc.;2862
-851;1989.0;Anne Rice's The Vampire Lestat: The Graphic Novel;Faye Perozich, Anne Rice, John Bolton, Daerick GrÃƒÂ¶ss;en-GB;Excellent;4.17;61842;genre fiction;111.87;0.0;0.99;996;Amazon Digital Services,  Inc.;2862
+851;1989.0;Anne Rice's The Vampire Lestat: The Graphic Novel;Faye Perozich, Anne Rice, John Bolton, Daerick GrÃ¶ss;en-GB;Excellent;4.17;61842;genre fiction;111.87;0.0;0.99;996;Amazon Digital Services,  Inc.;2862
 852;1978.0;;Louis Sachar, Adam McCauley;eng;Excellent;4.14;74121;genre fiction;864.45;518.67;7.65;997;Penguin Group (USA) LLC;2862
 853;1998.0;The Art of Happiness: A Handbook for Living;Dalai Lama XIV, Howard C. Cutler;eng;Excellent;4.14;61498;nonfiction;1327.75;796.65;11.75;1000;Random House LLC;2862
 854;2014.0;The Bone Clocks;David Mitchell;eng;Intermediate;3.81;53151;genre fiction;781.96;469.176;6.92;1001;Random House LLC;2862
@@ -883,7 +883,7 @@
 881;2008.0;Shadow's Edge;Brent Weeks;en-US;Excellent;4.27;66390;genre fiction;1326.08;795.648;11.84;1033;Random House LLC;4440
 882;2011.0;Under the Never Sky;Veronica Rossi;en-GB;Excellent;4.01;74029;genre fiction;446.88;0.0;3.99;1034;Amazon Digital Services,  Inc.;4440
 883;2003.0;True Believer;Nicholas Sparks;en-US;Intermediate;3.8;62840;genre fiction;558.88;0.0;4.99;1035;Amazon Digital Services,  Inc.;4440
-884;2011.0;The Lean StartupÃ¢â‚¬Å½;Eric Ries;en-US;Excellent;4.04;86284;genre fiction;110.88;66.528;0.99;1036;Amazon Digital Services,  Inc.;4440
+884;2011.0;The Lean Startupâ€Ž;Eric Ries;en-US;Excellent;4.04;86284;genre fiction;110.88;66.528;0.99;1036;Amazon Digital Services,  Inc.;4440
 885;2012.0;The Golden Lily;Richelle Mead;en-US;Excellent;4.36;86929;genre fiction;1230.88;738.528;10.99;1037;Penguin Group (USA) LLC;4440
 886;2008.0;Chasing Harry Winston;Lauren Weisberger;eng;Novice;3.32;63342;genre fiction;558.88;335.328;4.99;1042;Random House LLC;4440
 887;1983.0;Magician's Gambit;David Eddings;;Excellent;4.13;69616;genre fiction;334.88;0.0;2.99;1042;Amazon Digital Services,  Inc.;4440
@@ -926,7 +926,7 @@
 924;2012.0;Flight Behavior;Barbara Kingsolver;eng;Intermediate;3.75;57078;genre fiction;109.89;65.934;0.99;1085;Amazon Digital Services,  Inc.;4360
 925;2008.0;Grip of the Shadow Plague;Brandon Mull;eng;Excellent;4.26;65638;genre fiction;548.9;0.0;4.99;1089;Amazon Digital Services,  Inc.;4360
 926;1999.0;Bridget Jones: The Edge of Reason;Helen Fielding;eng;Intermediate;3.53;73093;nonfiction;1098.9;659.34;9.99;1090;Amazon Digital Services,  Inc.;4360
-927;1994.0;Captain Corelli's Mandolin;Louis de BerniÃƒÂ¨res;eng;Intermediate;3.95;57583;genre fiction;108.9;65.34;0.99;1091;Amazon Digital Services,  Inc.;4360
+927;1994.0;Captain Corelli's Mandolin;Louis de BerniÃ¨res;eng;Intermediate;3.95;57583;genre fiction;108.9;65.34;0.99;1091;Amazon Digital Services,  Inc.;4360
 928;2004.0;At First Sight;Nicholas Sparks;en-US;Intermediate;3.81;62219;genre fiction;108.9;65.34;0.99;1091;Amazon Digital Services,  Inc.;4320
 929;2000.0;Down Under;Bill Bryson;eng;Excellent;4.05;58688;genre fiction;438.9;0.0;3.99;1093;Amazon Digital Services,  Inc.;4320
 930;1894.0;The Memoirs of Sherlock Holmes;Arthur Conan Doyle;eng;Excellent;4.32;56918;nonfiction;1230.9;738.54;11.19;1095;HarperCollins Publishers;4320
@@ -934,8 +934,8 @@
 932;1984.0;Enchanters' End Game;David Eddings;en-US;Excellent;4.17;69134;genre fiction;438.9;0.0;3.99;1098;Amazon Digital Services,  Inc.;4320
 933;2003.0;Persepolis;Marjane Satrapi, Mattias Ripa, Blake Ferris, Anjali Singh;en-US;Excellent;4.36;71353;nonfiction;108.9;0.0;0.99;1099;Amazon Digital Services,  Inc.;4320
 934;1967.0;The Chosen;Chaim Potok;eng;Excellent;4.03;70701;fiction;218.9;131.34;1.99;1099;Amazon Digital Services,  Inc.;4320
-935;1958.0;The Agony and the Ecstasy: A Biographical Novel of Michelangelo;Irving Stone, Ã—Â©Ã—Å¾Ã—â€¢Ã—ÂÃ—Å“ Ã—Â©Ã—Â Ã—â„¢Ã—Â¦Ã—Â¨;eng;Excellent;4.09;61256;genre fiction;438.9;0.0;3.99;1100;Amazon Digital Services,  Inc.;4320
-936;2008.0;El juego del ÃƒÂ¡ngel;Carlos Ruiz ZafÃƒÂ³n, Lucia Graves;eng;Intermediate;3.86;46225;genre fiction;1351.9;811.14;12.29;1101;HarperCollins Publishers;4320
+935;1958.0;The Agony and the Ecstasy: A Biographical Novel of Michelangelo;Irving Stone, ×©×ž×•××œ ×©× ×™×¦×¨;eng;Excellent;4.09;61256;genre fiction;438.9;0.0;3.99;1100;Amazon Digital Services,  Inc.;4320
+936;2008.0;El juego del Ã¡ngel;Carlos Ruiz ZafÃ³n, Lucia Graves;eng;Intermediate;3.86;46225;genre fiction;1351.9;811.14;12.29;1101;HarperCollins Publishers;4320
 937;2004.0;Where Rainbows End;Cecelia Ahern;en-US;Intermediate;3.95;55236;nonfiction;1208.9;725.34;10.99;1101;Random House LLC;4320
 938;1963.0;Amelia Bedelia;Peggy Parish, Fritz Siebel;eng;Excellent;4.15;72329;genre fiction;878.9;527.34;7.99;1102;Penguin Group (USA) LLC;4320
 939;2012.0;This Man;Jodi Ellen Malpas;eng;Excellent;4.13;79461;genre fiction;108.9;65.34;0.99;1102;Amazon Digital Services,  Inc.;4320
@@ -943,7 +943,7 @@
 941;2015.0;An Ember in the Ashes;Sabaa Tahir;eng;Excellent;4.32;45492;genre fiction;603.9;362.34;5.49;1106;HarperCollins Publishers;4320
 942;2008.0;Lover Enshrined, part one;J.R. Ward;eng;Excellent;4.12;87432;genre fiction;988.9;593.34;8.99;1106;Random House LLC;4320
 943;2013.0;The Golem and the Jinni;Helene Wecker;eng;Excellent;4.1;59650;genre fiction;438.9;0.0;3.99;1107;Amazon Digital Services,  Inc.;4320
-944;2012.0;Ã˜Â§Ã™â€žÃ˜Â£Ã˜Â³Ã™Ë†Ã˜Â¯ Ã™Å Ã™â€žÃ™Å Ã™â€š Ã˜Â¨Ã™Æ’;Ã˜Â£Ã˜Â­Ã™â€žÃ˜Â§Ã™â€¦ Ã™â€¦Ã˜Â³Ã˜ÂªÃ˜ÂºÃ˜Â§Ã™â€ Ã™â€¦Ã™Å , Ahlam Mosteghanemi;ara;Intermediate;3.72;42958;nonfiction;1200.1;720.06;10.91;1107;Simon and Schuster Digital Sales Inc;4320
+944;2012.0;Ø§Ù„Ø£Ø³ÙˆØ¯ ÙŠÙ„ÙŠÙ‚ Ø¨Ùƒ;Ø£Ø­Ù„Ø§Ù… Ù…Ø³ØªØºØ§Ù†Ù…ÙŠ, Ahlam Mosteghanemi;ara;Intermediate;3.72;42958;nonfiction;1200.1;720.06;10.91;1107;Simon and Schuster Digital Sales Inc;4320
 945;2003.0;The Slippery Slope;Lemony Snicket, Brett Helquist;en-US;Intermediate;4.0;81362;genre fiction;988.9;593.34;8.99;1111;Penguin Group (USA) LLC;4320
 946;1853.0;Bleak House;Charles Dickens, Nicola Bradbury, Hablot Knight Browne;eng;Intermediate;4.0;67433;genre fiction;988.9;593.34;8.99;1112;HarperCollins Publishers;4320
 947;1938.0;Caps for sale: a tale of a peddler, some monkeys and their monkey business;Esphyr Slobodkina;eng;Excellent;4.12;72504;genre fiction;548.9;329.34;4.99;1118;Amazon Digital Services,  Inc.;4280
@@ -968,7 +968,7 @@
 966;1952.0;The Borrowers Afield;Mary Norton, Beth Krush, Joe Krush;;Excellent;4.02;74820;genre fiction;706.32;423.792;6.48;1141;Hachette Book Group;4240
 967;1999.0;Hearts in Atlantis;Stephen King;eng;Intermediate;3.8;65063;genre fiction;216.91;130.146;1.99;1142;Macmillan;4240
 968;2016.0;;Jodi Picoult;eng;Excellent;4.35;73745;genre fiction;1306.91;784.146;11.99;1144;Penguin Group (USA) LLC;4240
-969;1982.0;Ã§Â¾Å Ã£â€šâ€™Ã£â€šÂÃ£ÂÂÃ£â€šâ€¹Ã¥â€ â€™Ã©â„¢Âº [HitsujiwomegurubÃ…Âken];Haruki Murakami, Alfred Birnbaum;eng;Intermediate;3.94;55262;nonfiction;960.29;576.174;8.81;1147;Simon and Schuster Digital Sales Inc;4240
+969;1982.0;ç¾Šã‚’ã‚ãã‚‹å†’é™º [HitsujiwomegurubÅken];Haruki Murakami, Alfred Birnbaum;eng;Intermediate;3.94;55262;nonfiction;960.29;576.174;8.81;1147;Simon and Schuster Digital Sales Inc;4240
 970;2003.0;The Queen's Fool;Philippa Gregory;en-US;Intermediate;3.83;69504;genre fiction;598.41;359.046;5.49;1148;Simon and Schuster Digital Sales Inc;4240
 971;2012.0;Days of Blood & Starlight;Laini Taylor;en-CA;Excellent;4.21;85746;genre fiction;325.91;195.546;2.99;1148;Amazon Digital Services,  Inc.;4240
 972;1984.0;Jitterbug Perfume;Tom Robbins;eng;Excellent;4.24;48277;genre fiction;325.91;0.0;2.99;1148;Amazon Digital Services,  Inc.;4240
@@ -986,11 +986,11 @@
 984;2006.0;Infidel;Ayaan Hirsi Ali;eng;Excellent;4.2;58432;genre fiction;107.91;0.0;0.99;1161;Amazon Digital Services,  Inc.;109
 985;2007.0;The Black Swan: The Impact of the Highly Improbable;Nassim Nicholas Taleb;eng;Intermediate;3.88;53586;genre fiction;761.91;0.0;6.99;1161;Amazon Digital Services,  Inc.;109
 986;2012.0;The Twelve;Justin Cronin;eng;Intermediate;3.98;56756;genre fiction;538.92;0.0;4.99;1164;Amazon Digital Services,  Inc.;108
-987;1962.0;ÃÅ¾ÃÂ´ÃÂ¸ÃÂ½ ÃÂ´ÃÂµÃÂ½Ã‘Å’ ÃËœÃÂ²ÃÂ°ÃÂ½ÃÂ° Ãâ€ÃÂµÃÂ½ÃÂ¸Ã‘ÂÃÂ¾ÃÂ²ÃÂ¸Ã‘â€¡ÃÂ°;Aleksandr Solzhenitsyn, H.T. Willetts;eng;Intermediate;3.94;61678;genre fiction;646.92;388.152;5.99;1166;Hachette Book Group;108
+987;1962.0;ÐžÐ´Ð¸Ð½ Ð´ÐµÐ½ÑŒ Ð˜Ð²Ð°Ð½Ð° Ð”ÐµÐ½Ð¸ÑÐ¾Ð²Ð¸Ñ‡Ð°;Aleksandr Solzhenitsyn, H.T. Willetts;eng;Intermediate;3.94;61678;genre fiction;646.92;388.152;5.99;1166;Hachette Book Group;108
 988;1995.0;The Diamond Age;Neal Stephenson;eng;Excellent;4.19;61836;genre fiction;970.92;582.552;8.99;1167;Macmillan;108
 989;1959.0;A Canticle for Leibowitz;Walter M. Miller Jr.;eng;Intermediate;3.97;66721;genre fiction;106.92;0.0;0.99;1167;Amazon Digital Services,  Inc.;108
-990;-441.0;Ã¡Â¼Ë†ÃŽÂ½Ãâ€žÃŽÂ¹ÃŽÂ³ÃÅ’ÃŽÂ½ÃŽÂ·;Sophocles, J.E. Thomas;eng;Intermediate;3.6;67608;genre fiction;106.92;64.152;0.99;1167;Amazon Digital Services,  Inc.;108
-991;2009.0;Brooklyn;Colm TÃƒÂ³ibÃƒÂ­n;eng;Intermediate;3.63;55459;genre fiction;1659.96;995.976;15.37;1168;Amazon Digital Services,  Inc.;108
+990;-441.0;á¼ˆÎ½Ï„Î¹Î³ÏŒÎ½Î·;Sophocles, J.E. Thomas;eng;Intermediate;3.6;67608;genre fiction;106.92;64.152;0.99;1167;Amazon Digital Services,  Inc.;108
+991;2009.0;Brooklyn;Colm TÃ³ibÃ­n;eng;Intermediate;3.63;55459;genre fiction;1659.96;995.976;15.37;1168;Amazon Digital Services,  Inc.;108
 992;2011.0;Wither;Lauren DeStefano;eng;Intermediate;3.81;84776;genre fiction;412.56;0.0;3.82;1169;Amazon Digital Services,  Inc.;108
 993;2016.0;Hillbilly Elegy. A Memoir of a Family and Culture in Crisis;J.D. Vance;eng;Intermediate;3.99;80737;genre fiction;430.92;0.0;3.99;1169;Amazon Digital Services,  Inc.;108
 994;2003.0;Crossroads of Twilight;Robert Jordan;en-US;Intermediate;3.82;61361;genre fiction;430.92;0.0;3.99;1170;Amazon Digital Services,  Inc.;108
@@ -1029,7 +1029,7 @@
 1027;2010.0;Out of My Mind;Sharon M. Draper;en-US;Excellent;4.37;63756;nonfiction;319.93;0.0;2.99;1215;Amazon Digital Services,  Inc.;107
 1028;2012.0;Rapture;Lauren Kate;eng;Excellent;4.03;79360;nonfiction;1282.93;769.758;11.99;1216;Random House LLC;107
 1029;2010.0;Switched;Amanda Hocking;eng;Intermediate;3.89;45319;genre fiction;640.93;384.558;5.99;1217;Macmillan;107
-1030;1957.0;Ãâ€ÃÂ¾ÃÂºÃ‘â€šÃÂ¾Ã‘â‚¬ Ãâ€“ÃÂ¸ÃÂ²ÃÂ°ÃÂ³ÃÂ¾;Boris Pasternak, Max Hayward, Manya Harari, John Bayley;eng;Excellent;4.03;59973;fiction;854.93;512.958;7.99;1217;HarperCollins Publishers;107
+1030;1957.0;Ð”Ð¾ÐºÑ‚Ð¾Ñ€ Ð–Ð¸Ð²Ð°Ð³Ð¾;Boris Pasternak, Max Hayward, Manya Harari, John Bayley;eng;Excellent;4.03;59973;fiction;854.93;512.958;7.99;1217;HarperCollins Publishers;107
 1031;2015.0;;Colleen Hoover;en-GB;Excellent;4.25;72611;nonfiction;1175.93;705.558;10.99;1218;Amazon Digital Services,  Inc.;107
 1032;2012.0;Pines;Blake Crouch;;Intermediate;3.88;34789;genre fiction;105.93;0.0;0.99;1218;Amazon Digital Services,  Inc.;107
 1033;1994.0;Disclosure;Michael Crichton;;Intermediate;3.76;57818;genre fiction;854.93;512.958;7.99;1219;Random House LLC;107
@@ -1042,7 +1042,7 @@
 1040;1959.0;The Naked Lunch;William S. Burroughs, James Grauerholz, Barry  Miles;en-US;Novice;3.46;55473;genre fiction;529.65;317.79;4.95;1226;Amazon Digital Services,  Inc.;107
 1041;1991.0;The Sandman: Dream Country;Neil Gaiman, Kelley Jones, Charles Vess, Colleen Doran, Malcolm Jones III, Steve Erickson;eng;Excellent;4.28;67753;genre fiction;426.93;0.0;3.99;1230;Amazon Digital Services,  Inc.;107
 1042;2001.0;A Painted House;John Grisham;eng;Intermediate;3.67;59974;nonfiction;105.93;0.0;0.99;1232;Amazon Digital Services,  Inc.;107
-1043;1969.0;The Left Hand of Darkness;Ursula K. Le Guin, Lech JÃ„â„¢czmyk;eng;Excellent;4.05;61888;genre fiction;822.83;493.698;7.69;1233;Random House LLC;107
+1043;1969.0;The Left Hand of Darkness;Ursula K. Le Guin, Lech JÄ™czmyk;eng;Excellent;4.05;61888;genre fiction;822.83;493.698;7.69;1233;Random House LLC;107
 1044;2008.0;Let It Snow: Three Holiday Romances;John Green, Maureen Johnson, Lauren Myracle;eng;Intermediate;3.84;57632;fiction;1149.18;689.508;10.74;1235;Penguin Group (USA) LLC;107
 1045;2010.0;Full Dark, No Stars;Stephen King;en-US;Excellent;4.03;60672;genre fiction;640.93;384.558;5.99;1236;Random House LLC;107
 1046;2014.0;Being Mortal: Medicine and What Matters in the End;Atul Gawande;eng;Famous;4.4;56510;genre fiction;319.93;0.0;2.99;1237;Amazon Digital Services,  Inc.;107
