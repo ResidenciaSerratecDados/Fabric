@@ -1,0 +1,1002 @@
+﻿dataset_of_90s_track,dataset_of_90s_artist,dataset_of_90s_uri,dataset_of_90s_danceability,dataset_of_90s_energy,dataset_of_90s_key,dataset_of_90s_loudness,dataset_of_90s_mode,dataset_of_90s_speechiness,dataset_of_90s_acousticness,dataset_of_90s_instrumentalness,dataset_of_90s_liveness,dataset_of_90s_valence,dataset_of_90s_tempo,dataset_of_90s_duration_ms,dataset_of_90s_time_signature,dataset_of_90s_chorus_hit,dataset_of_90s_sections,dataset_of_90s_target,dataset_of_90s_id_ano
+"""Don't Cry For Me Argentina (From """"Evita"""")""",Madonna,spotify:track:0XzS20zTg74EyoM1dDORlE,"0,297","0,148",11,"-13,898",1,"0,0337","0,897","4,03E-06","0,099","0,082","104,458",335733,5,"44,7754",17,1,6
+"""I Love Music (From """"Carlito's Way"""")""",Rozalla,spotify:track:7bf3WkBlgMvE2n0F96LQja,"0,714","0,686",2,"-8,428",0,"0,0294","0,0376","0,0043","0,0853","0,842","125,982",290000,4,"26,85643",13,1,6
+"""Let It Go (From """"Set It Off"""")""",Ray J,spotify:track:6igXETl1zKir06CA7NWYo2,"0,853","0,515",0,"-5,081",1,"0,0453","0,0547","7,79E-05","0,0519","0,859","93,026",293129,4,"32,89598",11,1,6
+"""Oscar's """"B"""" Sandwich""",Oscar the Grouch,spotify:track:32WQuOyYBxZW1Q8tmL7amK,"0,778","0,573",0,"-9,285",1,"0,355","0,795",0,"0,753","0,966","107,087",64773,3,"11,3163",3,0,6
+"""Piano Concerto No. 21 in C Major. K. 467 """"Elvira Madigan"""": II. Andante""",Wolfgang Amadeus Mozart,spotify:track:2YarjDYjBJuH63dUIh9OWv,"0,194","0,0324",5,"-28,215",1,"0,0382","0,982","0,961","0,0916","0,0596","144,13",433800,4,"44,69069",19,0,6
+"""Piano Concerto No.5 in E flat major Op.73 -""""Emperor"""": 2. Adagio un poco mosso""",Ludwig van Beethoven,spotify:track:2a6EP73QVZxj0NSVEta4Ad,"0,227","0,0227",11,"-29,761",1,"0,0432","0,988","0,909","0,103","0,04","84,99",498867,4,"53,77873",23,0,6
+"""Regreso al amor. from Solana's movie """"Sur""""""",Yo-Yo Ma,spotify:track:6NVHnUrSPVAcN3ezheg5HP,"0,365","0,281",2,"-11,878",0,"0,0316","0,719","0,173","0,0899","0,428","95,079",362400,4,"69,18476",17,0,6
+"""Someday (From """"The Hunchback Of Notre Dame"""")""",All-4-One,spotify:track:0LY1DGU1xAWJOFHTMLYBMS,"0,22","0,174",6,"-20,329",0,"0,0307","0,378",0,"0,0944","0,106","167,178",260493,3,"27,05795",12,1,6
+"""Soul To Squeeze (From """"Coneheads"""")""",Red Hot Chili Peppers,spotify:track:6pkzrU2RKoPcQJHT7dwlbP,"0,663","0,546",5,"-5,234",1,"0,0269","0,0322","0,000572","0,107","0,656","88,171",289533,4,"110,3566",9,1,6
+"""The Perfect Drug (From """"Lost Highway"""")""",Nine Inch Nails,spotify:track:4N9jdraFn9ejQPijbgzZzv,"0,627","0,883",5,"-8,988",0,"0,0947","0,0207","0,00346","0,323","0,252","149,024",315440,4,"37,21339",12,1,6
+"""The Riddler (From """"Batman Forever"""")""",Method Man,spotify:track:0GzXo2jahyCJbyTEo5fqCB,"0,798","0,668",10,"-4,824",1,"0,091","0,0571","0,00987","0,204","0,438","168,039",213733,4,"34,91878",14,1,6
+"""Violin Concerto """"To The Memory Of An Angel"""": 2. Allegro - Adagio""",Alban Berg,spotify:track:60P4tyxMGLVOoTNnH8874U,"0,118","0,0688",5,"-22,729",0,"0,041","0,92","0,182","0,109","0,0346","92,353",972000,4,"44,8779",49,0,6
+"""When I Fall In Love (From """"Sleepless In Seattle"""")""",Celine Dion And Clive Griffin,spotify:track:5kqmgfPEUWtDGWOvop4sP2,"0,19","0,241",8,"-13,251",1,"0,0322","0,577",0,"0,0952","0,107","68,353",260827,4,"68,96294",11,1,6
+"""When You Wish Upon A Star (From Walt Disney's """"Pinocchio"""") - Instrumental""",Dave Brubeck,spotify:track:2fjpDEiMe9eYDYmk1W2j3O,"0,617","0,149",0,"-14,349",0,"0,049","0,948","0,17","0,0947","0,431","112,84",288973,4,"56,55171",14,0,6
+#3,Aphex Twin,spotify:track:2Bc4llhjJBW77I552RgA3L,"0,167","0,071",6,"-27,108",0,"0,041","0,911","0,855","0,107","0,0613","143,315",464293,5,"43,83132",18,0,6
+(Everything I Do) I Do It For You,Bryan Adams,spotify:track:6eBK3edMW7bEzecF1eCezc,"0,526","0,365",1,"-12,605",1,"0,028","0,0775","1,35E-05","0,0618","0,253","131,253",394133,4,"27,3344",16,1,6
+(Friday Afternoon) In a Galaxy Far Away,Mattias IA Eklundh,spotify:track:4ndZWKvlUvabWlLPTp2px2,"0,218","0,972",3,"-6,097",1,"0,228","0,113","0,32","0,355","0,167","138,859",47400,3,"23,95958",4,0,6
+(I Could Only) Whisper Your Name,"Harry Connick, Jr.",spotify:track:68EKUNtzGVapUS30PJDVKs,"0,682","0,572",5,"-7,067",0,"0,045","0,191","0,204","0,0504","0,844","89,083",290333,4,"31,29211",12,1,6
+(We Ain't Got) Nothin' Yet,The Blues Magoos,spotify:track:7sKCwyhhdzrb9nx6gmTsFE,"0,409","0,857",10,"-9,709",1,"0,0442","0,208","8,93E-05","0,0493","0,881","148,739",138867,4,"38,63422",6,0,6
+...Baby One More Time,Britney Spears,spotify:track:3MjUtNVVq3C8Fn0MP3zhXa,"0,759","0,699",0,"-5,745",0,"0,0307","0,202","0,000131","0,443","0,907","92,96",211067,4,"31,62785",9,1,6
+¿Y Todo Para Qué?,Intocable,spotify:track:53IpyJOqUIcCzCUtMjP9oy,"0,694","0,637",0,"-7,786",1,"0,0274","0,336","5,4E-05","0,322","0,782","102,833",190533,4,"28,39795",11,0,6
+12,Jeffries Fan Club,spotify:track:6GN4Dciom4zOzftIS5YkDH,"0,436","0,936",7,"-8,156",1,"0,0836","0,00136","0,196","0,118","0,749","116,929",176013,4,"53,51022",7,0,6
+1-2-3,The Chimes,spotify:track:59SxsQ3e2bQ9U65GelEMqV,"0,826","0,611",6,"-12,571",1,"0,0648","0,0336","0,0224","0,0498","0,919","109,801",203360,4,"36,84838",9,1,6
+1969,Sisters of Mercy,spotify:track:5t3w2oRxvGqkzrz5m4fMMm,"0,463","0,762",7,"-7,587",1,"0,033","8,95E-06","0,896","0,0748","0,849","98,556",165433,4,"42,54899",6,0,6
+1-Luv,E-40 (Featuring Leviti),spotify:track:2yJCZ4b5v5vT0iqAs9LuS5,"0,806","0,746",2,"-5,473",1,"0,151","0,0657","6,43E-05","0,127","0,417","90,038",308307,4,"47,24649",12,1,6
+1st Of Tha Month,Bone Thugs-N-Harmony,spotify:track:1dF5Y2dd7Wm4wZKvVjWBpr,"0,729","0,581",5,"-8,235",0,"0,18","0,0777","3,81E-06","0,696","0,508","74,038",314680,4,"46,15646",11,1,6
+3 Gymnopédies: Gymnopedie No. 1,Erik Satie,spotify:track:1jQUjKDjWsVPIYyLANEThG,"0,527","0,0291",7,"-31,347",1,"0,0741","0,994","0,917","0,0959","0,28","99,331",159333,3,"41,14856",8,0,6
+5 Miles To Empty,Brownstone,spotify:track:2kJxVNGxZSENlLGCdV8AIV,"0,671","0,733",3,"-10,884",0,"0,0283","5,01E-05","0,858","0,0745","0,803","123,577",225933,4,"31,81401",10,1,6
+57 Channels (And Nothin' On),Bruce Springsteen,spotify:track:42eWzCqHuCD5QRwzq3I24e,"0,894","0,316",7,"-18,975",1,"0,0978","0,608","0,0153","0,111","0,64","132,061",145467,4,"37,11863",7,1,6
+808,Blaque,spotify:track:1Pqv7l6vxjBxd5fx4bWchC,"0,867","0,42",1,"-9,478",1,"0,167","0,00328","3,18E-06","0,0887","0,367","121,66",306693,4,"22,84136",15,1,6
+A Life of Possibilities,Dismemberment Plan,spotify:track:3TKWCQMU7xYEEslFXsj51i,"0,709","0,837",7,"-7,273",1,"0,0779","0,101","0,511","0,114","0,502","125,485",274720,4,"40,24415",9,0,6
+A Little Love,Corey Hart,spotify:track:7rYipZC5OPXEdhK69Lc8JJ,"0,644","0,856",0,"-10,663",1,"0,0526","0,0766",0,"0,0813","0,542","121,055",252667,4,"38,41666",10,1,6
+A Little Past Little Rock,Lee Ann Womack,spotify:track:3Xl5apC8UhqZ1FZ7u3HHfO,"0,439","0,539",4,"-8,035",1,"0,0329","0,602","1,31E-05","0,155","0,319","171,888",256027,4,"34,90149",11,1,6
+A Message For The Saints,Donald Lawrence & The Tri-City Singers,spotify:track:4tSkWw6LaQm9hSw5KbYCAY,"0,579","0,921",5,"-7,195",0,"0,0454","0,142",0,"0,977","0,552","80,84",322707,4,"48,84223",12,0,6
+A Minha Vingança,Jose Roberto,spotify:track:42zBTWx2BnvoGgwZ2YRudM,"0,634","0,621",9,"-9,795",1,"0,0351","0,0727","1,66E-06","0,286","0,784","120,06",161939,4,"31,72636",8,0,6
+A New Dawn - Gujarat Prabhatiyu,Rakesh Chaurasia,spotify:track:0BFwipUuYDILoHZ2GezTKF,"0,347","0,54",4,"-6,839",1,"0,0305","0,364","0,0565","0,124","0,449","141,814",412720,4,"25,2752",19,0,6
+A Promise I Make,Dakota Moon,spotify:track:6dWbvrb0xygIlstvZxDhDJ,"0,711","0,481",0,"-8,135",0,"0,0242","0,273",0,"0,0952","0,392","90,118",267280,4,"30,26556",11,1,6
+Abigor,Cryptopsy,spotify:track:4kfpbmx9zcQeZLPKNLCO2A,"0,232","0,961",9,"-14,036",1,"0,0503","0,000263","0,929","0,363","0,161","102,172",231427,4,"38,40962",9,0,6
+Action,Terror Fabulous Featuring Nadine Sutherland,spotify:track:42F0eI7tFI8Xez4iqXObBt,"0,62","0,477",6,"-12,277",0,"0,169","0,187",0,"0,0522","0,757","123,876",201747,5,"73,90144",9,1,6
+Action & Action,The Get Up Kids,spotify:track:3rNRmQETcPHauTPFqS7z3T,"0,422","0,92",1,"-4,874",0,"0,0884","0,000137","0,0172","0,241","0,393","76,196",245840,4,"163,09262",4,0,6
+Adrenochrome,Sisters of Mercy,spotify:track:5k0fGRvLPypAvcQ4h1nXLl,"0,624","0,814",9,"-9,07",0,"0,0426","0,00016","0,869","0,0626","0,52","160,911",177450,4,"53,32418",8,0,6
+Advice For The Young At Heart,Tears For Fears,spotify:track:3BjD16l0CBQxUvcRI7vLWN,"0,665","0,787",5,"-8,393",1,"0,0328","0,0736","0,000132","0,143","0,358","122,478",290640,4,"32,4051",14,1,6
+After the Call,Tangerine Dream,spotify:track:0VJY6Yj43VBfkwxKEDWdez,"0,563","0,585",10,"-15,352",0,"0,0444","0,00251","0,912","0,0795","0,742","144,5",314907,4,"42,28513",13,0,6
+After The Rain,Nelson,spotify:track:3VWGHiQO7fArciqoKB2DSx,"0,461","0,867",3,"-5,879",1,"0,0684","0,0109","0,000164","0,33","0,611","125,441",245862,4,"38,8424",11,1,6
+Afternoons & Coffeespoons,Crash Test Dummies,spotify:track:21qfURxhcUJeeKKzB132ze,"0,604","0,866",5,"-6,742",1,"0,0335","0,0151","0,00138","0,357","0,752","122,917",235933,4,"28,55207",10,1,6
+Ain't Nobody's Business,Dejan's Olympia Brass Band,spotify:track:7uon99ZWt3I6nWVaxkw8m2,"0,447","0,325",5,"-17,777",0,"0,174","0,752","0,000617","0,148","0,431","68,634",415867,4,"29,60479",17,0,6
+Alamode,Art Blakey & The Jazz Messengers,spotify:track:3Wglt4wIgeXIBp8nDTh7mQ,"0,459","0,428",1,"-13,654",1,"0,038","0,714","0,0155","0,279","0,801","132,199",410867,4,"17,18954",17,0,6
+Album for the Young. Op. 39 (arr. R. Dubinsky): No. 15. Italian Song (Chanson italienne),Pyotr Ilyich Tchaikovsky,spotify:track:4fKI7bOWTI3ajBiG8EYIVm,"0,2","0,0527",2,"-28,133",1,"0,0436","0,977","0,904","0,133","0,252","68,62",75600,3,"41,23525",4,0,6
+Album for the Young. Op. 39 (arr. R. Dubinsky): No. 18. Neapolitan Song (Chanson napolitaine),Pyotr Ilyich Tchaikovsky,spotify:track:2a82gVYG5ygFPJV9aPvEQA,"0,524","0,124",3,"-23,955",1,"0,0533","0,935","0,943","0,102","0,478","87,248",70560,4,"39,34938",4,0,6
+Alice,Sisters of Mercy,spotify:track:37XVpHmFM8P42ghW4Swczc,"0,501","0,67",11,"-7,683",0,"0,0589","0,000509","0,869","0,0928","0,504","146,204",214936,4,"28,20807",11,0,6
+Aline,João Mineiro & Marciano,spotify:track:2gvrSeHgJaiczOt102ou2U,"0,248","0,449",11,"-9,502",1,"0,0366","0,422",0,"0,123","0,39","180,161",181600,3,"28,06798",8,0,6
+All Along,Blessid Union Of Souls,spotify:track:4BWAfHcuiNeOW2DrtP6RbD,"0,537","0,291",1,"-9,619",1,"0,0266","0,343",0,"0,11","0,0643","76,086",234707,4,"26,38504",13,1,6
+All I'm Missing Is You,"Glenn Medeiros Featuring Ray Parker, Jr.",spotify:track:161VLuQ9BzasINJUoX0sNZ,"0,742","0,745",5,"-9,132",0,"0,0296","0,12",0,"0,0998","0,844","102,996",259733,4,"30,90012",12,1,6
+All Lips N' Hips,Electric Boys,spotify:track:0x2lW60JnKE0oLkUP8kq8C,"0,561","0,927",7,"-9,808",1,"0,0586","0,0886","0,0133","0,343","0,11","93,209",264827,4,"44,58498",7,1,6
+All My Life,K-Ci & JoJo,spotify:track:5GorFaKkP2mLREQvhSblIg,"0,629","0,511",1,"-8,651",1,"0,0326","0,114","3,91E-06","0,0588","0,181","128,038",331240,4,"24,89624",12,1,6
+All of Us,Abhinanda,spotify:track:12WMi9UxilKXQnkyvDGxeo,"0,416","0,697",10,"-10,317",0,"0,0546","0,000121","0,65","0,0862","0,734","99,734",113067,4,"24,10136",6,0,6
+All Sons Of Bitches,George Clinton & The P-Funk All Stars,spotify:track:2PBTUAk1eOAodmkIeb59xT,"0,817","0,815",6,"-6,433",1,"0,0377","0,0188","0,00235","0,239","0,852","110,054",284107,4,"25,73506",12,0,6
+All That Glitters Isn't Gold,The Cover Girls,spotify:track:6HoFcVqhRM3JXfByq0t5go,"0,665","0,822",8,"-9,869",1,"0,0383","0,189","0,00673","0,162","0,795","117,34",350040,4,"34,83423",14,1,6
+All That She Wants,Ace Of Base,spotify:track:6kWJvPfC4DgUpRsXKNa9z9,"0,798","0,625",11,"-9,689",1,"0,0548","0,00547","7,98E-05","0,103","0,858","93,764",211213,4,"29,04853",10,1,6
+All The Man That I Need,Whitney Houston,spotify:track:07M76e7IXxYdnC1BBiJxEX,"0,496","0,571",5,"-9,958",0,"0,0335","0,43",0,"0,0332","0,25","150,944",251427,4,"57,65932",10,1,6
+All Through The Night,Tone-Loc,spotify:track:5XlgIjaIwqD5q5dVjdVo9V,"0,699","0,577",6,"-12,375",1,"0,172","0,00243","0,0268","0,0581","0,802","177,213",295067,4,"31,77604",15,1,6
+All You've Got,RTZ,spotify:track:3WPPoxtp863Y3NdyjuT5Vj,"0,684","0,655",9,"-10,417",1,"0,0335","0,215",0,"0,0676","0,682","110,33",244267,4,"18,1694",11,1,6
+Alma Gêmea,Fábio Jr.,spotify:track:7LZ4votCOvxFLTUz65AjCB,"0,456","0,348",11,"-14,131",1,"0,0314","0,664",0,"0,2","0,222","97,837",289667,3,"14,77668",8,0,6
+Along Came Betty,Art Blakey,spotify:track:541oWN6KqLAPSVKlsk8wHP,"0,483","0,49",9,"-10,647",1,"0,0312","0,784","0,00153","0,116","0,512","135,074",367133,4,"71,93953",16,0,6
+Alright - Demo,Osker,spotify:track:18t3mlQ0qPky2J1MEByC2i,"0,319","0,967",3,"-6,067",1,"0,122","0,124",0,"0,124","0,714","108,664",113827,4,"82,77861",3,0,6
+Always In My Heart,Tevin Campbell,spotify:track:2CD8UvBi01dwnriCM8TivL,"0,713","0,677",6,"-6,761",1,"0,0253","0,0282","5,99E-05","0,144","0,522","124,152",338732,4,"59,83312",13,1,6
+Always On My Mind,SWV,spotify:track:4zAxfkmJqsaHqFu1YPMS5a,"0,621","0,583",1,"-10,127",0,"0,0345","0,0116",0,"0,115","0,452","137,534",317360,4,"59,03463",12,1,6
+Amor De Escuela,Luis Miguel,spotify:track:1SKCQnKAuduNb0tOSTpRG9,"0,541","0,726",0,"-5,582",1,"0,0406","0,277",0,"0,219","0,763","114,092",194809,3,"29,23983",10,0,6
+An Eagle In Your Mind,Boards of Canada,spotify:track:03zv0Znm7bA7XzWMZ1lEKO,"0,825","0,467",6,"-14,055",1,"0,0753","0,371","0,845","0,0594","0,249","96,012",385520,4,"24,28685",14,0,6
+Analogue Rock,Stereolab,spotify:track:5wBY03eJvpy0OqYP6MK5oL,"0,324","0,603",8,"-8,014",0,"0,0361","4,06E-06","0,102","0,1","0,353","140,697",278348,4,"29,92023",11,0,6
+And Our Feelings,Babyface,spotify:track:27sYHmgfRvHFyQ5vrm5nQp,"0,741","0,592",4,"-7,819",1,"0,0298","0,138",0,"0,224","0,27","128,137",342360,4,"77,6191",9,1,6
+And the Birds Are Singing,Sebastian Lightfoot,spotify:track:71Y0TBv5vNzliOX8dFIJD7,"0,158","0,376",2,"-15,459",1,"0,0347","0,0346","0,712","0,291","0,252","64,993",439800,4,"41,63315",25,0,6
+Angel,Jon Secada,spotify:track:543d68hZ4dzVePFfdVc0Ki,"0,485","0,477",0,"-8,948",1,"0,0262","0,295","3,35E-05","0,202","0,134","151,704",275040,4,"38,21205",15,1,6
+Angels From the Realms of Glory,Discovery Singers,spotify:track:5biFDVTSs0GCP67Dz44eep,"0,513","0,258",9,"-13,636",1,"0,0392","0,976",0,"0,173","0,495","75,045",136867,4,"20,93505",3,0,6
+Angels Would Fall,Melissa Etheridge,spotify:track:5vuLPGz5irIX7TAHsFKQcQ,"0,472","0,714",7,"-7,546",0,"0,0248","0,102","2,91E-06","0,0485","0,7","92,874",279573,4,"37,51236",11,1,6
+Angelus ad pastores - Transc. Denis Arnold/Edited for performance John Eliot Gardiner,Giovanni Gabrieli,spotify:track:2PLNtjT3VLjdOwEgOaK0Qa,"0,252","0,158",9,"-17,906",0,"0,0339","0,995","0,0368","0,0791","0,26","80,878",129267,4,"47,73662",5,0,6
+Anti-Manifesto,Propagandhi,spotify:track:5pC1EmGL0mLkqZblnEe1hH,"0,349","0,969",7,"-4,621",1,"0,114","0,000793","0,00344","0,117","0,629","114,994",214920,4,"29,72272",8,0,6
+Anything Is Possible,Debbie Gibson,spotify:track:5igzD9gFG7lwqfNjiKyV0m,"0,696","0,861",8,"-7,298",0,"0,0342","0,253",0,"0,287","0,904","110,069",223453,4,"33,53568",10,1,6
+April Kisses,Eddie Lang,spotify:track:3XrVpk9SxBzkw9zfvYsH7R,"0,572","0,233",0,"-19,258",0,"0,0526","0,935","0,779","0,117","0,711","83,681",188667,4,"38,51682",11,0,6
+Aqui Llego,Dj Joe,spotify:track:1grkqs0ePeh1EBKMo4wRK0,"0,875","0,884",6,"-5,141",1,"0,219","0,0789",0,"0,325","0,741","107,976",189675,4,"26,40794",11,0,6
+Arcana,Edgard Varèse,spotify:track:1Pgw7E5CIs8aZGJ9pqRBak,"0,264","0,365",3,"-16,909",0,"0,0749","0,694","0,651","0,169","0,0547","140,266",1110240,4,"17,87218",47,0,6
+Are You That Somebody?,Aaliyah,spotify:track:3FY7setkwqNLtNyS4se0jd,"0,848","0,663",9,"-7,078",0,"0,159","0,124","0,0293","0,0737","0,833","137,953",265667,4,"57,2324",10,1,6
+Arena Of Concealment,Caliban,spotify:track:7ytyhHGmO2mRJGn8VW5hSc,"0,28","0,957",7,"-6,707",1,"0,0908","6,06E-06","0,712","0,398","0,365","95,099",169680,4,"23,47645",7,0,6
+Ash Tray Blues,Papa Charlie Jackson,spotify:track:2oods8nOG6bB6ZUFHEumbx,"0,85","0,212",7,"-16,888",1,"0,0948","0,987","0,0298","0,114","0,781","121,146",178730,4,"53,3255",8,0,6
+At The Atlantis,Bad Brains,spotify:track:5jRP1M1h9cx4O1thbg2HmZ,"0,339","0,927",3,"-8,474",1,"0,093","4,87E-06","0,813","0,353","0,711","135,266",118000,4,"49,01178",6,0,6
+Atom & His Package - Rock Version,Atom And His Package,spotify:track:4nFHAWXFCLoGZUeb1glVyX,"0,337","0,765",0,"-7,323",1,"0,128","0,000768","0,000108","0,701","0,727","147,041",147387,4,"32,27974",6,0,6
+Augenblick - Richard Bartz Techno Soul Mix,Sven Väth,spotify:track:5lYH9pIqXOu0mIgOBzYhi7,"0,657","0,648",0,"-11,238",1,"0,0366","0,0214","0,77","0,35","0,311","133,317",326173,4,"36,85613",13,0,6
+Automatic Lover (Call For Love),Real McCoy,spotify:track:7CEPvXcCMeCSBrMI72ayLm,"0,688","0,98",5,"-4,862",0,"0,034","0,0693","0,462","0,16","0,538","132,992",227933,4,"45,0153",11,1,6
+B.B.D. (I Thought It Was Me)?,Bell Biv DeVoe,spotify:track:4oRDt0qQeY4XQOQWYOQUmt,"0,748","0,799",1,"-9,322",1,"0,0438","0,00348","1,59E-06","0,103","0,795","105,569",275107,4,"20,53487",11,1,6
+Baby,Brandy,spotify:track:5DXZEyRABIakjsRJYApURz,"0,807","0,651",5,"-6,714",0,"0,0477","0,0236","6,65E-06","0,174","0,829","91,028",313293,4,"32,50135",11,1,6
+Baby I'm Yours,Shai,spotify:track:3xSu3S8v206qwhob9N2LGJ,"0,705","0,575",2,"-9,518",1,"0,0381","0,215","2,09E-05","0,12","0,596","143,8",274667,4,"77,05561",12,1,6
+Baby-Baby-Baby,TLC,spotify:track:1zTuB57LYZa7xu7KUH8kF0,"0,679","0,597",11,"-8,601",0,"0,0439","0,0913","0,000673","0,0487","0,9","184,174",315040,4,"20,93007",15,1,6
+Babymaker,Pale Saints,spotify:track:1En7mRsz1SzSb6TTTsjVA6,"0,332","0,572",0,"-13,904",1,"0,0329","0,000701","0,732","0,112","0,287","146,809",205907,4,"103,25433",8,0,6
+Back To The Bullet,Saraya,spotify:track:0vFOxSmQ2DvSlqeicQFGZO,"0,406","0,779",1,"-8,454",0,"0,0337","0,0261","2,71E-06","0,115","0,47","106,018",229840,4,"25,29697",11,1,6
+Bad Girl,Madonna,spotify:track:2tySjBBWqam7oaBUZ26oNL,"0,645","0,484",11,"-11,233",0,"0,0396","0,0211","3,88E-06","0,0495","0,52","146,897",323333,4,"44,29664",12,1,6
+Bad Reputation,Freedy Johnston,spotify:track:5aNAOwr2QoRbvyRG7ZVrhf,"0,608","0,677",4,"-9,951",0,"0,0246","0,0058","0,000537","0,266","0,787","114,046",248560,4,"42,90858",11,1,6
+Ballade,Igor Stravinsky,spotify:track:5ZzJiOMozFewsEN9wsN1DL,"0,306","0,0687",7,"-21,095",0,"0,0468","0,986","0,234","0,0698","0,147","137,235",199440,4,"40,67931",8,0,6
+Bang And Blame,R.E.M.,spotify:track:4FCn9LuUy6unyPSnXVwLq1,"0,694","0,584",7,"-9,855",1,"0,0404","0,141","0,545","0,112","0,444","120,949",330933,4,"103,17266",10,1,6
+Bang Bang,David Sanborn,spotify:track:1TUtUzVjXu1zA4U9nNv3Pw,"0,716","0,915",10,"-8,153",1,"0,0343","0,589","0,000871","0,351","0,96","127,074",277432,4,"36,1592",8,1,6
+Barracudas (General Assembly),Wayne Shorter,spotify:track:4f1PnJJDsLa1AHmvuBtZtW,"0,338","0,519",2,"-14,728",1,"0,0418","0,571","4,03E-05","0,0925","0,386","66,043",667933,4,"36,58139",30,0,6
+Barrel Of A Gun,Depeche Mode,spotify:track:5COH2h5ncTVFfAUhBM2J7k,"0,522","0,949",4,"-5,216",1,"0,073","0,0221","0,00286","0,0615","0,707","165,872",336293,4,"18,89752",14,1,6
+Be My Baby Tonight,John Michael Montgomery,spotify:track:2P9Cn8LEt0mK0WD6iCYokP,"0,634","0,774",9,"-7,651",1,"0,0384","0,226","2,16E-05","0,397","0,927","156,828",170533,4,"37,1246",6,1,6
+Beautiful Life,Ace Of Base,spotify:track:74jTexO94dFGyXGyeu8krd,"0,749","0,988",0,"-5,266",0,"0,0387","0,202","0,00631","0,17","0,749","135,015",221187,4,"51,38483",9,1,6
+Beautiful Stranger,Madonna,spotify:track:3DlRZM6zKSlAZigHbJQ3cp,"0,52","0,756",11,"-3,909",1,"0,0288","0,122","3,53E-05","0,389","0,286","122,448",260760,4,"45,10632",10,1,6
+Bébé rock,Jeanne Mas,spotify:track:0n4rHqrodQ15v9tYZhVWLW,"0,584","0,337",7,"-15,206",0,"0,0277","0,738","0,00256","0,0936","0,224","127,966",320573,4,"30,85216",17,0,6
+Because The Night,"10,000 Maniacs",spotify:track:5VzvK7YiwWbRePA2JOzhYq,"0,408","0,79",11,"-8,138",0,"0,103","0,26","0,00027","0,765","0,347","122,624",223373,4,"25,14097",8,1,6
+Bed Of Roses,Bon Jovi,spotify:track:1zng9uqqXoPkmU05nsAlsw,"0,309","0,596",5,"-5,599",1,"0,0293","0,101",0,"0,21","0,161","164,587",394400,3,"53,08901",17,1,6
+Besa Me Mucho,Limpopo,spotify:track:4ywrxU7nx1ohP6bd4q2gu8,"0,517","0,462",4,"-8,597",0,"0,0331","0,866","0,315","0,161","0,616","122,838",189840,4,"27,26668",9,0,6
+Better Days,Strung Out,spotify:track:4KIfIaa0Ugup84PGCG8L3L,"0,426","0,963",5,"-5,355",0,"0,0662","0,0028",0,"0,164","0,546","111,399",146107,4,"19,11929",6,0,6
+Better Than You,Lisa Keith,spotify:track:1qDOcORGMV1sThFhunLwjF,"0,706","0,933",8,"-4,442",1,"0,0467","0,0339","0,000323","0,138","0,762","99,451",253667,4,"23,3467",11,1,6
+Beyond the Realms of Death,Agent Steel,spotify:track:45MGbaQoGrlXsnbmbrJXg2,"0,245","0,819",6,"-8,1",1,"0,0524","0,00541","0,00772","0,423","0,381","91,605",403840,4,"32,94822",13,0,6
+Big Calm,Morcheeba,spotify:track:2z6WRrNKmMHgiFJnwsdGEi,"0,549","0,805",0,"-6,779",1,"0,0917","0,0506","0,649","0,0762","0,289","150,234",360907,4,"43,94957",12,0,6
+Bills. Bills. Bills,Destiny's Child,spotify:track:1Oi2zpmL81Q0yScF1zxaC0,"0,845","0,576",11,"-5,15",0,"0,153","0,139",0,"0,0764","0,461","127,641",256027,4,"51,35445",10,1,6
+Bittersweet Me,R.E.M.,spotify:track:7aYzsNdBnwgHtB5QftgYRW,"0,417","0,856",4,"-5,939",0,"0,0443","0,00743","0,00079","0,186","0,441","120,038",245760,4,"41,00081",10,1,6
+Bizarre Love Triangle,FRENTE!,spotify:track:7sgi66biRYpAXuRZJBDuli,"0,738","0,198",1,"-10,919",1,"0,0625","0,906",0,"0,105","0,682","123,158",119813,4,"53,20653",5,1,6
+Black Cat,Janet Jackson,spotify:track:4tYpYYoOI7WDxbCnPninwE,"0,705","0,913",4,"-7,253",0,"0,0484","0,103","0,00111","0,216","0,665","114,959",290573,4,"44,28293",12,1,6
+Black Organ,Jackie Mittoo,spotify:track:7LCMli8kAt35cwwZATzR9r,"0,836","0,593",1,"-9,744",0,"0,19","0,335","0,569","0,0482","0,973","145,215",192000,4,"49,14418",8,0,6
+Black Velvet,Alannah Myles,spotify:track:1KU5EHSz04JhGg3rReGJ0N,"0,754","0,366",8,"-10,07",1,"0,0312","0,273","9,04E-05","0,106","0,469","91,147",287440,4,"49,43096",10,1,6
+Blame It On The Blues,Sidney Bechet,spotify:track:674ipFex3IwwIeQRgraTQJ,"0,696","0,501",5,"-9,861",0,"0,0828","0,77","0,885","0,156","0,937","98,83",179067,4,"55,71328",6,0,6
+Blazing Fire,Derrick Morgan,spotify:track:36vwZIzXhoNJL3hdfhoCIG,"0,825","0,785",5,"-6,342",1,"0,0727","0,0546",0,"0,199","0,961","114,589",174080,4,"33,4578",8,0,6
+Blessed Assurance - Old Time Gospel Hymns Version,Craig Duncan,spotify:track:0XlC9DQdznivjcNjgIZFLM,"0,523","0,287",9,"-13,719",1,"0,0333","0,815","0,405","0,138","0,439","146,532",234000,3,"48,72576",9,0,6
+Blue,LeAnn Rimes,spotify:track:1g5EcKDECPxeI7kgkvcbxm,"0,545","0,452",4,"-8,604",1,"0,0248","0,595","1,29E-06","0,161","0,297","91,294",169547,4,"38,50964",9,1,6
+Blue Fields,Nobuo Uematsu,spotify:track:07xgdexrFrCURBXZkmfs2G,"0,456","0,29",0,"-13,232",0,"0,0428","0,895","0,94","0,106","0,512","158,908",174133,5,"38,86235",7,0,6
+Blue Lunar Ska,New York Ska-Jazz Ensemble,spotify:track:18aUlfSsqnHlicKzV0Tqa9,"0,615","0,582",11,"-9,225",1,"0,0295","0,0117","0,896","0,154","0,724","120,044",258667,4,"28,40083",10,0,6
+Blue Sky Mine,Midnight Oil,spotify:track:6z9ehfxE973fOlKJKNJL2x,"0,631","0,852",1,"-3,181",1,"0,029","0,0601","0,000102","0,144","0,834","132,018",255600,4,"29,66725",14,1,6
+Blues X Man,The Jon Spencer Blues Explosion,spotify:track:3jdKHCmYhTEpypRotNqFs3,"0,633","0,647",9,"-3,691",1,"0,122","0,281","0,285","0,311","0,63","94,824",213147,4,"39,46883",11,0,6
+Body and Soul,"""Richard """"Groove"""" Holmes""",spotify:track:2KQp3rQtnuN9eDeIWJo6sr,"0,487","0,112",1,"-20,653",1,"0,0408","0,935","0,691","0,279","0,244","97,312",563160,4,"33,33574",21,0,6
+Body And Soul,Barry Harris,spotify:track:3nkrx5hB7oH3mqcmT7mdpu,"0,315","0,091",10,"-22,02",0,"0,0483","0,995","0,914","0,122","0,161","81,928",241800,4,"28,53627",12,0,6
+Body and Soul,Rick Braun,spotify:track:7c3ZDUu5L5wJj1gunlWY7f,"0,69","0,411",10,"-10,617",0,"0,0432","0,851","0,095","0,136","0,373","77,031",271488,4,"69,46005",11,0,6
+Boom Boom Boom,The Outhere Brothers,spotify:track:3zg4stPJlbNSBPA8HJzLZA,"0,723","0,857",7,"-9,989",1,"0,241","0,0523","2,66E-05","0,149","0,642","129,87",201893,4,"30,67783",10,1,6
+Born with a Broken Heart,Kenny Wayne Shepherd,spotify:track:76lRuankApOCvZwYrdKhqE,"0,325","0,828",1,"-9,636",1,"0,0344","4,28E-05","0,0933","0,0858","0,824","111,289",356067,4,"28,17179",15,0,6
+Both Sides Of The Story,Phil Collins,spotify:track:4cf7GM8kOiqc0KwDn3GxRa,"0,524","0,706",8,"-6,91",1,"0,0427","0,0383","0,000111","0,0737","0,425","127,645",403920,4,"68,16121",15,1,6
+Breaking Bells - Take Me to the Mardi Gras,Crash Crew,spotify:track:7dB6Up1HBi5PDP7aiLsUMe,"0,803","0,711",7,"-7,217",1,"0,3","0,0157","0,000372","0,0461","0,735","199,283",442240,4,"42,90586",19,0,6
+Bring The Pain,Method Man,spotify:track:3F3R4uyTMkX9jRCEVVmdz6,"0,835","0,456",6,"-10,195",0,"0,266","0,38","0,00359","0,16","0,224","101,889",189760,4,"42,58583",9,1,6
+Broken Heart,Spiritualized,spotify:track:2EW4Wu7bZhEyHd8LzJR1DU,"0,132","0,302",8,"-12,36",0,"0,0397","0,583","0,639","0,188","0,0368","144,69",398307,4,"31,56984",26,0,6
+Brokenhearted,Brandy,spotify:track:6AzzMupvtP4u4B8d5OWVUi,"0,329","0,517",6,"-7,178",1,"0,0353","0,488",0,"0,0985","0,408","149,758",286493,4,"123,44564",7,1,6
+Brooklyn Zoo,Ol' Dirty Bastard,spotify:track:2FWmKZ3kNbVsKGhuNHsltW,"0,704","0,701",2,"-8,031",1,"0,46","0,549",0,"0,664","0,618","92,032",217507,4,"52,70197",9,1,6
+Bug A Boo,Destiny's Child,spotify:track:3iZizHVmWHdaJbvcU65S6x,"0,76","0,718",6,"-3,087",1,"0,147","0,00413","7,63E-06","0,18","0,927","104,42",212440,4,"36,33562",13,1,6
+Bullet With Butterfly Wings,The Smashing Pumpkins,spotify:track:6GtX0jaNL8IjVQfrDBx81z,"0,404","0,72",10,"-9,18",0,"0,0626","5,59E-05","0,836","0,0466","0,475","121,649",258467,4,"49,99463",9,1,6
+Bunnies,Pansy Division,spotify:track:5qneRJwocbutMZIoM0FdCV,"0,567","0,951",9,"-5,982",1,"0,0363","0,00104",0,"0,23","0,855","100,85",123402,4,"33,24526",6,0,6
+Butta Love,Next,spotify:track:6fRLVZ4jKzuqyDPlIdbq9q,"0,735","0,441",1,"-8,412",0,"0,0407","0,0972",0,"0,0967","0,591","108,015",296400,4,"59,51177",13,1,6
+Butterfly's Day Out,Mark O'Connor,spotify:track:5I4vGFmdKrwpiKw26VVk0m,"0,393","0,0967",7,"-21,738",1,"0,0387","0,966","0,613","0,0662","0,354","111,92",282893,4,"37,93064",14,0,6
+Butterfly's Day Out,Mark O'Connor,spotify:track:5XLk9yZZbOalRk7VtdTptk,"0,379","0,0567",7,"-26,099",1,"0,04","0,962","0,444","0,0613","0,297","112,366",282667,4,"37,3197",14,0,6
+C.R.E.A.M. (Cash Rules Everything Around Me),Wu-Tang Clan,spotify:track:61QU5MPwOReHIAfnY4vh54,"0,675","0,659",9,"-8,787",0,"0,95","0,706",0,"0,113","0,172","79,457",158427,1,"77,85195",5,1,6
+Cabin On The Hill,Lester Flatt,spotify:track:4bE74H48cdweWrLXX5DGpG,"0,728","0,3",8,"-12,441",1,"0,0333","0,829",0,"0,0931","0,722","119,144",150000,4,"21,10495",8,0,6
+Can I Touch You...There?,Michael Bolton,spotify:track:0DTpV2HP75LNhCEkvq1FhV,"0,555","0,841",0,"-6,704",1,"0,351","0,281",0,"0,244","0,802","82,871",315893,4,"21,82731",15,1,6
+Candle In The Wind 1997/Something About The Way You Look Tonight,Elton John,spotify:track:5LjSxAIKwyZvQqJ04ZQ0Da,"0,48","0,628",6,"-7,643",1,"0,0262","0,174","3,28E-05","0,0753","0,541","143,412",240547,4,"22,73478",11,1,6
+Candlelight,Imogen Heap,spotify:track:1Plpn3qFBcnQpyfOMKYfdD,"0,421","0,359",0,"-11,508",1,"0,0358","0,928","1,98E-05","0,0699","0,228","131,263",277093,4,"52,1606",9,0,6
+Can't Get Enuff,Winger,spotify:track:1dkVHFWmHSkbVmc5MG6shA,"0,638","0,83",11,"-8,616",0,"0,0289","0,000847","0,00453","0,224","0,861","100,05",226345,4,"77,81072",9,1,6
+Can't Get You Off My Mind,Lenny Kravitz,spotify:track:7bk6iZ5dsrMySXB0aVFYXO,"0,567","0,52",7,"-10,247",1,"0,0283","0,0147","3,91E-06","0,25","0,393","124,708",274000,4,"31,38353",16,1,6
+Can't Let Go,Mariah Carey,spotify:track:0ikbcCJIJaY9sKEivAXJ4I,"0,477","0,533",10,"-11,049",1,"0,0408","0,591","0,00685","0,139","0,18","162,368",266560,4,"26,49111",12,1,6
+Can't Nobody Hold Me Down,Puff Daddy (Featuring Mase),spotify:track:1EM23A621Z0QyTlWKu7T1l,"0,928","0,771",3,"-5,935",0,"0,251","0,102","1,07E-05","0,338","0,679","93,987",231160,4,"31,5471",13,1,6
+Can't Stop This Thing We Started,Bryan Adams,spotify:track:753VOnELPOptUFMm7H10Vc,"0,497","0,93",9,"-3,902",1,"0,0444","0,0112",0,"0,354","0,47","113,086",195933,4,"21,81515",10,1,6
+Capsized,Samiam,spotify:track:4x7patzyHOgtwhiRJtWs9K,"0,372","0,757",11,"-7,758",0,"0,0642","0,00851","6,55E-05","0,122","0,572","82,386",251960,4,"65,31176",9,0,6
+Captain Save A Hoe,E-40,spotify:track:4ixD6bSwnSlzuBrd2c80vI,"0,8","0,336",7,"-19,552",1,"0,252","0,0579",0,"0,223","0,538","82,996",288298,4,"54,28599",12,1,6
+Carnival,Natalie Merchant,spotify:track:4QXhRjZacZ1gZUeL7Ukktw,"0,601","0,48",6,"-11,41",0,"0,0732","0,2","0,0955","0,0297","0,802","188,214",361107,4,"29,83122",13,1,6
+Carol Of The Bells,Steve Morse,spotify:track:6INlQWycZSqmEApYBX8l58,"0,544","0,185",0,"-23,025",1,"0,042","0,957","0,938","0,0681","0,755","160,017",234213,3,"60,73291",11,0,6
+Chatterbox,New York Dolls,spotify:track:6XxQdKcpWMJmP8tgkqnR9O,"0,378","0,762",4,"-12,571",1,"0,0844","0,426","0,238","0,121","0,372","139,802",145773,4,"29,85589",9,0,6
+Cheio de Dedos,Guinga,spotify:track:5TtgbW5qEaLSJ8ZOTePEBk,"0,553","0,336",7,"-15,422",1,"0,0394","0,934","0,908","0,111","0,526","105,401",141333,4,"41,05606",7,0,6
+Chhammak Chhallo (Hip Hop) - Ajay / Soundtrack Version,Kumar Sanu,spotify:track:7pUfaIrMil5GIn2AbLBwci,"0,721","0,871",6,"-6,638",1,"0,057","0,531","1,92E-05","0,281","0,961","102,073",280067,4,"64,79503",10,0,6
+Chicken An' Dumplings - Live,Art Blakey & The Jazz Messengers,spotify:track:2o3RFI66zFE8cffHn6uvtU,"0,525","0,452",7,"-12,175",1,"0,222","0,755","0,00192","0,868","0,666","90,611",446360,4,"42,46058",17,0,6
+Children,Robert Miles,spotify:track:4wtR6HB3XekEengMX17cpc,"0,604","0,755",0,"-10,761",1,"0,0337","0,000295","0,812","0,0625","0,388","137,064",243267,4,"35,42465",8,1,6
+Church Of Your Heart,Roxette,spotify:track:6broBHB7ObAA2BhzLT2nlX,"0,581","0,637",7,"-6,039",1,"0,0273","0,0146","1,15E-05","0,103","0,608","112,437",195987,4,"34,71079",10,1,6
+Church Street Sobbin' Blues,Eddie Lang,spotify:track:0WnIzeXMjluZYPWC3d6ox9,"0,606","0,149",5,"-15,582",1,"0,0809","0,948","0,836","0,103","0,527","128,121",182867,4,"36,74188",9,0,6
+Clarinet Marmalade,Muggsy Spanier,spotify:track:0hUJeKsRkzbIY243toePCA,"0,56","0,681",1,"-8,703",0,"0,0716","0,861","0,798","0,13","0,764","117,748",205333,4,"36,87489",7,0,6
+Clarinet Marmalade - Live,Alton Purnell,spotify:track:5FOXuiLI6knVtgMUjWKj6x,"0,565","0,594",5,"-13,086",1,"0,0646","0,655","0,926","0,675","0,763","114,219",375933,4,"80,99693",10,0,6
+Cliffs Of Dover - Instrumental,Eric Johnson,spotify:track:5qm0KiVKMXW1kq6VrnIhz5,"0,449","0,775",7,"-12,029",1,"0,0405","0,162","0,149","0,248","0,313","94,907",249768,4,"16,52584",14,0,6
+Closer To Me,The Outfield,spotify:track:7aoVXo6QZxoDM4fyXJpCDz,"0,675","0,61",9,"-12,398",1,"0,0355","0,152","0,00135","0,124","0,821","120,979",197333,4,"32,63712",9,1,6
+Coal Mine,InsideOut A Cappella,spotify:track:170eTTZS7yPeqXsDoPYf1f,"0,579","0,526",2,"-8,964",1,"0,281","0,739",0,"0,125","0,895","149,336",225093,4,"22,02222",15,0,6
+Coco Jamboo,Mr. President,spotify:track:5fRvePkRGdpn2nKacG7I6d,"0,832","0,838",1,"-5,414",0,"0,0421","0,0791",0,"0,152","0,965","100,021",218733,4,"37,38921",11,1,6
+Cofio Dy Wyneb,Bryn Fôn,spotify:track:4GDN47aEli9Bf1IYTQNrrE,"0,522","0,22",4,"-13,997",1,"0,0312","0,935","0,000281","0,131","0,0722","144,078",272267,4,"73,29039",10,0,6
+Color Me Once,Violent Femmes,spotify:track:2kyjRBPLjeFn3JMzMtykxf,"0,689","0,512",2,"-8,782",0,"0,0354","0,636","0,00255","0,103","0,365","118,843",251707,4,"35,27758",15,0,6
+Come Again,Damn Yankees,spotify:track:6Hfvn9qguufsmHp0uk3y3r,"0,222","0,681",9,"-10,832",0,"0,0469","0,126","8,03E-05","0,128","0,388","130,689",339560,4,"48,53608",17,1,6
+Come Baby Come,K7,spotify:track:0Y6z0WSMQpTpj4kQArPnmK,"0,832","0,726",11,"-7,739",0,"0,191","0,0283",0,"0,0468","0,548","106,118",239733,4,"19,46116",10,1,6
+Come Undone,Duran Duran,spotify:track:0yfNXxlyXdmP0ue1iJijx1,"0,542","0,793",8,"-8,203",1,"0,053","0,0423","3,95E-06","0,0814","0,708","173,931",256520,4,"33,0209",14,1,6
+Communist Daughter,Neutral Milk Hotel,spotify:track:72iYfBDEF6dNVeekA8ppyB,"0,192","0,377",7,"-9,157",1,"0,0352","0,285","0,813","0,173","0,0976","84,772",117307,4,"32,368",5,0,6
+Con Te Partirò,Andrea Bocelli,spotify:track:7zrpoAJte9o12TzawqgdD0,"0,241","0,367",7,"-7,95",1,"0,0311","0,844","0,00279","0,0873","0,302","135,267",250984,5,"43,76625",11,0,6
+Condon Nacional,Sexual Democracia,spotify:track:0lbIwYtlabSZqq3QJyERNL,"0,631","0,458",7,"-12,136",0,"0,0441","0,275",0,"0,19","0,627","90,96",300427,4,"38,83737",16,0,6
+Confidente de Secundaria,Los Superclasicos,spotify:track:30D4KlCqNcdIckd2AzGleo,"0,682","0,616",7,"-10,232",1,"0,0339","0,299","8,23E-06","0,0995","0,963","105,015",136640,4,"42,39167",6,0,6
+Congo - D Max Mix,The Boss,spotify:track:3FZhMhyawbtrDbQl4Z90pm,"0,739","0,864",10,"-9,323",0,"0,0693","0,0277","0,897","0,333","0,402","123,684",584133,4,"79,12952",23,0,6
+Connected,Stereo MC's,spotify:track:5t09SnxOR2AelOghumKkXO,"0,647","0,798",1,"-12,144",0,"0,0365","0,0498","0,00221","0,0722","0,706","100,631",314133,4,"58,00848",8,1,6
+Cool Waves,Spiritualized,spotify:track:2x6fjgPBbXcwWUvv38QjUN,"0,264","0,373",9,"-9,735",1,"0,0298","0,404","0,141","0,0997","0,0383","140,275",306027,3,"37,66348",10,0,6
+Coração Vagabundo,Gal Costa,spotify:track:4JsvZ2mfept92T8G1EHIQ6,"0,497","0,13",0,"-21,208",0,"0,0538","0,879","0,0811","0,0965","0,277","80,442",144667,1,"32,85328",8,0,6
+Count Me Out,Kickback,spotify:track:4KyJErKfJ8LueosXfAozmF,"0,487","0,88",9,"-7,357",1,"0,12","0,000277","0,00309","0,138","0,31","127,712",234907,4,"35,81291",10,0,6
+Cover Girl,New Kids On The Block,spotify:track:6CCYX0JVy5qYqUvWpCvHXh,"0,721","0,765",6,"-13,036",1,"0,0345","0,0344","2,83E-06","0,322","0,948","119,948",241840,4,"50,45903",12,1,6
+Crazy,Aerosmith,spotify:track:3swOo7nMm8zgAlV1NKPnka,"0,37","0,866",6,"-3,879",0,"0,0384","0,0868",0,"0,137","0,427","162,086",316693,3,"58,51492",13,1,6
+Crazy,Seal,spotify:track:7C37C3t2RfJ3XL1KaYzUT1,"0,633","0,858",11,"-7,42",0,"0,0473","0,208","0,0114","0,0655","0,725","102,559",356520,4,"28,63587",13,1,6
+Creep With Me,South Park Mexican,spotify:track:1qSMPxxsXOqTiAqWrnnVlg,"0,847","0,529",4,"-7,339",0,"0,261","0,229",0,"0,256","0,945","160,033",253467,4,"32,06404",14,0,6
+Cruisin',D'Angelo,spotify:track:2voXNGgRrosxCJA6foTVau,"0,407","0,525",11,"-12,725",0,"0,166","0,381","0,000452","0,0816","0,329","74,34",384667,4,"29,09254",17,1,6
+Crush,Dave Matthews Band,spotify:track:6AKSrodq9kU9hmTLEeWFFr,"0,564","0,745",0,"-6,933",1,"0,0411","0,262","2,78E-05","0,108","0,672","94,044",488734,4,"28,32058",20,1,6
+Crusin',Sound Advice,spotify:track:4BH000nstwl38nNaCHbhkD,"0,643","0,556",8,"-15,448",1,"0,0451","0,449","0,929","0,249","0,572","99,002",330667,4,"42,33225",10,0,6
+Cumdumpster,Jack Off Jill,spotify:track:4CmtpAfwwVLpJTzKigHuXT,"0,298","0,793",4,"-6,228",1,"0,157","0,000342","0,164","0,161","0,648","150,454",146657,4,"28,39506",9,0,6
+Cupido,El Gran Combo De Puerto Rico,spotify:track:6Bpo4npCY8nGEI9EFfqI9c,"0,727","0,716",8,"-5,474",1,"0,0346","0,592","1,19E-06","0,187","0,928","93,184",258973,4,"26,69858",13,0,6
+Cuspa Cerveja...,Os Pedrero,spotify:track:6IYGvJanVieBEtJaO4IGfc,"0,166","0,985",2,"-4,529",1,"0,119","0,147","0,179","0,54","0,609","170,045",65667,4,"28,13311",4,0,6
+Cuts Both Ways,Gloria Estefan,spotify:track:12DC0GskYSH3T4NX4FCgE3,"0,38","0,309",11,"-12,6",1,"0,0329","0,649",0,"0,0693","0,299","83,717",194333,4,"49,55852",8,1,6
+Cyclone,Jan Cyrka,spotify:track:37aC08L4smXN1L0gDYWXtj,"0,495","0,926",2,"-7,278",1,"0,0594","0,0615","0,908","0,222","0,446","119,791",188040,4,"24,24762",8,0,6
+Damn I Wish I Was Your Lover,Sophie B. Hawkins,spotify:track:0RmEn2jcbyrLV4em3bnDZJ,"0,563","0,806",2,"-6,826",1,"0,0496","0,281","1,49E-05","0,363","0,42","95,188",323400,4,"53,70697",11,1,6
+Dangerous,Busta Rhymes,spotify:track:2cZuNzaAGNFozlZTxSDU1g,"0,913","0,6",11,"-8,446",0,"0,202","0,0096",0,"0,117","0,764","103,268",217640,4,"21,75141",9,1,6
+Danny Boy,The King's Singers,spotify:track:0pSU2FXTmbfKh2wEVSOeg6,"0,245","0,0284",3,"-24,309",1,"0,0383","0,953","3,77E-05","0,136","0,0709","106,958",190667,4,"48,29487",9,0,6
+Darn That Dream,Dexter Gordon,spotify:track:1r1JtYz4XhvIIU1bIMQ0cn,"0,526","0,0921",4,"-14,569",0,"0,0386","0,918","0,329","0,116","0,292","115,388",452333,4,"37,63463",19,0,6
+Days And Nights In St. Ignace,Funk Inc.,spotify:track:5BfI84f26Wkp4crWYPRpgJ,"0,689","0,579",10,"-11,258",1,"0,0316","0,442","0,765","0,152","0,63","111,98",314400,4,"54,0351",17,0,6
+Days of the Broken Arrows,The Idle Race,spotify:track:7ja7aQuGPAxk9jW4hlOTfI,"0,469","0,72",4,"-8,02",1,"0,0494","0,533","1,31E-06","0,233","0,655","128,685",231347,4,"31,64781",9,0,6
+December,Collective Soul,spotify:track:3yi27cGUFPTQUdWZV9nV67,"0,684","0,645",0,"-5,707",1,"0,0272","0,589","0,00432","0,18","0,366","121,995",285000,4,"47,447",12,1,6
+Decidete,Luis Miguel,spotify:track:49d9r0dPy455AM3VGxB7z4,"0,614","0,904",9,"-4,811",1,"0,0375","0,63",0,"0,336","0,772","135,606",183223,4,"26,73278",11,0,6
+Deeper Shade Of Soul,Urban Dance Squad,spotify:track:4KRMoo8vKWavy5f6dFpFmS,"0,76","0,767",7,"-6,155",1,"0,0313","0,11","0,000718","0,0314","0,821","113,425",272907,4,"43,40602",11,1,6
+Deepwood,Avail,spotify:track:7vqTCxdmdtbC9kCmeuefWs,"0,177","0,936",2,"-4,992",1,"0,0644","9,63E-06",0,"0,0359","0,555","158,166",120493,4,"40,51433",6,0,6
+Deja Vu [Uptown Baby],Lord Tariq & Peter Gunz,spotify:track:6dLujFTBvLRnr8zPMMVUJg,"0,861","0,622",1,"-7,493",1,"0,379","0,0816",0,"0,123","0,664","96,911",284800,4,"39,87754",13,1,6
+Deliver Us - The Prince Of Egypt/Soundtrack Version,Ofra Haza,spotify:track:2q3X0uc2XpGruqitKOm3xa,"0,229","0,178",4,"-16,679",0,"0,0402","0,728","0,0115","0,133","0,0937","137,681",435200,4,"69,06485",19,0,6
+Depois do Prazer,Só Pra Contrariar,spotify:track:3R0fWjRyx1GN4rFDirZZlC,"0,579","0,385",9,"-14,643",1,"0,0431","0,636",0,"0,0478","0,769","108,793",269400,4,"59,84825",12,0,6
+Dernier souffle,Ozymandias,spotify:track:7EoQiDcFAiE2KGl1Uru4GJ,"0,577","0,0603",1,"-22,612",1,"0,0615","0,994","0,878","0,131","0,159","114,666",155520,4,"59,61029",4,0,6
+Desafinado,João Gilberto,spotify:track:2JKUGcwfYhen8D1TE5LtAg,"0,556","0,0472",2,"-24,544",1,"0,0804","0,949","0,108","0,114","0,37","83,622",207560,4,"19,47325",12,0,6
+Desperately Wanting,Better Than Ezra,spotify:track:7GuLQiPvQbfzP0kqcvgIQQ,"0,494","0,913",0,"-5,289",1,"0,0378","0,000165","0,00898","0,247","0,478","99,92",277493,4,"55,50686",12,1,6
+Destiny,Myron,spotify:track:20I5QpXHxNEUVS9owFhcXE,"0,614","0,419",1,"-10,433",1,"0,308","0,0226",0,"0,0835","0,523","116,056",216493,4,"41,32123",9,1,6
+Deutschmaschine,And One,spotify:track:56CIvdVMe5ihDFJcZroQoH,"0,661","0,766",6,"-9,585",1,"0,0339","0,0825","0,0027","0,606","0,511","134,997",196280,4,"42,69367",7,0,6
+Devil Town,Daniel Johnston,spotify:track:2zc3Txxn5cL4gdXRmZOj07,"0,582","0,0774",8,"-13,6",1,"0,423","0,967",0,"0,286","0,314","122,725",64680,1,"20,15825",3,0,6
+Dichter Bij Ow,Rowwen Hèze,spotify:track:4C55WMbMkPoBrGCLXodSuP,"0,402","0,292",7,"-14,147",1,"0,0285","0,287",0,"0,0616","0,376","135,978",181267,4,"27,13866",12,0,6
+Discotheque,U2,spotify:track:3IrhUrZKAkJ8LsFtH71fOT,"0,581","0,825",4,"-9,689",0,"0,0373","0,000859","0,095","0,11","0,663","120,362",318667,4,"43,01562",11,1,6
+Do For Love,2Pac Featuring Eric Williams,spotify:track:4AE7Lj39VnSZNOmGH2iZaq,"0,874","0,63",1,"-3,585",1,"0,298","0,0578","0,00479","0,0582","0,717",95,281600,4,"65,26743",10,1,6
+Do You Know (What It Takes),Robyn,spotify:track:0idCpkJ2pspfAILbanmERu,"0,635","0,74",3,"-4,439",0,"0,0355","0,00465","0,0152","0,129","0,857","200,102",221293,4,"16,14569",11,1,6
+Do You See,Warren G,spotify:track:2e3YoddL43UkaSqhYGqfKz,"0,769","0,624",1,"-10,558",0,"0,197","0,169",0,"0,378","0,556","95,24",239067,4,"47,99295",7,1,6
+Doctor Jazz,Jelly Roll Morton,spotify:track:5nLKblcZMpBLHZMSuemb48,"0,752","0,481",3,"-15,201",1,"0,549","0,759",0,"0,475","0,545","116,485",161333,4,"63,83178",7,0,6
+Doin It,LL Cool J,spotify:track:4WMBl2wiGUSGa5C7tfQEAo,"0,801","0,55",10,"-11,044",0,"0,209","0,365","0,0234","0,117","0,609","94,993",293933,4,"53,7761",13,1,6
+Don't Ask Me to Explain,of Montreal,spotify:track:1ImiJ7LNgKiJKAhVMExQDm,"0,456","0,752",6,"-6,714",1,"0,0302","0,672",0,"0,329","0,689","143,877",166040,4,"51,4643",7,0,6
+Don't Cry for Me Argentina,Acker Bilk,spotify:track:2sTW3ndOfl5MnITIV6ueTC,"0,321","0,246",0,"-13,383",1,"0,0316","0,968","0,837","0,135","0,25","85,161",226507,4,"46,28706",11,0,6
+Don't Go Breaking My Heart,Elton John & RuPaul,spotify:track:5pKJtX4wBeby9qIfFhyOJj,"0,742","0,863",5,"-7,823",1,"0,038","0,177","5,59E-06","0,0699","0,776","131,196",271133,4,"24,82981",12,1,6
+Don't Let It Go To Your Head,Brand Nubian,spotify:track:5wwLfjdiSHsgKyEO6V5rDe,"0,849","0,495",6,"-10,399",0,"0,204","0,00243","3,53E-06","0,0722","0,666","99,872",244640,4,"65,58327",8,1,6
+Don't Lose The Magic,Shawn Christopher,spotify:track:0KnWFe8LmBjEMbmvBjqXi1,"0,72","0,532",8,"-17,31",1,"0,0471","0,0003","0,00142","0,0507","0,526","120,271",226013,4,"64,79065",12,1,6
+Don't Stop,ATB,spotify:track:0ygoI3HcoGScxt879A23Uk,"0,711","0,937",10,"-5,314",1,"0,0351","0,146","0,763","0,324","0,57","134,21",221160,4,"30,67944",9,0,6
+Don't Take The Girl,Tim McGraw,spotify:track:2wmEryA2YLaFwFvA63n3O2,"0,439","0,454",0,"-8,669",1,"0,0308","0,279",0,"0,123","0,354","204,263",249360,4,"30,27683",15,1,6
+Don't Treat Me Bad,Firehouse,spotify:track:4lbhQdbiTpNP7GowZG8KsM,"0,616","0,807",8,"-11,4",1,"0,0348","0,000303","2,37E-05","0,193","0,637","111,054",235360,4,"39,61848",10,1,6
+Don't Trust The Humanoids,The Lillingtons,spotify:track:5KbPieCEjLJ6RjShuqKQAc,"0,247","0,917",2,"-5,752",1,"0,0404","4,13E-05","0,00146","0,123","0,886","195,216",103240,4,"51,54197",4,0,6
+Don't Worship Me,Matt Nathanson,spotify:track:7JpnnwxybmCGO0p3pLJPJR,"0,42","0,593",11,"-15,406",1,"0,0475","0,135","0,000168","0,0559","0,395","138,485",145227,4,"36,35566",7,0,6
+Down,Kickback,spotify:track:1ui2xK5upI5Is8AoRCZ25h,"0,405","0,821",6,"-9,42",0,"0,0977","0,000373","7,3E-05","0,497","0,446","91,999",223267,4,"22,137",10,0,6
+Down Home Girl,Taj Mahal,spotify:track:4o0rTn32s1mOOdi6t1z8Bv,"0,801","0,617",5,"-8,031",0,"0,0287","0,0645",0,"0,177","0,961","106,642",223040,4,"38,19674",10,0,6
+Downtown Train,Rod Stewart,spotify:track:5XJzh2c0roCc6GDs8PrILx,"0,527","0,584",10,"-7,965",1,"0,0314","0,0878","0,000103","0,117","0,271","114,941",279413,4,"29,41867",15,1,6
+Dr. Greenthumb,Cypress Hill,spotify:track:6pNPthJtweLWioQeGtwJe5,"0,804","0,549",10,"-8,779",0,"0,286","0,0467","0,102","0,0751","0,15","103,856",189253,4,"54,36768",9,1,6
+Dreamlover,Mariah Carey,spotify:track:6HcQZfMrw3KwGyzrKw1Pjy,"0,701","0,705",5,"-6,18",1,"0,0357","0,18",0,"0,141","0,71","100,669",232960,4,"35,79226",12,1,6
+Dreams,The Cranberries,spotify:track:4JGKZS7h4Qa16gOU3oNETV,"0,551","0,643",4,"-13,091",1,"0,0353","0,00313","0,00385","0,421","0,514","128,661",271560,4,"33,38657",15,1,6
+Dreams of Space and Time,John Rea,spotify:track:4IB7kqhr0OgwzrAJYP7xo9,"0,262","0,304",0,"-25,125",1,"0,0614","0,911","0,715","0,174","0,17","67,648",157800,3,"23,98723",7,0,6
+Drink. Swear. Steal & Lie,Michael Peterson,spotify:track:3ZdAwMX7Lku81KGiqsjDeA,"0,672","0,697",11,"-7,223",1,"0,0251","0,427",0,"0,131","0,757","103,358",182307,4,"25,28072",10,1,6
+Drop,The Pharcyde,spotify:track:7sT3O2PXs1o12XnCKlv204,"0,849","0,744",10,"-6,993",0,"0,274","0,301","4,79E-06","0,234","0,695","95,098",334467,4,"39,23464",13,1,6
+Due tramonti,Ludovico Einaudi,spotify:track:2f47H0NpgJCGgORmweUJhs,"0,186","0,0597",2,"-22,294",1,"0,0453","0,969","0,91","0,113","0,0716","131,32",292627,4,"22,88668",14,0,6
+Eau D' Bedroom Dancing,Le Tigre,spotify:track:0MRylncmeKOjDF14R8r6eK,"0,61","0,65",6,"-5,873",1,"0,0413","0,00598","0,222","0,0934","0,886","116,724",175533,4,"52,25852",7,0,6
+Echos Myron,Guided By Voices,spotify:track:0kSxRxxiI1Vaiispzszvf0,"0,443","0,889",1,"-11,578",1,"0,0426","0,0801","1,04E-05","0,146","0,359","132,162",162293,4,"60,75874",7,0,6
+Ecstacy - Sindh Mast Qallandar,Rakesh Chaurasia,spotify:track:79tn5JO88mzIhDFBa5k7Ch,"0,393","0,825",9,"-4,958",1,"0,0467","0,173","0,0133","0,135","0,245","83,61",456520,4,"22,95901",13,0,6
+El Día Que Me Quieras,Luis Miguel,spotify:track:3NKIbFFAioTfznWbnjAMXX,"0,215","0,666",8,"-6,442",1,"0,0364","0,368","1,88E-06","0,0891","0,244","159,234",241693,4,"39,54298",13,0,6
+El Rock de la Carcel - En Directo,Miguel Rios,spotify:track:2lAeLDyzoJqbT760ixRq0O,"0,364","0,813",0,"-8,072",1,"0,075","0,542",0,"0,723","0,454","81,244",115507,4,"61,837",4,0,6
+El Último Rock,Marta Sánchez,spotify:track:5NLn1bSQIpxbD7XitGR4Ge,"0,741","0,838",1,"-5,567",1,"0,0399","0,00558","0,000771","0,0458","0,857","123,339",199493,4,"48,48309",8,0,6
+E-Lectric - Live,S.P.O.C.K,spotify:track:7fKRSn8ItJAkDQn1NHlwkg,"0,826","0,993",1,"-8,976",1,"0,105","0,159","5,08E-05","0,953","0,739","119,922",253467,4,"37,11638",12,0,6
+Electric Eye,Judas Priest,spotify:track:647rXxhh0GKJRjyuSLkqYh,"0,422","0,952",4,"-6,033",0,"0,0817","0,000902","0,000231","0,372","0,335","96,856",218547,4,"21,31382",10,0,6
+Emperor Jones,Joe Lovano,spotify:track:5wRlH3diPDfn9jv91hxkUy,"0,336","0,328",7,"-15,005",0,"0,0386","0,93","0,732","0,111","0,222","184,007",314493,3,"171,06546",10,0,6
+Empty Promises,Hatebreed,spotify:track:18KlaxNHpQCDSVVqYLZyPU,"0,369","0,935",0,"-6,477",1,"0,153","1,87E-05","5,59E-05","0,174","0,133","113,912",78893,3,"34,16273",4,0,6
+Encadenados,Nelson Ned,spotify:track:1mJHK3AjLwBiL2bMXcNTlP,"0,471","0,47",9,"-10,136",0,"0,03","0,697",0,"0,107","0,359","82,834",201627,4,"46,04383",9,0,6
+Entrega De Amor,Los Angeles Azules,spotify:track:2SNP0sm56HwUvZh7bL66pi,"0,654","0,545",3,"-7,322",1,"0,0433","0,218","5,08E-05","0,147","0,834","85,795",176560,4,"32,1884",7,0,6
+Er Indoors,Johnny Hawksworth,spotify:track:2GCS9jBrWwpaxlkVhhUisc,"0,657","0,45",0,"-9,56",1,"0,0616","0,702","0,487","0,0597","0,956","176,542",142760,4,"64,2193",6,0,6
+Era um Garoto. Que Como Eu. Amava os Beatles e os Rolling Stones,Engenheiros Do Hawaii,spotify:track:5HDlh6UhT3AMQs935wE1qr,"0,568","0,7",6,"-5,42",1,"0,0258","0,0409","7,11E-06","0,0838","0,571","131,885",265040,4,"28,05646",14,0,6
+Eriskay Love Lilt,The King's Singers,spotify:track:5hpz5qWByZBWqNVZ8m6WCO,"0,259","0,0259",4,"-28,279",1,"0,0354","0,971","0,158","0,12","0,181","76,561",186733,3,"47,99073",10,0,6
+Every Heartbeat,Amy Grant,spotify:track:55lX3vm1G35mUpawXHK5Te,"0,648","0,89",2,"-3,834",1,"0,0429","0,288",0,"0,119","0,808","126,956",213733,4,"31,93258",12,1,6
+Everybodies Girl,Dwarves,spotify:track:0luiEdjsPs2uXKEEXRmZlc,"0,381","0,968",4,"-5,287",1,"0,0992","0,00532",0,"0,607","0,433","143,099",162333,4,"41,28468",9,0,6
+Everyone Falls In Love,Tanto Metro & Devonte,spotify:track:6nGwWIh0ATJqK9cXbLqDw8,"0,754","0,702",10,"-8,033",0,"0,0429","0,0275",0,"0,0619","0,736","95,998",228360,4,"40,4018",13,1,6
+Everything Changes,Pokémon,spotify:track:6tBCoAInhv2sbKgYXuWLJ5,"0,704","0,731",11,"-8,294",0,"0,0384","0,0401","0,000143","0,0805","0,554","110,023",280867,4,"27,36969",13,0,6
+Evil Shower,Mattias IA Eklundh,spotify:track:16yXBl3KfEglejxqIEpOAr,"0,283","0,814",9,"-8,358",1,"0,0337","0,00562","0,776","0,0836","0,528","109,625",188293,4,"126,03181",5,0,6
+Evil Ways,Willie Bobo,spotify:track:6LoiJXXZuZejbG6VjmjzA4,"0,811","0,447",2,"-11,298",0,"0,0433","0,546",0,"0,0615","0,92","111,435",160827,4,"42,1345",7,0,6
+F - Four Furry Friends,Cookie Monster,spotify:track:6TkE2GZ9JAY7ESFQofbU9Q,"0,46","0,416",5,"-13,121",1,"0,0902","0,891",0,"0,247","0,377","96,098",119307,3,"24,50067",7,0,6
+Face The Music,RTZ,spotify:track:2F3ENbneNRsFZ0wpbpXLZF,"0,666","0,909",4,"-11,076",1,"0,0955","0,341",0,"0,246","0,535","118,137",245907,4,"47,93171",10,1,6
+Faded Pictures,Case & Joe,spotify:track:1CAw3ethNuSDPf3E7luSFF,"0,705","0,511",6,"-7,422",0,"0,202","0,125","1,72E-06","0,153","0,581","82,011",229773,4,"48,31709",10,1,6
+Fall At Your Feet,Crowded House,spotify:track:1Yc2k9b9PNZSB6P5S53SPC,"0,65","0,371",0,"-13,623",0,"0,026","0,457","0,0116","0,102","0,561","102,583",198800,4,"40,63717",9,1,6
+Fall Children,AFI,spotify:track:6KTXHrliiM0il8gq7AkQPC,"0,213","0,988",4,"-6,651",0,"0,203","0,000187","1,19E-05","0,294","0,0572","159,071",192627,4,"29,82099",7,0,6
+Fall Down,Toad The Wet Sprocket,spotify:track:2tJlASUdstRCCecAN9rThS,"0,472","0,856",0,"-6,881",1,"0,0326","0,146","0,000672","0,175","0,774","151,972",202427,4,"34,29431",10,1,6
+Fall In Love Again,Eddie Money,spotify:track:3kVsdeo86jZLNvZBoVLgNk,"0,596","0,521",4,"-8,357",1,"0,0298","0,605","5,48E-06","0,0981","0,519","146,951",262333,4,"39,71521",10,1,6
+Far Behind,Candlebox,spotify:track:3mhOmh4tRKsMfnRmgZfeBm,"0,552","0,645",7,"-6,595",1,"0,0268","0,00187","1,38E-06","0,0424","0,588","89,518",299733,4,"97,57176",7,1,6
+Fastlove,George Michael,spotify:track:6SaeXxdt0Id6ZzmX0ZGTQK,"0,735","0,64",10,"-7,522",0,"0,072","0,052","0,00102","0,345","0,551","104,444",324667,4,"40,88241",17,1,6
+Fat Boy,Max-A-Million,spotify:track:2hXk6pi1tWdp1eEx20rJLA,"0,832","0,953",5,"-6,351",0,"0,0367","0,0105","0,00607","0,0293","0,981","126,947",214000,4,"31,4878",11,1,6
+Feel So Good,Mase,spotify:track:7hfRrdFJgFKK3cJ4rmkecE,"0,821","0,703",11,"-8,464",0,"0,24","0,192",0,"0,0816","0,536","105,154",203627,4,"48,2157",9,1,6
+Few And Far Between,"10,000 Maniacs",spotify:track:5KqINh56tApMe4LDMfLwOp,"0,614","0,928",6,"-6,827",1,"0,032","0,0081","0,00051","0,025","0,878","133,629",194373,4,"29,19663",8,1,6
+Finale - Dragonheart/Soundtrack Version,Randy Edelman,spotify:track:0BGWQK9e3R0dEM4pZpRfIE,"0,173","0,238",0,"-13,977",1,"0,0349","0,906","0,827","0,296","0,0573","64,403",330693,4,"73,6223",10,0,6
+Find A Way,A Tribe Called Quest,spotify:track:2MAaiV0bbeq4FpSwPe2rR8,"0,773","0,581",8,"-8,466",1,"0,432","0,0352",0,"0,485","0,711","94,093",203067,4,"40,59162",10,1,6
+Fire Escape,Fastball,spotify:track:2jqua17r7DJuqRXl1uJwJM,"0,576","0,813",6,"-5,69",1,"0,0297","0,00354","0,143","0,0712","0,857","125,686",201133,4,"52,60202",8,1,6
+Fire Woman,Psychic TV,spotify:track:3WUEnxaZfLYV0vO4r5YKIb,"0,686","0,822",7,"-12,094",1,"0,0764","0,00325","0,27","0,732","0,444","119,987",291933,4,"84,08633",8,0,6
+First Time,Matt Nathanson,spotify:track:2EZFzm4VZtbxJXBDhHRmwu,"0,54","0,456",6,"-6,133",1,"0,0274","0,201",0,"0,12","0,355","92,988",239947,4,"38,41405",12,0,6
+Five Lessons Learned,Swingin' Utters,spotify:track:23RuCuUzVU8KMJOjJqH424,"0,316","0,981",4,"-4,369",0,"0,0685","0,000781","0,0148","0,458","0,68","152,922",115907,4,"63,98437",4,0,6
+Flowers,Cibo Matto,spotify:track:3SkXogdDdL4e3h2IbJF9Kt,"0,737","0,754",9,"-6,611",0,"0,0337","0,297","0,000294","0,046","0,909","132,468",179133,4,"37,04308",8,0,6
+Fly Away,Lenny Kravitz,spotify:track:1OxcIUqVmVYxT6427tbhDW,"0,586","0,872",7,"-5,066",1,"0,0483","0,018",0,"0,622","0,729","159,925",221333,4,"25,0524",8,1,6
+Foe Life,Mack 10,spotify:track:28SF0lKRqso9SSTDpbv991,"0,917","0,665",8,"-6,053",1,"0,0924","0,0816",0,"0,196","0,808","91,082",253800,4,"63,50453",9,1,6
+Foe Tha Love Of $,Bone Thugs-N-Harmony Featuring Eazy-E,spotify:track:1muLq1kBLWIT3pmNC2xl0g,"0,772","0,695",7,"-8,013",1,"0,0735","0,00295",0,"0,427","0,643","137,868",272440,1,"17,03593",14,1,6
+Foolin' Around,Changing Faces,spotify:track:1jkAxE1qKoy9BsrOlTpIke,"0,591","0,574",5,"-8,276",0,"0,0269","0,228","1,43E-05","0,0794","0,229","131,495",268160,4,"34,02821",11,1,6
+Foolish Heart,Sharon Bryant,spotify:track:7JR5s8DtDZxhVHAqawvo20,"0,642","0,419",1,"-12,609",1,"0,0316","0,481",0,"0,0523","0,755","95,6",279840,4,"46,68056",10,1,6
+For A Little While,Tim McGraw,spotify:track:6SvT6aiC3gfSZsNZBpPH4c,"0,554","0,815",7,"-7,954",1,"0,0256","0,133",0,"0,0778","0,618","99,333",213893,4,"22,05685",11,1,6
+For Every Mountain - Live,Kurt Carr & The Kurt Carr Singers,spotify:track:0pbg96qmU9zxBEqrQCLAoz,"0,333","0,826",2,"-5,02",0,"0,14","0,794","5,94E-05","0,973","0,161","106,299",445347,4,"30,39479",16,0,6
+For the Love of God,Steve Vai,spotify:track:5m5I3KcV83zf2p2qbsnr3y,"0,152","0,842",9,"-5,783",0,"0,0418","0,00347","0,912","0,115","0,283","95,49",363333,4,"73,27519",19,0,6
+For Whom The Bell Tolls,Apocalyptica,spotify:track:1BgxJFxLi5Qt9cwB5Enefq,"0,552","0,501",9,"-6,868",1,"0,0275","0,1","0,854","0,113","0,441","118,037",191400,4,"33,78685",7,0,6
+For You,Kenny Lattimore,spotify:track:4fgQMbN9r8d9V2exSTsLFs,"0,633","0,42",4,"-11,784",1,"0,0352","0,737",0,"0,0727","0,482","137,693",236147,4,"60,41379",9,1,6
+Forked Deer,Jeff Autry,spotify:track:4cK5rFaJiG5tXGrEAi6Ij2,"0,57","0,653",2,"-10,459",1,"0,0374","0,778","0,147","0,223","0,736","126,532",211747,4,"30,79731",13,0,6
+Fort Battle,Trevor Jones,spotify:track:5nnMbozXiRKqbTJnEb4Sv8,"0,297","0,432",2,"-15,449",1,"0,0403","0,000224","0,955","0,152","0,178","150,392",261733,3,"31,23263",12,0,6
+Four Leaf Clover,Abra Moore,spotify:track:69Icug2F3NaW6jiCrhHPMf,"0,672","0,776",2,"-6,351",1,"0,0323","0,12","4,1E-05","0,102","0,973","127,992",213840,4,"16,08955",10,1,6
+Freakit,Das EFX,spotify:track:1A4DjgWzJ839VdFCKE5hBD,"0,801","0,518",1,"-12,054",1,"0,314","0,0286","3,65E-06","0,309","0,598","97,302",199493,4,"55,7187",7,1,6
+Friends,Joe Satriani,spotify:track:3ELd4WXLe2ZDQb0ExOvJgX,"0,422","0,842",1,"-4,629",1,"0,0339","1,74E-05","0,922","0,0835","0,768","86,142",208600,4,"76,09562",7,0,6
+Funkorama,Redman,spotify:track:7DRLt7ciofFgZp4m8b8Z4z,"0,603","0,845",1,"-6,589",1,"0,495","0,0106","1,9E-05","0,0482","0,824","178,377",183307,4,"27,90154",8,1,6
+Gangsta,Bell Biv DeVoe,spotify:track:1XgiaKAh3lzjaABhHUB0IX,"0,724","0,778",1,"-8,924",1,"0,0618","0,00151","0,112","0,387","0,768","112,518",269067,4,"22,44643",10,1,6
+Georgia On My Mind,Michael Bolton,spotify:track:49kdc9KAqm4N28Y01g8SuS,"0,321","0,435",11,"-10,942",1,"0,0341","0,256","1,06E-05","0,086","0,174","158,465",298133,3,"45,70894",18,1,6
+Get Down On Your Knees And Pray - Live,The Kentucky Colonels,spotify:track:6MdOgv6q4kFo9KAFFDm8E3,"0,414","0,291",6,"-13,433",1,"0,0476","0,787","0,000118","0,849","0,693","168,029",160000,4,"38,5726",7,0,6
+Get It On Tonite,Montell Jordan,spotify:track:0AcLrSfAEBQcUnHOTm5pXg,"0,807","0,498",10,"-9,91",0,"0,0755","0,259","3,04E-05","0,0618","0,857","99,001",277413,4,"29,42822",14,1,6
+Get On Up,Jodeci,spotify:track:1SyR0qHmGNRZQ49Z0rFU4A,"0,717","0,561",11,"-7,898",1,"0,245","0,567",0,"0,439","0,673","93,116",225933,4,"29,23132",11,1,6
+Get Up! (Before The Night Is Over),Technotronic,spotify:track:2MOOJh1xUgND4rLjB6h4jY,"0,79","0,727",6,"-11,84",0,"0,105","0,00418","0,000162","0,0628","0,67","123,958",337093,4,"24,12279",14,1,6
+Gett Off,Prince And The N.P.G.,spotify:track:0wFkjAM4VVoepQdYB6kl4U,"0,655","0,628",10,"-11,407",0,"0,0946","0,00448","0,000732","0,29","0,603","99,841",271667,4,"22,58898",10,1,6
+Gettin' Jiggy Wit It,Will Smith,spotify:track:0weAUscowxeqDtpCgtbpgp,"0,881","0,874",6,"-4,505",1,"0,139","0,0175","1,19E-06","0,154","0,858","107,891",227933,4,"21,25823",10,1,6
+Gimme Shelter,Sisters of Mercy,spotify:track:0hysrmGwswmVtf7BlBPmxC,"0,574","0,846",1,"-9,392",1,"0,04","0,00223","0,0123","0,0829","0,497","109,539",357068,4,"27,34772",13,0,6
+Gimme Some Love,Gina G,spotify:track:2ugmMZ7FKTSLfcZy6pKeMW,"0,726","0,918",10,"-6,94",0,"0,0363","0,0303","0,000532","0,0691","0,861","134,009",214227,4,"31,64481",9,1,6
+Girlfriend/Boyfriend,BLACKstreet With Janet,spotify:track:4m8ABsMkJCzhdIaWVQvIHD,"0,892","0,768",10,"-2,345",0,"0,181","0,0156","0,00906","0,34","0,566","103,003",243440,4,"31,4051",12,1,6
+Give It Up,ZZ Top,spotify:track:470PZEQc7PUnvhp73hSrJc,"0,664","0,665",10,"-9,881",1,"0,0282","0,00812","0,000114","0,149","0,53","123,95",209427,4,"54,72306",9,1,6
+Given To Fly,Pearl Jam,spotify:track:3vL9lPWBuv0ZR3c5YmdhDl,"0,317","0,764",7,"-7,076",1,"0,0282","0,000294","0,099","0,0996","0,341","101,173",238867,4,"53,29529",11,1,6
+God Blessed Texas,Little Texas,spotify:track:4qkshp4FWe0msInDWTbBlR,"0,648","0,766",9,"-8,514",1,"0,0326","0,232","1,54E-05","0,121","0,971","128,798",208733,4,"16,33881",9,1,6
+God Rock,Nik Turner,spotify:track:4BKvPgQ42H9AXuhG2XFdz4,"0,335","0,357",7,"-15,456",1,"0,0306","0,278","0,815","0,114","0,105","165,332",354467,4,"63,01382",18,0,6
+Gog Ska,Maroon Town,spotify:track:3hPptR0LJ4iaf8gewxumlk,"0,726","0,545",9,"-10,84",0,"0,0285","0,0121","0,879","0,0811","0,844","133,045",288507,4,"17,21223",15,0,6
+Going Back To Cali,The Notorious B.I.G.,spotify:track:53duuSwaLOZuIrELvZXqLH,"0,851","0,647",9,"-5,847",1,"0,339","0,207",0,"0,0447","0,596","99,17",307427,4,"23,71337",13,1,6
+Going Great,Keith Mansfield,spotify:track:1jdSaAKgKJWqKfCG27uYis,"0,595","0,729",10,"-13,383",0,"0,0387","0,00262","0,928","0,0705","0,75","108,028",147707,4,"37,89875",8,0,6
+Gold Diggin' Girls,MC Nas-D & DJ Fred,spotify:track:1Dg3sxXoz7q1MxjbhngnUT,"0,899","0,667",11,"-4,603",0,"0,201","0,00276","4,05E-06","0,112","0,754","138,031",261600,4,"32,90832",11,1,6
+Golden Brown,Drive Like Jehu,spotify:track:74qgrn0YAo3cgRcH4xQBsA,"0,335","0,996",11,"-6,017",0,"0,0808","1,98E-05","0,771","0,384","0,167","100,718",194533,4,"97,67894",5,0,6
+Gone Crazy,Alan Jackson,spotify:track:5FF1zkuNs0xEiXj9RaZeo0,"0,538","0,34",5,"-12,064",1,"0,0244","0,43","5,82E-05","0,0936","0,165","76,344",230440,4,"38,91877",10,1,6
+Good Enough,Sarah McLachlan,spotify:track:0iSMAOr4EWdHJFOPi1xfiT,"0,515","0,445",9,"-7,674",1,"0,0273","0,458","0,000528","0,106","0,464","175,915",303933,4,"36,02439",12,1,6
+Good King Joy,Trans-Siberian Orchestra,spotify:track:2loFWUmMHXnCBO6Ays3c8Y,"0,363","0,449",4,"-10,442",1,"0,0324","0,359","0,279","0,0741","0,085","141,233",395600,4,"43,46291",18,0,6
+Good Things,Sebadoh,spotify:track:3YyFQvSUMuv2r31rG0qkX4,"0,394","0,859",1,"-9,25",1,"0,0536","0,000597","0,00468","0,0609","0,685","111,196",85800,4,"17,84327",7,0,6
+Good Vibrations,Marky Mark & The Funky Bunch Featuring Loleatta Holloway,spotify:track:5hWdgGVcfTeLPAiHM6EZG9,"0,711","0,951",1,"-8,406",1,"0,0537","0,00189","0,366","0,0229","0,903","121,656",269307,4,"32,15875",12,1,6
+Goodbye,Spice Girls,spotify:track:6ZNw9Cnc85OeHZrjMAZJfY,"0,552","0,694",4,"-4,489",1,"0,026","0,0846",0,"0,117","0,359","136,019",275427,4,"51,38794",15,1,6
+Goodbye,Tevin Campbell,spotify:track:2rVXKUyHxMoWk7vTyOcYIH,"0,607","0,714",5,"-9,776",0,"0,0536","0,00805","1,24E-05","0,213","0,573","165,939",270652,4,"31,80039",11,1,6
+Got Your Money,Ol' Dirty Bastard Featuring Kelis,spotify:track:6YYd5MLpu45J0uLrMdivF7,"0,934","0,459",1,"-7,654",1,"0,189","0,0516",0,"0,222","0,697","103,04",239547,4,"38,01367",12,1,6
+Gotta Be,Jagged Edge,spotify:track:5nS5mDWAyce9gjD8crHcZX,"0,719","0,362",9,"-11,547",1,"0,0276","0,651",0,"0,114","0,58","109,915",215267,4,"62,32287",9,1,6
+Grandma Got Run Over By A Reindeer,Elmo & Patsy,spotify:track:49iHYFjT5yO6WEw6KerX9o,"0,781","0,53",4,"-14,848",1,"0,0685","0,227",0,"0,106","0,817","110,157",206360,4,"21,57383",11,1,6
+Grapevyne,Brownstone,spotify:track:69sIrKE4gd2NdIdstf9Ebh,"0,723","0,647",11,"-9,178",0,"0,0317","0,0768","0,000237","0,131","0,653","137,336",336550,4,"28,56052",14,1,6
+Groovin',UB40,spotify:track:3hy7Mc96hdAA2eXGDCs7zW,"0,817","0,561",2,"-13,311",1,"0,0539","0,00204","0,00879","0,0421","0,904","99,02",229973,4,"40,30897",12,1,6
+Groovin' In The Midnight,Maxi Priest,spotify:track:6BD0vChKASpviIQeCTd7Yy,"0,652","0,645",10,"-8,482",0,"0,0414","0,0401","2,29E-05","0,0739","0,555","92,945",303533,4,"37,70245",11,1,6
+Groovy Train,The Farm,spotify:track:1ysmnwsl0Z1xwokMMx0LLL,"0,663","0,663",7,"-16,943",1,"0,0351","0,00286","1,78E-05","0,0233","0,782","115,858",244467,4,"18,89316",10,1,6
+Guitar Solo (Trilogy Suite Opus 5 / Spasebo Blues),Yngwie Malmsteen,spotify:track:78CvSqeR1RS3jCPkSyaI6g,"0,2","0,944",8,"-11,924",1,"0,173","0,0702","0,892","0,975","0,0747","119,548",620560,3,"108,04803",22,0,6
+Gutter Glitter,Switchblade Symphony,spotify:track:1jvSN3jnZZdlSDeKf1MLqn,"0,631","0,586",0,"-11,949",0,"0,0287","0,309","0,534","0,208","0,166","120,021",230388,4,"41,3882",9,0,6
+Hades,Bathory,spotify:track:0GCI7PHxYamIKIVjO3pUvm,"0,138","0,928",10,"-7,95",0,"0,116","1,67E-05","0,854","0,0995","0,055","101,005",168160,4,"61,09973",8,0,6
+Hair Shoes (Demo),Pale Saints,spotify:track:5CjiJgkEWWji5aHCOCZP6j,"0,12","0,368",4,"-17,083",0,"0,038","0,15","0,346","0,116","0,084","79,353",196227,5,"28,59315",9,0,6
+Hallways Of Enchanted Ebony,Agalloch,spotify:track:4aR5Yt5NKhvXa2kLP3gcfF,"0,243","0,743",8,"-11,998",0,"0,0607","0,00982","0,534","0,375","0,159","133,945",599627,4,"88,3326",14,0,6
+Hang In Long Enough,Phil Collins,spotify:track:4y42JYIIfYXrJ63s5hQQWS,"0,764","0,82",10,"-5,153",0,"0,0349","0,321","0,0219","0,917","0,56","119,985",285000,4,"36,5325",12,1,6
+Happy Christmas ( War Is Over ),Roch Voisine,spotify:track:5ThCKAfvYZr6ARnPrbEdJs,"0,502","0,446",11,"-8,703",1,"0,0348","0,331","3,28E-06","0,203","0,305","152,205",294400,3,"87,30082",13,0,6
+Happy Days,Silk,spotify:track:3a4UiW8cNqCZ6VANJSo1GJ,"0,697","0,544",6,"-8,879",1,"0,0602","0,00185",0,"0,223","0,526","94,303",318933,4,"23,72117",13,1,6
+Hardcore Rules,25 Ta Life,spotify:track:75UjNrkncJ1idxVzlxkxLW,"0,207","0,989",6,"-5,564",1,"0,218","0,000118","0,134","0,2","0,323","200,465",80987,4,"49,52643",3,0,6
+Harmageddon,Apocalyptica,spotify:track:4mDSLI5UtU0xJoqaqPp1UB,"0,205","0,581",9,"-8,092",1,"0,0434","0,0699","0,854","0,0807","0,169","84,302",296200,4,"13,51356",14,0,6
+Hate Me Now,Nas Featuring Puff Daddy,spotify:track:158DIbrVt4YbqNnWyRCS3P,"0,678","0,77",9,"-4,399",0,"0,222","0,00583",0,"0,109","0,412",90,284000,4,"20,72422",12,1,6
+Haunted Gate,David Toop,spotify:track:2kGg4cdkcdNLTYEAX6YW9S,"0,239","0,235",10,"-20,067",0,"0,0687","0,468","0,928","0,126","0,332","150,809",77360,4,"16,69506",3,0,6
+He Can't Love U,Jagged Edge,spotify:track:3VEZvzr84WVnoorZ4tlBSw,"0,721","0,836",8,"-3,972",0,"0,206","0,112",0,"0,235","0,508","126,279",244053,4,"18,75298",11,1,6
+Head (She's Just a...) [Rock Version],Atom And His Package,spotify:track:4QVUAVM3c5HFINT7FOm0Do,"0,365","0,878",0,"-7,237",1,"0,202","6,41E-05","0,000395","0,665","0,759","98,002",111413,4,"31,74047",6,0,6
+Healthy Food,Cookie Monster,spotify:track:72v8hMTVwRZYkiHpvqONAv,"0,848","0,677",7,"-10,925",1,"0,138","0,761",0,"0,0796","0,602","92,006",172200,4,"33,5008",11,0,6
+Heartland,Richard Elliot,spotify:track:14W1nZyDSGlOwTeEa2kc7C,"0,432","0,342",0,"-11,511",1,"0,027","0,183","0,93","0,0963","0,293","161,966",253160,4,"48,59496",10,0,6
+Heavy Metal Mama,Devin Townsend,spotify:track:7lZOgb06ueV5hj0JTV5pyL,"0,355","0,644",4,"-10,016",0,"0,0978","0,0159","0,000545","0,674","0,465","96,375",287867,4,"39,10433",13,0,6
+Hell Bent for Leather,Judas Priest,spotify:track:3SfQsnBVAeOBC8JM8cr9VS,"0,497","0,831",9,"-7,412",1,"0,124","0,00758","2,02E-05","0,11","0,287","96,404",160107,4,"24,51239",12,0,6
+Here We Are,Gloria Estefan,spotify:track:4asTNYhhrp323lLp81KIKQ,"0,694","0,467",9,"-14,437",1,"0,0329","0,639","1,61E-05","0,0869","0,63","142,132",289707,4,"32,93968",14,1,6
+Here's That Rainy Day,Gene Ammons,spotify:track:1m0dIj1PvGldkiwJUYzc1l,"0,391","0,105",5,"-14,607",1,"0,035","0,913","0,194","0,113","0,162","95,833",367693,4,"50,98469",18,0,6
+Here's Your Sign (Get The Picture),Bill Engvall With Special Guest Travis Tritt,spotify:track:44km4gpFwy6GQzX5deHuPC,"0,586","0,936",7,"-6,605",1,"0,549","0,337",0,"0,928","0,732","178,068",220173,4,"23,99021",15,1,6
+Hernando's Hideaway - Remastered,Billy May,spotify:track:6IDra9pp8GtCxKMS6lehn5,"0,738","0,247",1,"-13,614",1,"0,0418","0,565","0,498","0,0901","0,697","121,177",139760,4,"27,63039",7,0,6
+Hero Of The Day,Metallica,spotify:track:5ktyEZbrgBEePsu6MW5Cvw,"0,351","0,9",8,"-7,146",1,"0,0357","0,000107","0,0262","0,11","0,777","116,023",261693,4,"31,40792",10,1,6
+Hey Helmut. wach auf! - Rock Mix,Holger,spotify:track:4TvUQYnEHNV5I5p0xF3lr4,"0,48","0,775",7,"-5,441",1,"0,0545","0,66","7,36E-06","0,102","0,733","89,919",241693,3,"49,42707",9,0,6
+Hey Lupe,Los Superclasicos,spotify:track:5SjjoDG7dPqahLQZLZkO6C,"0,715","0,33",6,"-15,25",1,"0,0998","0,149",0,"0,0948","0,715","123,801",126907,4,"100,75713",4,0,6
+Hide Your Heart,KISS,spotify:track:47o525G86mLspoGnUCaMd9,"0,572","0,846",11,"-10,081",0,"0,0617","0,306","1,31E-05","0,169","0,596","122,384",264133,4,"48,81699",11,1,6
+Hiena del Metal,V8,spotify:track:324YckvOymgItxbTFSrHEe,"0,368","0,592",7,"-13,544",1,"0,1","8,13E-05","2,01E-06","0,0823","0,461","123,467",226160,4,"24,2763",12,0,6
+High,The Cure,spotify:track:2iVtt0mYIL26IGAgRkhHT5,"0,618","0,717",9,"-12,107",1,"0,03","0,0164","0,000339","0,0594","0,761","114,802",213333,4,"67,25689",9,1,6
+High Street Yanks,The Membranes,spotify:track:38J5wuSw28lVMV3Os1pSpc,"0,359","0,739",5,"-14,595",1,"0,0498","0,000273","4,39E-05","0,597","0,408","138,297",138440,4,"20,06333",10,0,6
+Higher,Creed,spotify:track:1ZozJfi8u9cO2Ob8KwiwNT,"0,459","0,83",2,"-6,254",1,"0,0364","5,15E-05","0,00014","0,206","0,431","155,826",316733,4,"28,21589",14,1,6
+Higher Than Hope,Daryl Braithwaite,spotify:track:6xoHjRpW2oN3rHLOY1Xda3,"0,705","0,635",1,"-11,835",1,"0,0369","0,0268","0,000518","0,104","0,599","109,99",299667,4,"30,21076",16,1,6
+Highwire,The Rolling Stones,spotify:track:7tlbHVveasgXlT0HmHXm5Y,"0,442","0,942",7,"-2,669",1,"0,0472","0,0177","0,00274","0,0455","0,809","126,884",285573,4,"85,0417",9,1,6
+Hip Hop Ride,Da Youngsta's,spotify:track:2MYP61a4O2CcM9tEYwM0gf,"0,788","0,589",1,"-8,996",1,"0,0909","0,00021","0,00124","0,0665","0,486","96,969",259933,4,"47,88808",10,1,6
+Hoje Eu Quero Sair Só,Lenine,spotify:track:3MlTmlmooUijgyJJswZfm1,"0,773","0,549",7,"-10,091",1,"0,0424","0,222","0,000986","0,106","0,707","94,014",338387,4,"29,26598",16,0,6
+Hold On,Jamie Walters,spotify:track:2kQLJexCx8wPTAqK0x0ijO,"0,571","0,553",0,"-8,584",1,"0,0279","0,0319",0,"0,109","0,209","126,215",264560,4,"32,72038",14,1,6
+Hold On (Tighter To Love),Clubland,spotify:track:25tq1GAZcbFEfJLex2mZSb,"0,796","0,688",7,"-7,932",0,"0,0558","0,00131","0,361","0,0888","0,573","119,768",404074,4,"49,94648",18,1,6
+Holland. 1945,Neutral Milk Hotel,spotify:track:4iwMhMvcTqukn1n3NVjb2N,"0,0617","0,887",7,"-4,305",1,"0,0636","0,0399","0,000157","0,619","0,48","198,592",192533,4,"26,6064",10,0,6
+Home,Depeche Mode,spotify:track:747YFXlsStfjON5cmYMT0d,"0,473","0,725",1,"-7,785",1,"0,0307","0,0829","0,00445","0,0787","0,463","150,741",342893,4,"24,99044",19,1,6
+Hooked On A Feeling (Ooga-Chaka),Baby Talk,spotify:track:3gQRcZZeBCMGANY1wT2x6A,"0,613","0,678",8,"-7,85",1,"0,106","0,542",0,"0,0391","0,911","118,629",181107,4,"33,54798",8,1,6
+Hop Up. My Ladies,Mike Seeger,spotify:track:38OsbpWoHNLb3tz5qLxeWH,"0,617","0,329",0,"-11,794",1,"0,0483","0,931","1,58E-05","0,113","0,922","106,84",144867,4,"38,26044",8,0,6
+Hopelessly,Rick Astley,spotify:track:2sZX1XaQOGaOZEQLCzRkCU,"0,547","0,457",8,"-9,872",1,"0,0293","0,46",0,"0,122","0,298","150,001",215133,4,"71,02549",7,1,6
+Horn Concerto No. 1 in D Major. K. 412 (arr. C. Lindberg): II. Rondo: Allegro,Christian Lindberg,spotify:track:5eO7l76dcs1Xz5qulQzG1G,"0,616","0,12",2,"-21,464",1,"0,0411","0,984","0,858","0,35","0,508","122,807",231200,3,"28,2536",11,0,6
+Horn Concerto No. 3 in E-Flat Major. K. 447 (arr. C. Lindberg): III. Allegro,Christian Lindberg,spotify:track:6PUIjv8nKQBCoyygmCEYK5,"0,567","0,342",3,"-19,092",1,"0,047","0,989","0,915","0,115","0,534","97,955",221307,4,"70,26453",7,0,6
+House Of Broken Love,Great White,spotify:track:0tFscEe2fMwsHflVPsyaAD,"0,581","0,468",9,"-15,763",0,"0,0314","0,0251","0,0845","0,0831","0,49","116,04",358427,3,"23,19227",20,1,6
+How Do You Talk To An Angel,The Heights,spotify:track:2QVHmiFTjFsHyxONRdbkcq,"0,404","0,51",9,"-11,353",1,"0,0321","0,281","6,32E-06","0,0789","0,526","80,643",227267,4,"45,6229",13,1,6
+Human Wheels,John Mellencamp,spotify:track:7kozzDmfiSL3g3COR5m0ZB,"0,554","0,917",6,"-4,692",0,"0,0358","0,00428","0,000672","0,286","0,923","149,672",334173,4,"65,35411",13,1,6
+Huntington Ashram Monastery,Alice Coltrane,spotify:track:5mONFtMn8yHhOWGF5wwX2U,"0,547","0,405",5,"-15,534",1,"0,05","0,764","7,34E-05","0,116","0,632","116,813",333307,4,"33,246",13,0,6
+Hurricane,The Click,spotify:track:5qiDen4GXbcZixkS114QXw,"0,824","0,48",0,"-6,745",0,"0,144","0,178",0,"0,167","0,724","88,029",261080,4,"24,82656",10,1,6
+I,Taake,spotify:track:6ITdgxrJqxR8hiZx5cmpoI,"0,0764","0,98",0,"-3,16",1,"0,0804","0,0995","0,782","0,413","0,0295","173,186",356467,3,"33,4058",15,0,6
+I Adore Mi Amor,Color Me Badd,spotify:track:05R2lE5g9hnaSmxIrUl3C0,"0,683","0,476",3,"-9,995",0,"0,027","0,243",0,"0,0786","0,725","91,989",289200,4,"31,03699",10,1,6
+I Belong To You (Every Time I See Your Face),Rome,spotify:track:1nP6feYWJVpbO41aezFtm2,"0,759","0,337",0,"-11,034",0,"0,035","0,026",0,"0,0753","0,335","117,845",273267,4,"37,19882",15,1,6
+I Can´t Give You Anything but Love,Carl-Henrik Norin,spotify:track:1ghKW4YHp44mUn1U6xkA6N,"0,558","0,132",8,"-13,563",1,"0,0547","0,821",0,"0,0819","0,428","120,058",180720,3,"63,23811",7,0,6
+I Can't Dance,Genesis,spotify:track:0No5Hr1LxZjJHGsQSTy2bm,"0,914","0,528",3,"-9,114",1,"0,0508","0,499","4,38E-06","0,0454","0,898","107,557",241360,4,"35,02997",10,1,6
+I Can't Tell You Why,Brownstone,spotify:track:74oQkrFn64k3furu8GoBLr,"0,476","0,453",11,"-13,593",0,"0,0306","0,27","0,000253","0,107","0,41","176,067",245992,4,"40,73803",9,1,6
+I Cerchi,Claudio Rocchi,spotify:track:3CSnt3RH6eCkwXcnOjXDsV,"0,264","0,219",0,"-21,588",1,"0,0346","0,798","0,361","0,115","0,31","165,446",224093,4,"42,88696",7,0,6
+I Don't Believe in the Sun,The Magnetic Fields,spotify:track:24hSe8FngwwVnFiM8zgPO7,"0,362","0,395",1,"-8,761",0,"0,0262","0,743","0,522","0,183","0,165","110,279",256453,3,"24,70347",10,0,6
+I Don't Know,Michael Morales,spotify:track:6wKfivQMFI74aq6rxxSqtu,"0,593","0,618",10,"-11,099",1,"0,034","0,46",0,"0,121","0,549","97,093",236840,4,"48,84664",12,1,6
+I Don't Wanna Be Alone,Shai,spotify:track:3CfSvpuNeWbiM1vjZwWXRq,"0,774","0,437",0,"-8,021",1,"0,0263","0,565",0,"0,0762","0,576","104,215",295467,3,"56,01881",14,1,6
+I Don't Want To Miss A Thing,Aerosmith,spotify:track:225xvV8r1yKMHErSWivnow,"0,383","0,662",2,"-5,162",1,"0,0333","0,165",0,"0,248","0,138","121,154",298760,4,"67,2913",12,1,6
+I Feel You,Depeche Mode,spotify:track:1Ob57NqUydp5cC3FCNV4Gy,"0,454","0,933",2,"-6,539",1,"0,0912","0,024","0,0421","0,493","0,141","122,909",276080,3,"20,35231",13,1,6
+I Got The Hook Up!,Master P Featuring Sons Of Funk,spotify:track:3qEEoMccf3U90pM47dbQtX,"0,608","0,704",11,"-5,655",0,"0,258","0,0447",0,"0,397","0,818","79,302",256013,4,"57,84832",10,1,6
+I Had No Right,P.M. Dawn,spotify:track:0PtMec6kl6Hh4WP7lSdKLS,"0,538","0,577",2,"-10,265",1,"0,029","0,368","3,36E-05","0,104","0,407","165,984",301760,4,"29,55038",16,1,6
+I Like It. I Love It,Tim McGraw,spotify:track:3IvcWWehbBcBR4YZxlGM9R,"0,643","0,961",0,"-5,298",1,"0,0315","0,0196",0,"0,948","0,96","124,027",205707,4,"25,32835",9,1,6
+I Love You/You Bring Me Joy,Mary J. Blige,spotify:track:2FzVFBdP14l3s8D97e8jov,"0,771","0,672",11,"-9,281",0,"0,0527","0,33","0,000208","0,156","0,753","91,048",295893,4,"25,26834",12,1,6
+I Luv U Baby,The Original,spotify:track:6J3LHclKrdg1zLArH3kmF4,"0,69","0,838",8,"-6,392",1,"0,0329","0,106","8,9E-06","0,267","0,902","126,821",213000,4,"22,31218",14,1,6
+I Missed The Bus,Kris Kross,spotify:track:793gh4IXh7mQsMBhvcJRlt,"0,811","0,634",4,"-10,408",0,"0,0714","0,00469","0,00943","0,224","0,273","107,915",179160,4,"54,7873",9,1,6
+I Need To Know,Marc Anthony,spotify:track:7ffwRz8lZyDOE4Vj58Lo72,"0,813","0,949",3,"-2,563",0,"0,0336","0,486","9,75E-06","0,112","0,792","115,061",227707,4,"31,46063",10,1,6
+I Say A Little Prayer,Diana King,spotify:track:5nRBw0eIbbXWn5zCoSc5aL,"0,69","0,889",4,"-5,074",0,"0,0595","0,00875","1,03E-05","0,0904","0,538","125,958",211533,4,"20,08507",11,1,6
+I Tried Him & I Know Him,Rev. Milton Brunson,spotify:track:0AkfQEin0lXA3NXLLK90c9,"0,224","0,306",1,"-14,442",1,"0,0391","0,62",0,"0,409","0,26","72,449",335932,4,"20,1323",17,0,6
+I Wanna Kill,Demented Are Go,spotify:track:7fwOBgGbdQMbCb0oC04pXh,"0,381","0,994",5,"-3,891",1,"0,215","0,00215","2,64E-06","0,0773","0,159","137,244",169867,4,"54,15225",8,0,6
+I Wanna Rock,Luke,spotify:track:6BPA3Uzu6xDFTklgeWGqbD,"0,801","0,765",6,"-11,968",0,"0,203","0,0399","8,35E-06","0,429","0,624","138,052",279933,4,"33,53978",14,1,6
+I Want You,Shana,spotify:track:0sdtAStTSLikyTg9PTTyys,"0,741","0,81",5,"-10,751",1,"0,0524","0,241","0,18","0,0921","0,827","119,629",305773,4,"33,34488",12,1,6
+I Will Be Here For You,Michael W. Smith,spotify:track:3CO19cTl5zzlWx9GWEpOhD,"0,425","0,519",9,"-9,707",1,"0,0279","0,185",0,"0,102","0,208","143,887",273773,4,"17,38842",12,1,6
+I Will Go With You (Con Te Partiro),Donna Summer,spotify:track:433m5xRcVM3jFm3IuijkKs,"0,566","0,864",6,"-6,045",0,"0,0629","0,118",0,"0,333","0,441","129,909",247933,4,"24,53054",10,1,6
+I Will Remember You (Live),Sarah McLachlan,spotify:track:0xzDbdFFnPz9CiQ0YZMq4K,"0,449","0,487",9,"-9,967",1,"0,031","0,47","0,000129","0,691","0,389","76,487",213467,4,"105,59304",6,1,6
+I Wish,Skee-Lo,spotify:track:3LklW07tvdx2AHsgfi1Mng,"0,669","0,809",7,"-7,146",1,"0,147","0,00137",0,"0,38","0,572","97,885",249293,4,"37,20123",9,1,6
+I Wish It Would Rain Down,Phil Collins,spotify:track:4F2t297QK40XFcIHqkmLHs,"0,51","0,667",8,"-4,715",1,"0,0294","0,292","0,00683","0,313","0,356","125,887",327747,4,"35,93928",12,1,6
+I Wonder Where You Are Tonight,Tony Rice,spotify:track:0zJqD6t9MJUYDBLINU24w8,"0,581","0,547",4,"-12,1",1,"0,0378","0,71","0,0168","0,352","0,888","118,675",193667,4,"16,10952",12,0,6
+I'd Rather Eat Glass,Excuse 17,spotify:track:2OFYyAeFRiXZVGGxwgfLTx,"0,26","0,974",2,"-5,945",1,"0,114","0,0168","9,5E-05","0,196","0,169","147,864",176133,4,"45,28364",10,0,6
+If,Janet Jackson,spotify:track:0t414ewhjcIiuPVF3QECz2,"0,653","0,976",11,"-5,173",0,"0,0797","0,0374","0,00173","0,561","0,447","105,575",271640,4,"65,28811",8,1,6
+If I Ever Lose My Faith In You,Sting,spotify:track:05vL56xSoxthM0r7IfcQjo,"0,575","0,727",2,"-9,539",1,"0,0281","0,00952","0,00754","0,054","0,504","97,995",270533,4,"52,52989",11,1,6
+If I Had The Chance,Cynthia,spotify:track:2QBoFxIpS9kNTywWmqtK2g,"0,617","0,918",6,"-5,017",0,"0,0371","0,00553","0,123","0,203","0,802","130,012",254933,4,"30,23068",11,1,6
+If I Ruled The World,Nas,spotify:track:5PQmSHzWnlgG4EBuIqjac2,"0,879","0,564",10,"-7,682",0,"0,247","0,0474","9,43E-06","0,0519","0,523","93,908",282373,4,"23,15403",14,1,6
+If That's Your Boyfriend (He Wasn't Last Night),MeShell Ndegeocello,spotify:track:7vx3QnBgX1RpmMATFIiNA3,"0,815","0,723",10,"-6,903",0,"0,126","0,0524","0,0068","0,0508","0,781","106,031",271813,4,"32,04893",12,1,6
+If We Fall In Love Tonight,Rod Stewart,spotify:track:3yhHZaToQ3ZxN1A4GzByZR,"0,677","0,572",1,"-11,266",1,"0,0388","0,505",0,"0,0732","0,455","87,913",340507,4,"44,67862",13,1,6
+If Wishes Came True,Sweet Sensation,spotify:track:5gAdATsfINRIljv4LbrKX2,"0,493","0,453",3,"-10,878",1,"0,0248","0,0944","0,00467","0,1","0,188","143,725",315160,4,"41,10892",14,1,6
+Ijzeren Thijs,Rowwen Hèze,spotify:track:7vt6mOc6TnVD8HsKQ6Wl2q,"0,437","0,868",2,"-4,809",1,"0,154","0,107",0,"0,109","0,718","138,24",167147,4,"25,47463",8,0,6
+I'll Be Loving You,Collage,spotify:track:0HznAaWAq5FRLnLyKNf9Tv,"0,62","0,868",11,"-6,805",0,"0,0528","0,00591",0,"0,248","0,339","133,97",228040,4,"45,68575",9,1,6
+I'll Be There,Mariah Carey,spotify:track:5jI2ApByK8KJeWVU39oRO4,"0,404","0,511",5,"-9,427",1,"0,0315","0,716",0,"0,871","0,279","82,025",264160,4,"89,54726",11,1,6
+I'll Be There For You/This House Is Not A Home,The Rembrandts,spotify:track:1lfjTOtTRUDkzcmahA4lcs,"0,258","0,919",9,"-6,927",1,"0,0809","0,065",0,"0,279","0,636","93,62",187293,4,"88,79369",5,1,6
+I'll Never Break Your Heart,Backstreet Boys,spotify:track:4lq4yY0y3XqDQZsx03ITaH,"0,519","0,589",7,"-6,005",0,"0,029","0,0885",0,"0,153","0,341","161,992",287507,3,"35,05052",8,1,6
+I'll Think Of A Reason Later,Lee Ann Womack,spotify:track:7ygWc80Ao1nhcV2D6Q3zPa,"0,594","0,833",3,"-5,543",1,"0,0358","0,0848","7,8E-05","0,311","0,663","142,035",218667,4,"32,55626",9,1,6
+I'm Forrest... Forrest Gump,Alan Silvestri,spotify:track:1ijrMIqQvZNsnoqGukPzFD,"0,402","0,046",5,"-22,779",1,"0,033","0,979","0,513","0,0771","0,0967","104,425",159667,4,"26,31638",9,0,6
+I'm Free,Jon Secada,spotify:track:2UfAxAPFNHkpArkEhBbyd4,"0,52","0,634",5,"-8,768",1,"0,0275","0,133",0,"0,29","0,478","197,315",240867,4,"27,63781",9,1,6
+I'm From The Country,Tracy Byrd,spotify:track:5Lwc3DTWzX6JaW2x2PZezt,"0,687","0,898",2,"-3,93",1,"0,042","0,206",0,"0,284","0,952","129,542",213973,4,"24,85798",11,1,6
+I'm In Luv,Joe,spotify:track:2uIEOMwrqcZDJG55UHXxTP,"0,736","0,822",11,"-6,142",0,"0,0317","0,023",0,"0,0615","0,735","99,654",228027,4,"29,30801",8,1,6
+I'm So Happy I Can't Stop Crying,Sting,spotify:track:6uImoDq9R3ZfJOPXkLdyWo,"0,646","0,775",3,"-3,001",1,"0,0285","0,272",0,"0,142","0,614","146,9",242560,4,"68,31115",9,1,6
+I'm Still Waiting,Jodeci,spotify:track:2T12BleYYXpuWuT1zuXnfS,"0,697","0,6",0,"-13,632",0,"0,0364","0,0894",0,"0,0549","0,793","127,009",261360,4,"21,45003",15,1,6
+I'm Your Angel,R. Kelly & Celine Dion,spotify:track:0QWFiyhOqFu9RP8qzP6z5L,"0,62","0,504",0,"-7,26",1,"0,0301","0,669",0,"0,11","0,266","112,681",332067,4,"40,28712",10,1,6
+Images In Stone,Patrick O'Hearn,spotify:track:0ReGms8iLrj6dyHjkQSHpT,"0,174","0,278",3,"-20,169",1,"0,0378","0,0402","0,795","0,101","0,0489","70,064",249533,3,"24,45184",14,0,6
+Improvisation #2,NRG Ensemble,spotify:track:22qFvidlRGLutT0JkZq0rc,"0,572","0,326",9,"-13,293",0,"0,256","0,806","0,231","0,527","0,297","69,443",159573,4,"101,12396",5,0,6
+In Dulce Jubilo,Bugge Wesseltoft,spotify:track:7j2B1yYjSxVg9MGEQLIBqn,"0,432","0,00555",7,"-30,164",1,"0,0648","0,994","0,952","0,0998","0,247","90,383",365907,4,"60,10183",17,0,6
+In the Garden,Larry Stephenson,spotify:track:6MxqqLZRQ9R6KkE6VeBVpQ,"0,539","0,475",11,"-13,211",1,"0,0298","0,41","0,00258","0,127","0,79","146,175",186307,4,"33,29978",12,0,6
+In Your Arms,Little Caesar,spotify:track:12DQhZRVJk534inNswAwie,"0,465","0,651",0,"-10,418",1,"0,0331","0,176",0,"0,0949","0,271","178,414",263813,4,"31,13024",10,1,6
+Indian Outlaw,Tim McGraw,spotify:track:1fYypIR0kaFzaSRbzvtjl9,"0,664","0,739",9,"-7,229",1,"0,0415","0,0364","4,99E-05","0,282","0,759","110,101",182120,4,"68,2224",8,1,6
+Influência Do Jazz,Tamba Trio,spotify:track:2rJl0ohtsAtnfmYfe7EJkp,"0,559","0,594",8,"-8,882",1,"0,031","0,669","0,798","0,102","0,89","110,644",146667,4,"18,26858",8,0,6
+Innan Konsert,Rune Lindblad,spotify:track:3h50sZy3pEKv3Ox7q3B0yd,"0,295","0,474",8,"-19,072",0,"0,0482","0,825","0,918","0,134","0,11","114,144",713600,3,"58,27581",38,0,6
+Insensatez - Instrumental,Antônio Carlos Jobim,spotify:track:43loTpW3s094oRsIdJkoGM,"0,565","0,192",4,"-19,539",0,"0,0304","0,566","0,594","0,0956","0,396","114,799",177400,4,"33,95748",11,0,6
+Inside Of Me,Chapterhouse,spotify:track:3raJ2h75YmkZIBoKcRXqdx,"0,116","0,927",9,"-7,918",1,"0,0608","0,0408","0,628","0,0688","0,481","84,036",278267,4,"42,80136",7,0,6
+Inside Out,Eve 6,spotify:track:4GiVcDqNQI0fc0yYuRGH9m,"0,483","0,818",11,"-7,666",1,"0,0444","0,114",0,"0,367","0,691","175,668",219467,4,"22,9639",8,1,6
+Iris,John Coltrane,spotify:track:4NiKtErEz8AzMHw6XzXhbm,"0,343","0,511",1,"-10,341",1,"0,144","0,45",0,"0,227","0,375","49,285",233267,3,"22,14151",10,0,6
+Iris,The Goo Goo Dolls,spotify:track:6Qyc6fS4DsZjB2mRW9DsQs,"0,315","0,715",11,"-8,072",0,"0,0362","0,00125","7,97E-06","0,0942","0,497","155,925",289533,3,"45,33362",14,0,6
+It's A Party,Busta Rhymes Featuring Zhane,spotify:track:0Ml8PkxnlGUrrMPpJWPBc3,"0,665","0,657",5,"-8,805",0,"0,274","0,0823",0,"0,176","0,786","178,033",277440,4,"45,75802",11,1,6
+It's All About U,SWV,spotify:track:1ask6D7sAOBSqe9xNOPL8t,"0,838","0,401",0,"-9,808",1,"0,0506","0,111","0,00811","0,0478","0,74","93,49",224800,4,"27,98746",11,1,6
+It's Alright,Memphis Bleek (& Jay-Z),spotify:track:1SKhE8yTMuGrTLte0os673,"0,603","0,839",10,"-8,94",0,"0,289","0,0135",0,"0,338","0,763","95,846",241733,4,"50,40737",11,1,6
+It's Alright. It's Ok,Leah Andreone,spotify:track:3VmMPFCqLlbELgN5hne7nu,"0,734","0,67",0,"-5,838",0,"0,0321","0,0113","1,25E-06","0,224","0,656","110,022",265133,4,"21,14502",13,1,6
+It's Now or Never,Andy Tielman,spotify:track:3BQalxxt7GzUTNBiR8dkLP,"0,565","0,401",4,"-14,431",1,"0,0397","0,897","0,00853","0,243","0,511","128,868",185800,4,"36,85327",8,0,6
+It's Over Now,Deborah Cox,spotify:track:2iUwgnyYykjFu1f7YikoTX,"0,811","0,516",5,"-6,994",0,"0,0734","0,198",0,"0,0994","0,544","120,089",260093,4,"48,30793",10,1,6
+Jack Introduces Don't Think Twice,Ramblin' Jack Elliott,spotify:track:2DKaYaAYW957D5zZ7WwLX3,"0,567","0,0638",0,"-27,025",0,"0,897","0,706",0,"0,497","0,54","87,712",108867,4,"59,29921",5,0,6
+Jalou's Rock - Live,Les Rats,spotify:track:3GITpHGNLMyHEcOaBM1sza,"0,285","0,942",4,"-7,224",0,"0,0828","0,00086","0,258","0,24","0,558","163,334",143973,4,"30,64777",10,0,6
+James Brown Is Dead,L.A. Style,spotify:track:5EEsZl9wCWtPHXoi9I9PY7,"0,599","0,976",0,"-7,649",0,"0,0859","0,0013","0,787","0,383","0,501","130,724",344400,4,"23,272",8,1,6
+Jazz Trash,Ellery Eskelin,spotify:track:2f9ajqHBH5YLBwMnN97LFc,"0,5","0,342",4,"-17,526",0,"0,432","0,683","0,0496","0,0937","0,382","79,11",446533,3,"92,62241",18,0,6
+Jazzy Belle,OutKast,spotify:track:6w4MlvpuxtbjGdL9YeTx89,"0,878","0,651",11,"-8,074",0,"0,252","0,0178",0,"0,0408","0,102","92,028",251667,4,"26,24362",6,1,6
+Jealousy,Natalie Merchant,spotify:track:3qcVyKUKAOfBoQJsxHfhmW,"0,723","0,521",0,"-9,78",1,"0,028","0,296","0,0406","0,0998","0,61","101,127",161533,4,"70,31656",6,1,6
+Jeeps. Lex Coups. Bimaz & Benz,Lost Boyz,spotify:track:02nH7HXbs3i9kdWef9or8E,"0,562","0,652",1,"-9,253",0,"0,426","0,0103",0,"0,557","0,545","177,987",272467,4,"35,4916",12,1,6
+Jerusalem's Ridge,Jeff Autry,spotify:track:70exPpnHKfy4W0nPjeiAI1,"0,541","0,678",9,"-9,548",0,"0,031","0,84","0,603","0,14","0,711","126,062",280293,4,"24,01529",11,0,6
+John Barleycorn,Kenny Baker,spotify:track:1UgfiXJCWaWuoillaX3fFp,"0,607","0,474",7,"-12,475",1,"0,124","0,65",0,"0,956","0,946","133,899",133253,4,"42,48188",6,0,6
+John Jacob Jingleheimer Schmidt,Music For Little People Choir,spotify:track:5qJL8qRMjEnlQwIxt2g24M,"0,66","0,297",2,"-14,859",1,"0,118","0,56","3,42E-06","0,178","0,96","138,422",108507,4,"23,77179",7,0,6
+Judy Is a Punk,Huntingtons,spotify:track:308S71Nfg33QocucjSRsFq,"0,341","0,964",10,"-3,723",0,"0,0875","0,171",0,"0,312","0,68","110,857",75418,4,"43,7526",4,0,6
+Julia,Nobuo Uematsu,spotify:track:7xpzXnbxwFIIm9Fd2yg6Ce,"0,42","0,0961",4,"-19,877",1,"0,097","0,993","0,903","0,14","0,582","79,654",83067,4,0,2,0,6
+Jump Around,House Of Pain,spotify:track:3TZwjdclvWt7iPJUnMpgcs,"0,854","0,71",4,"-6,32",0,"0,0793","0,0113","8,72E-05","0,166","0,818","106,894",214947,4,"25,35735",9,1,6
+Jump Jive An' Wail,The Brian Setzer Orchestra,spotify:track:7FuRjlwyTY9uTAUgGpZtJU,"0,638","0,811",8,"-5,43",1,"0,117","0,0311",0,"0,144","0,915","101,154",172933,4,"91,42029",7,1,6
+Jump Man,Buckethead,spotify:track:2QwyfRiONW3O4Sp7O5XlEk,"0,187","0,941",11,"-9,103",0,"0,0798","0,00636","0,601","0,458","0,274","189,189",261960,4,"52,78916",10,0,6
+Jump On It,Sir Mix-A-Lot,spotify:track:3G1lmq2hDoJZlemVcJNFK0,"0,908","0,938",2,"-5,682",1,"0,201","0,0691",0,"0,799","0,751","113,974",300533,4,"24,01126",9,1,6
+Just Another Day,Jon Secada,spotify:track:5AoBNJQDXXEnIJGjJjZu3y,"0,717","0,642",1,"-10,727",1,"0,0287","0,0194","0,000249","0,043","0,732","105,894",327427,4,"47,18748",14,1,6
+Just Ideas - Instrumental,John McLaughlin,spotify:track:1wTSDiqaUwFLVMB5pOinSn,"0,194","0,0486",4,"-24,523",1,"0,0394","0,846","0,82","0,19","0,0387","125,661",110333,5,"66,29829",4,0,6
+Kalinka,Limpopo,spotify:track:35Q0piq5ACqGsiGyatdjge,"0,452","0,715",4,"-8,245",0,"0,0969","0,78",0,"0,0681","0,866","120,445",90600,4,"22,89757",6,0,6
+Kasalèfkut Hulu (From All the Time I Have Passed),Mulatu Astatke,spotify:track:0AXK0hFEATVwmAqcTQ11FX,"0,583","0,365",6,"-10,955",1,"0,0411","0,977","0,886","0,105","0,444","120,929",165640,4,"50,78255",7,0,6
+Kashmir,Silent Stream of Godless Elegy,spotify:track:2K4oxj7C96xMhnc8Ew2bb1,"0,52","0,822",2,"-5,236",1,"0,0324","0,00506","0,00505","0,155","0,594","80,706",323013,3,"71,15391",13,0,6
+Katmandu,Béla Fleck,spotify:track:7DlaaNwxmS99iypST4bTS0,"0,39","0,42",2,"-14,153",0,"0,0363","0,955","0,942","0,127","0,622","175,881",263800,4,"22,3087",13,0,6
+Keep It Together,Madonna,spotify:track:04tSWZo4MLebMbf7RwSmyE,"0,719","0,819",7,"-10,579",0,"0,0448","0,231","0,0222","0,0808","0,794","103,078",303200,4,"24,71708",15,1,6
+Keep The Faith,Bon Jovi,spotify:track:5EWtBjCLy21d1hY9zdaEe8,"0,569","0,968",5,"-3,72",0,"0,0487","0,00108","0,00153","0,0814","0,568","117,783",346533,4,"97,80742",9,1,6
+Key West Intermezzo (I Saw You First),John Mellencamp,spotify:track:43bvQNBz3LPzTxEgPSs9qQ,"0,673","0,859",11,"-6,511",1,"0,0271","0,00497","1,92E-05","0,274","0,959","116,477",294293,4,"32,1454",9,1,6
+Khazad Dum,Summoning,spotify:track:5Y1Erj9A1S3LF4zmHgehEM,"0,551","0,883",3,"-8,144",0,"0,0555","0,145","0,694","0,0773","0,114","110,031",657693,4,"68,32525",14,0,6
+Kickin' the Can,Parachute Express,spotify:track:643QEhYNnc5pk7x4TIJUGX,"0,676","0,238",7,"-17,598",1,"0,0318","0,531","0,000838","0,338","0,921","95,887",143560,4,"59,33117",7,0,6
+Killer/Papa Was A Rollin' Stone,George Michael,spotify:track:3EMwCbvaeyWVZb3ae0roHt,"0,714","0,976",10,"-7,349",0,"0,0548","0,0284","0,00695","0,756","0,577","121,89",255373,4,"128,25175",6,1,6
+Kimini Mune Kyun - Uwaki Na Vacance,YELLOW MAGIC ORCHESTRA,spotify:track:67rAdAV6rFzKPZTSh6WL1t,"0,623","0,942",7,"-5,454",1,"0,0443","0,317","5,85E-06","0,338","0,829","142,43",248427,4,"45,63481",11,0,6
+Kind Folk,Kenny Wheeler,spotify:track:6CXfNVAbK2UEdwGhWzThrF,"0,488","0,0872",9,"-16,779",0,"0,0388","0,959","0,921","0,109","0,306","117,348",516400,3,"32,97797",24,0,6
+Kindred Spirits,Liquid Tension Experiment,spotify:track:50BSlZ4EQUeOdDLXuSbuBX,"0,285","0,963",9,"-3,137",1,"0,0645","0,00212","0,753","0,688","0,48","128,627",389600,4,"28,71281",12,0,6
+King Darius Suite,VeggieTales,spotify:track:0Qqschhs4Szs4SVSCuE5MM,"0,64","0,361",3,"-10,099",1,"0,253","0,794",0,"0,104","0,613","139,457",131227,4,"56,23845",5,0,6
+Kingdom,Kickback,spotify:track:1RbCsofGtNidlcI32X2Q8Z,"0,419","0,926",6,"-6,625",0,"0,0715","8,1E-06","0,00145","0,0617","0,434","95,26",193933,4,"23,2959",9,0,6
+Kiss Of Life,Sade,spotify:track:5bNxRtWEEUu3myoEYL9687,"0,724","0,472",6,"-11,298",0,"0,0279","0,631","0,0374","0,0968","0,779","97,11",251333,4,"45,10193",11,1,6
+Kiss of the Vampire,Half Japanese,spotify:track:0sGfWKI3TgNfhPF4DcBMYB,"0,248","0,991",2,"-4,659",1,"0,149","0,000642","0,217","0,306","0,158","136,983",192787,4,"61,47835",9,0,6
+Kiss Them For Me,Siouxsie and the Banshees,spotify:track:3rW0ATGLT6kOUtfsIKygyI,"0,6","0,949",7,"-5,473",0,"0,0556","0,187","0,00539","0,105","0,752","99,387",277147,4,"29,65001",11,0,6
+Knockin' Boots,Candyman,spotify:track:4bvqOj9QiH6qKecLiefKst,"0,94","0,662",7,"-8,786",1,"0,292","0,0954",0,"0,376","0,657","101,403",233027,4,"51,72619",12,1,6
+L.A. Song,Beth Hart,spotify:track:69pBTbnLue0leYUCMAFqPj,"0,351","0,615",7,"-7,621",1,"0,0451","0,206",0,"0,985","0,337","127,798",271107,3,"58,57055",10,1,6
+La chanson des défenseurs de Moscou,The Red Army Choir,spotify:track:4FyNAqZAZ0bMpd36Y4g5dR,"0,573","0,783",7,"-5,139",0,"0,0481","0,953","0,00147","0,0531","0,574","109,34",192573,4,"31,46104",10,0,6
+La mort de P.B.S,Ozymandias,spotify:track:0MlT8tq1DC06eMA8qOg1gx,"0,363","0,0739",0,"-20,067",0,"0,0525","0,994","0,904","0,106","0,0386","182,613",226827,3,"37,14052",8,0,6
+Last Goodbye,Kenny Wayne Shepherd,spotify:track:2j9xf567RovYfYPmfDWgvG,"0,461","0,695",7,"-7,662",1,"0,0282","0,0275",0,"0,151","0,371","149,346",273600,4,"41,53611",8,0,6
+Last Kiss,Pearl Jam,spotify:track:0QnONzv3TvHAWk294h6DaQ,"0,622","0,692",7,"-6,97",1,"0,0276","0,363","0,000158","0,193","0,774","112,053",195467,4,"62,63883",8,1,6
+Lately,Tyrese,spotify:track:0XmTCQWHgf6dOXJeLjXrzr,"0,541","0,701",7,"-7,287",0,"0,102","0,0761",0,"0,0763","0,334","80,057",266533,4,"26,69432",11,1,6
+Latin Quarter,Caribbean Jazz Project,spotify:track:5JK8AxG8ElQSAQh7TTr5Vt,"0,628","0,741",0,"-9,708",1,"0,0307","0,468","0,384","0,0996","0,628","110,054",299200,4,"79,60958",11,0,6
+Leavin',The Tony Rich Project,spotify:track:1qIDLkxvnYpSrLSwiMaEXJ,"0,678","0,406",2,"-11,528",1,"0,0436","0,0968",0,"0,0607","0,503","168,053",224000,4,"40,85746",11,1,6
+Left Hand Path,Entombed,spotify:track:5faD0zZ9fMa3J5ZN3lIWtp,"0,166","0,927",7,"-8,797",1,"0,0736","3,94E-06","0,651","0,344","0,219","131,984",399093,4,"45,05498",12,0,6
+Les Anges Dans Nos Campagnes (Noël XIIIe Siècle) Instrumental,Orchestre Symphonique De Québec,spotify:track:7yxPB261nfpETW61ngDiGw,"0,229","0,0786",5,"-21,253",1,"0,0408","0,979","0,926","0,174","0,185","109,893",153112,4,"16,27831",9,0,6
+Les yeux ouverts,Enzo Enzo,spotify:track:6BJltRcIxqomZ5X77zfwCe,"0,689","0,152",5,"-20,299",1,"0,0308","0,834","1,8E-06","0,0952","0,202","89,1",208200,4,"29,94393",11,0,6
+Let It Snow,Oscar Peterson,spotify:track:6pctt0uFOGc7NxJvzwIv1x,"0,451","0,219",0,"-19,671",1,"0,0377","0,894","0,522","0,0996","0,469","144,206",220133,4,"26,65837",9,0,6
+Letitgo,Prince,spotify:track:3LuCnnGkixRVdEKFo4K0az,"0,685","0,797",1,"-4,851",1,"0,0566","0,0437","0,000117","0,314","0,825","173,253",335040,4,"32,57711",17,1,6
+Let's Play House,Tha Dogg Pound Featuring Michel'le,spotify:track:4cgJF9rKas2H5AC8FnNts0,"0,822","0,702",10,"-4,759",0,"0,0755","0,0919","0,00559","0,191","0,804","91,37",204440,4,"31,63279",12,1,6
+Liege of Inveracity,Suffocation,spotify:track:7qvTHdpc9qu4TMPur5vs9w,"0,313","0,931",1,"-7,951",1,"0,113","8,67E-05","0,919","0,176","0,405","109,648",270840,4,"86,03433",12,0,6
+Life,K-Ci & JoJo,spotify:track:5GorFaKkP2mLREQvhSblIg,"0,629","0,511",1,"-8,651",1,"0,0326","0,114","3,91E-06","0,0588","0,181","128,038",331240,4,"24,89624",12,1,6
+Life Ain't Easy,Cleopatra,spotify:track:73NMoIdOqIfg5Dma68Gi4R,"0,624","0,845",11,"-6,705",1,"0,0637","0,301",0,"0,335","0,546","98,361",200227,4,"32,19154",9,1,6
+Light In Your Eyes,Blessid Union Of Souls,spotify:track:1yckLYhD232gkDZG86QhAn,"0,471","0,454",11,"-9,118",1,"0,0309","0,546",0,"0,114","0,36","170,995",256200,3,"27,60281",14,1,6
+Lights,Journey,spotify:track:7EHmKkyAr6MZv5Y2FdZbXw,"0,193","0,5",7,"-9,903",1,"0,0381","0,108","0,0067","0,332","0,354","207,639",190333,3,"39,12345",8,1,6
+Like A Parasite,The Queers,spotify:track:42InPIKN75glxg51jOHd1G,"0,534","0,934",7,"-4,28",1,"0,036","0,00103","0,221","0,375","0,97","130,931",172200,4,"44,96101",8,0,6
+Like The Worms,Kickback,spotify:track:5ekymSTSfQtHOKicsJs4wu,"0,446","0,896",2,"-7,369",1,"0,0572","2,46E-05","6,67E-06","0,224","0,263","88,403",236667,4,"103,34354",7,0,6
+Liten brunett,Jan Johansson,spotify:track:6sBrd2zyN5qi9XsG0hyMY8,"0,467","0,209",0,"-17,803",1,"0,0387","0,302",0,"0,182","0,473","75,921",392667,4,"36,92091",16,0,6
+Little Bird,Annie Lennox,spotify:track:1KX8GhTteEUlkbfzaRzbsx,"0,767","0,521",9,"-9,145",1,"0,0351","0,247","0,00124","0,303","0,672","124,995",292426,4,"30,15971",10,1,6
+Little Drummer Boy,Apocalyptica,spotify:track:5ylwVp5Igdp40VWn1JwFa2,"0,181","0,209",10,"-16,7",1,"0,0323","0,492","0,903","0,118","0,068","69,637",290613,4,"63,1293",14,0,6
+Little Hammer,Pale Saints,spotify:track:5tVTlvr0U1yL5xPJ5nPlVE,"0,363","0,207",0,"-20,646",1,"0,0306","0,589","0,75","0,119","0,0859","192,25",137600,3,"26,74812",7,0,6
+Little Rock Getaway,Alan Munde,spotify:track:4LazBIjGBtMAzD7p16Pvvl,"0,547","0,504",0,"-13,723",1,"0,0391","0,719","0,858","0,253","0,963","120,701",164733,4,"64,34159",6,0,6
+Livin' La Vida Loca,Ricky Martin,spotify:track:0Ph6L4l8dYUuXFmb71Ajnd,"0,425","0,954",1,"-3,756",0,"0,0476","0,00411",0,"0,0555","0,933","178,043",243160,4,"45,32625",7,1,6
+Living In Sin,Bon Jovi,spotify:track:4urd42euwvihhC3j1G8Jt2,"0,267","0,793",4,"-7,12",1,"0,0415","0,0247",0,"0,0634","0,526","174,118",279053,4,"29,48887",15,1,6
+Lo Mejor del Rock N' Roll,Expulsados,spotify:track:5nd5ZnTvznukaV2Hcesc09,"0,273","0,824",2,"-4,981",1,"0,0742","0,0153","0,322","0,112","0,777","185,664",153360,4,"24,11872",7,0,6
+Lollipop (Candyman),Aqua,spotify:track:5tnqSEWM3EKoEtjSZpmHcH,"0,718","0,944",0,"-6,405",0,"0,0282","0,0297","0,0148","0,13","0,824","139,04",216707,4,"21,94503",13,1,6
+Lone Star Queen,New York Dolls,spotify:track:4WKZzd4XrY5Q81bb1RaI5b,"0,562","0,577",1,"-12,337",0,"0,0358","0,167","0,000161","0,399","0,498","95,61",250627,4,"28,41857",15,0,6
+Long Island Sunset,Tangerine Dream,spotify:track:47bQWn43LYwprO6mi5lQD0,"0,499","0,567",0,"-12,544",1,"0,0295","0,00183","0,848","0,0931","0,078","128,027",423333,4,"49,07164",18,0,6
+Long Lost To Where No Pathway Goes,Summoning,spotify:track:6jPQuZQnyRQQD9EoV4bV2Y,"0,138","0,846",3,"-5,372",0,"0,0667","0,0178","0,824","0,0668","0,283","81,862",443467,4,"86,24529",15,0,6
+Loser,Beck,spotify:track:5PntSbMHC1ud6Vvl8x56qd,"0,654","0,611",2,"-10,45",1,"0,119","0,0337","0,000178","0,405","0,786","85,387",235000,4,"22,99763",10,1,6
+LOST INTO THE NIGHT,ELISA,spotify:track:2N1PyNyhhKYCVzOjjXuopf,"0,521","0,956",1,"-5,44",1,"0,0367","0,0022","0,00683","0,0998","0,801","158,023",295200,4,"24,34232",14,0,6
+Lounge Chair Drifters,Moonrock,spotify:track:6obhcIEfkWj1Tvsu4Y47N4,"0,763","0,458",5,"-12,326",0,"0,0397","0,79","0,926","0,11","0,304",126,324360,4,"64,92048",11,0,6
+Love Gets Rough,Troy Newman,spotify:track:5GVTSRvxUuPwT4PaTfvKKg,"0,56","0,665",4,"-11,428",1,"0,0286","0,0522",0,"0,174","0,48","95,013",296227,4,"20,52361",13,1,6
+Love II Love,Damage,spotify:track:1m1xRfGOhuGUdgbqfU0U0B,"0,803","0,684",6,"-7,668",0,"0,0351","0,0801",0,"0,0887","0,626","97,011",267093,4,"36,12207",7,1,6
+Love In Portofino,Dalida,spotify:track:0cgcD73SD4nFdTK2oKofzW,"0,418","0,29",8,"-10,126",0,"0,0317","0,78",0,"0,173","0,505","89,496",182067,4,"51,76689",9,0,6
+Love Is A Rock,REO Speedwagon,spotify:track:7JLFGPUo8ytYKPkOY9XSsU,"0,562","0,832",0,"-9,279",1,"0,0368","0,217","1,32E-06","0,0505","0,443","106,033",336467,4,"21,53015",10,1,6
+Love Is All Around,Wet Wet Wet,spotify:track:0PCGfA36HrVPmsBZJ57zOU,"0,523","0,689",10,"-6,58",1,"0,027","0,228",0,"0,109","0,547","84,09",246240,4,"39,43639",10,1,6
+Love Is On The Way,Saigon Kick,spotify:track:3F3n2V9XBrtb1omqLfcNPe,"0,576","0,449",1,"-8,764",0,"0,0287","0,085",0,"0,119","0,0552","129,323",264173,4,"42,75337",9,1,6
+Love Of My Life,Sammy Kershaw,spotify:track:1oMMvSvR0knSpiS8GNAJ1L,"0,552","0,384",10,"-9,641",1,"0,0249","0,19","3,3E-05","0,0852","0,286","139,986",266520,4,"35,10079",13,1,6
+Love On My Mind,Xscape,spotify:track:5hzdcPTFKEuRVuN8cTkcvl,"0,892","0,488",3,"-9,748",0,"0,041","0,0316",0,"0,0284","0,786","101,89",228902,4,"41,96758",10,1,6
+Love Song,Eddie Lang,spotify:track:0xPwddc6t0w6SBi1a1s8Zu,"0,652","0,0795",1,"-24,584",1,"0,0964","0,974","0,72","0,104","0,283","124,533",198733,4,"56,5514",8,0,6
+Love Takes Time,Mariah Carey,spotify:track:48l7PNpT2fBoT4cdLW6EzP,"0,602","0,338",11,"-12,371",1,"0,0293","0,727",0,"0,0849","0,25","126,232",229227,4,"32,05178",13,1,6
+Love Thing,Bratmobile,spotify:track:0N9zigyujGyQdcNEM5GkbR,"0,472","0,925",5,"-5,31",0,"0,0414","0,0554","0,185","0,305","0,336","85,695",100227,4,"21,56388",7,0,6
+Love You All My Lifetime,Chaka Khan,spotify:track:2yTswsiLkNGzzzX54WroNS,"0,693","0,827",10,"-6,437",0,"0,0483","0,0114","0,189","0,32","0,906","103,087",281680,4,"72,96594",12,1,6
+Lucky Love,Ace Of Base,spotify:track:2O5MugeVVDlVs4ThMCy1Lm,"0,769","0,662",5,"-7,238",1,"0,0319","0,129","0,00102","0,0814","0,863","104,104",175747,4,"31,43337",7,1,6
+M.Mussorgsky. Pictures at an Exhibition. Promenade (in minor),Modest Mussorgsky,spotify:track:6uZ73KjicmrDmqYiUHIfrU,"0,293","0,136",2,"-15,889",0,"0,0419","0,755","0,344","0,25","0,154","85,655",37267,3,"9,47083",3,0,6
+Magic Carpet Ride,The Mighty Dub Katz,spotify:track:4bVqQy9NOtwLjHIWlK7rW5,"0,852","0,937",6,"-5,961",0,"0,0465","0,00437","0,923","0,122","0,847","128,693",487947,4,"31,82037",17,1,6
+Main Title,Tangerine Dream,spotify:track:4sT17kVssVnnC2qQ16T35z,"0,511","0,942",7,"-13,426",0,"0,0346","0,564","0,863","0,167","0,423","150,005",75840,4,"25,50438",6,0,6
+Make It Hot,"""Nicole Featuring Missy """"Misdemeanor"""" Elliott & Mocha""",spotify:track:74nsOZqzZzyvFVvBy12I7Y,"0,76","0,458",7,"-8,834",1,"0,19","0,376","0,000229","0,143","0,581","84,08",267093,4,"69,92915",11,1,6
+Make It Like It Was,Regina Belle,spotify:track:5sUhPjE13aCyHyEn2XuzF6,"0,466","0,448",6,"-6,651",1,"0,0293","0,686","8,49E-06","0,142","0,153","119,513",307467,4,"68,4094",13,1,6
+Make Love Like A Man,Def Leppard,spotify:track:4kmsbka0IvuC1x4GdK3FcH,"0,389","0,916",2,"-6,481",1,"0,0513","0,0408",0,"0,28","0,582","205,733",255624,4,"43,76449",13,1,6
+Mama Said Knock You Out,LL Cool J,spotify:track:6C7ZgThn6Yan5MTZdAEEFw,"0,791","0,759",10,"-7,378",0,"0,129","0,0314","0,674","0,255","0,619","102,382",289693,4,"69,75038",10,1,6
+Mamaye,Theodros Mitiku,spotify:track:4e0lP3AyHW23CFXfT7FwzL,"0,693","0,491",0,"-11,435",1,"0,0304","0,394","0,307","0,122","0,777","115,821",426600,3,"42,16961",21,0,6
+Man On The Moon,R.E.M.,spotify:track:4jLv3tDBu8ww2R07DvL12s,"0,667","0,699",7,"-7,574",1,"0,026","0,42","0,000442","0,201","0,655","118,567",314173,4,"65,08031",12,1,6
+Mariquita,Caifanes,spotify:track:4uBbIsDAYbZVLXWY0wAZrp,"0,642","0,65",9,"-9,647",0,"0,0394","0,801","1,16E-06","0,106","0,881","155,226",116467,4,"50,28586",6,0,6
+MC's Act Like They Don't Know,KRS-One,spotify:track:0snDRsjNRMJhm7SVja8l6J,"0,855","0,798",1,"-4,018",1,"0,237","0,0101","0,000615","0,628","0,855","90,429",295933,4,"32,78184",10,1,6
+Me and the Devil Blues - Take 2,Robert Johnson,spotify:track:3Xyt0mXMTXczxtG0yeGksM,"0,707","0,145",10,"-14,56",1,"0,114","0,948","0,000185","0,184","0,384","82,844",150960,4,"65,8351",6,0,6
+Meathook Sodomy,Cannibal Corpse,spotify:track:66opfMXBdeH53Ew5X6XydK,"0,351","0,989",1,"-9,227",1,"0,171","0,000703","0,929","0,327","0,199","147,812",347067,4,"36,69178",15,0,6
+Melô do Papudinho,Roberto Villar,spotify:track:6bsRaWbQax07cMytD0c64v,"0,728","0,555",7,"-8,236",0,"0,0838","0,182",0,"0,14","0,629","144,475",177424,4,"54,7974",8,0,6
+Melodía De Amor,Los Rebeldes Del Rock,spotify:track:7dPI1PHsij0TPk4L8lIHsT,"0,588","0,454",0,"-12,926",1,"0,0305","0,793",0,"0,0914","0,972","147,423",143067,4,"51,11176",7,0,6
+Memories of Mother and Dad,Hazel Dickens,spotify:track:0awB83Y3jI3Zrr2DxVqXFT,"0,61","0,475",11,"-10,87",1,"0,0261","0,803","9,26E-06","0,15","0,858","101,752",159093,4,"46,29682",8,0,6
+Metal Heart,Dimmu Borgir,spotify:track:5iQyl3tVzjcyIaTMN8X7AL,"0,186","0,95",7,"-4,895",1,"0,0779","0,00426","0,0521","0,157","0,217","132,141",277400,4,"46,71165",11,0,6
+Metal Maniac Master Mind,U.D.O.,spotify:track:0m9WMc5fzuoiVcSgIzKV7b,"0,43","0,922",0,"-8,334",1,"0,0507","0,0723","0,00241","0,21","0,14","97,727",341200,4,"23,95149",12,0,6
+Metal Meltdown,Judas Priest,spotify:track:679lDz2Jn7TOD6LRl2gM8y,"0,359","0,968",9,"-5,4",1,"0,17","0,00137","0,288","0,382","0,123","150,058",287667,4,"43,36045",10,0,6
+Metal Mothers,Guided By Voices,spotify:track:5BJiMeT5AMTuo2O6Z6g8lT,"0,216","0,685",11,"-5,918",0,"0,0372","0,00027","0,0013","0,116","0,267","120,269",198107,4,"29,31016",9,0,6
+Metal Warriors,Manowar,spotify:track:5P2Ghhv0wFYThHfDQaS0g5,"0,571","0,797",9,"-9,264",1,"0,0497","0,000786","0,186","0,0777","0,243","101,003",234560,4,"32,00007",9,0,6
+Mexican Radio,Polvo,spotify:track:43TUykEhCrOSzdMpQKl0zA,"0,181","0,939",7,"-7,694",0,"0,0863","0,189","0,67","0,0729","0,111","173,036",203467,4,"37,74879",12,0,6
+Mi Cantar,Los Angeles Azules,spotify:track:5PPKUD3n5mceqRD1U2Z9PW,"0,468","0,602",9,"-7,295",0,"0,054","0,269",0,"0,159","0,47","85,38",234373,4,"20,11285",11,0,6
+Mi Virgencita,Valentín Elizalde,spotify:track:5vB6itJfxpCKGSc1IqbOV6,"0,654","0,455",3,"-7,977",1,"0,0499","0,476","2,55E-05","0,0716","0,974","141,161",147853,3,"32,48697",8,0,6
+Miami,Will Smith,spotify:track:6e8Ou0wiqAzIpWb2eSxll8,"0,877","0,534",1,"-6,18",1,"0,151","0,0339","1,73E-05","0,0441","0,89","108,171",197560,4,"43,97495",9,1,6
+Microphone Master,Das EFX (Featuring Mobb Deep),spotify:track:4HBjg3KAkjoHZFWQL6STl5,"0,777","0,66",8,"-7,794",0,"0,266","0,0934","1,22E-05","0,0478","0,565","89,224",271973,4,"41,27306",12,1,6
+Midnight Awakenings,Greg Maroney,spotify:track:0DBnhwsPSmM0I66hnEBwA8,"0,369","0,129",2,"-17,706",0,"0,0372","0,991","0,865","0,11","0,0382","75,418",369253,4,"83,0492",14,0,6
+Milk Cow Blues,Dead Moon,spotify:track:0Tsnzn7uJCcxnaefznI8Os,"0,281","0,766",0,"-6,059",1,"0,0459","0,0283","3,3E-05","0,46","0,623","201,339",219722,4,"36,48677",12,0,6
+Mind Blowin',Smooth,spotify:track:4kYBrdNJUdoB7iJs9WJMvu,"0,768","0,847",7,"-4,652",1,"0,122","0,00412",0,"0,0843","0,653","95,046",255960,4,"17,44817",14,1,6
+Minha,Cartola,spotify:track:3TBy6We8pwdcLeFNt0ahKA,"0,652","0,535",9,"-12,21",1,"0,0386","0,908","5,26E-05","0,117","0,961","99,097",139267,4,"61,86275",6,0,6
+Miniskirt Blues (feat. Iggy Pop),The Cramps,spotify:track:7jiy36W10zchNsv7P6Rd9C,"0,396","0,945",11,"-5,872",0,"0,153","0,554",0,"0,18","0,416","120,417",159907,4,"35,45056",7,0,6
+Misirlou - Remastered,Laurindo Almeida,spotify:track:1RslTh1c3KGURkNULxE5N1,"0,572","0,325",7,"-15,795",0,"0,0387","0,378","0,506","0,149","0,722","86,484",164933,4,"98,9362",5,0,6
+Missing You Now,Michael Bolton,spotify:track:7ho5FKdNqmmbCpXYcyDH8c,"0,62","0,508",7,"-11,621",1,"0,0272","0,118",0,"0,187","0,289","95,01",273307,4,"34,87372",16,1,6
+Misty Roses,Astrud Gilberto,spotify:track:50RBM1j1Dw7WYmsGsWg9Tm,"0,527","0,316",1,"-15,769",1,"0,031","0,693","0,00699","0,168","0,543","116,211",158840,4,"53,89523",6,0,6
+MMMBop,Hanson,spotify:track:0lnxrQAd9ZxbhBBe7d8FO8,"0,683","0,937",9,"-6,335",1,"0,0449","0,00481","0,0046","0,07","0,619","104,872",268653,4,"21,37213",12,1,6
+Modess Punk Rock,Tequila Baby,spotify:track:1F0CxCWHKXDOZhHDCUDGBS,"0,369","0,951",7,"-9,43",1,"0,0422","0,207","0,137","0,297","0,903","136,968",96052,4,"44,28084",5,0,6
+Molly (Sixteen Candles),Sponge,spotify:track:6nvixw7XmqBSuYVpgCqvPY,"0,504","0,775",1,"-7,844",1,"0,0331","0,0614","2,26E-05","0,307","0,842","101,827",215000,4,"38,11169",7,1,6
+Money,KMFDM,spotify:track:6EKrKfhgmQy5rHwNuXADH8,"0,493","0,915",2,"-4,95",1,"0,0445","2,72E-05","0,108","0,8","0,286","178,151",330093,4,"24,22331",17,0,6
+Monroe's Hornpipe,The Bluegrass Album Band,spotify:track:0uVLFiXalgRPbVLLmt8FBO,"0,493","0,775",9,"-9,283",1,"0,0304","0,648","0,956","0,0811","0,955","139,217",180667,4,"36,34441",11,0,6
+Monster Jam,Spoonie Gee Meets The Sequence,spotify:track:2UyoRef5vZttyPKfYRAQ4J,"0,882","0,914",4,"-6,324",0,"0,16","0,449",0,"0,106","0,81","106,672",530067,4,"49,22166",21,0,6
+Moonlight On Water,Laura Branigan,spotify:track:21J5SyEJkfFG3dvuNXra2n,"0,711","0,937",6,"-3,235",1,"0,0536","0,236","0,0481","0,51","0,931","126,067",279346,4,"33,29581",12,1,6
+More Mess on My Thing,The Poets Of Rhythm,spotify:track:3HgPOHHJWnMfv1Zw27Jh2V,"0,542","0,869",0,"-6,18",1,"0,0954","0,225","0,891","0,0453","0,962","190,509",252000,4,"41,01328",12,0,6
+Morning Broadway,Keith Mansfield,spotify:track:0laaEWjPcgAoEOcL8gIHJN,"0,758","0,528",0,"-10,094",1,"0,0426","0,32","0,346","0,102","0,686","94,373",101133,4,"17,67694",5,0,6
+Mr. Vain,Culture Beat,spotify:track:4ih3dyFZoeTdaeJW9mPbOI,"0,703","0,997",9,"-7,666",0,"0,0399","0,0726","0,0235","0,123","0,391","132,872",257467,4,"20,68683",14,1,6
+Mulemba Xangóla,Bonga,spotify:track:5uS6DX0QD19U5Bz6Q2rVeu,"0,73","0,918",6,"-9,193",0,"0,07","0,0575","0,269","0,0621","0,946","119,753",349960,4,"30,55625",14,0,6
+Murder She Wrote,Chaka Demus & Pliers,spotify:track:1HGyhNaRUFEDBiVLbvtbL6,"0,883","0,733",11,"-9,153",0,"0,128","0,161","0,00026","0,334","0,947","95,103",245000,4,"52,18347",13,1,6
+Music for Alpha Waves. Assorted Percussion. and Automated Coded Relays,Alvin Lucier,spotify:track:7yPZ0GWuRTsXPFZ23CfCy9,"0,48","0,266",5,"-23,162",1,"0,076","0,0108","0,07","0,117","0,217","73,981",244533,3,"47,25004",8,0,6
+Music Sounds Better With You,Stardust,spotify:track:303ccTay2FiDTZ9fZ2AdBt,"0,735","0,72",1,"-7,04",1,"0,336","0,00105","0,15","0,382","0,364","124,174",403293,4,"62,9348",17,1,6
+Musica ricercata: No. 7. Cantabile. molto legato,György Ligeti,spotify:track:3mWP6hxaJJUwrq3XPrL5Io,"0,278","0,00897",10,"-35,603",1,"0,0328","0,986","0,781","0,0717","0,598","110,174",244120,3,"44,81627",14,0,6
+My Baby Mama,QT,spotify:track:0Ib6Harf3hHKOwXGeHaM5O,"0,688","0,519",2,"-8,629",1,"0,0421","0,114",0,"0,0565","0,385","124,125",250973,4,"35,78429",8,1,6
+My Bucket's Got A Hole In It,Kid Ory,spotify:track:6P24Hq4lGoO8WU8MiCfoag,"0,685","0,409",5,"-13,102",1,"0,0737","0,491","0,228","0,631","0,864","138,635",295133,4,"20,89579",13,0,6
+My Favorite Mistake,Sheryl Crow,spotify:track:1LAW7bK2NUJfrnmy2KRCs3,"0,613","0,754",4,"-8,191",0,"0,0318","0,00594","0,000318","0,33","0,576","104,651",245093,4,"58,98659",10,1,6
+My Funny Valentine,Ben Webster,spotify:track:7LdrTu0apcwGJi3B5WWYnk,"0,54","0,0692",3,"-15,105",1,"0,052","0,945","0,298","0,147","0,38","72,984",204760,3,"69,246",9,0,6
+My Heart Belongs To You,Russ Irwin,spotify:track:1s0VBhLgxZJpC6M9uncj4e,"0,491","0,34",3,"-12,18",1,"0,0293","0,645","1,46E-06","0,112","0,226","133,305",240933,4,"40,18406",13,1,6
+My Little Secret,Xscape,spotify:track:0mIuIBLkaRvPCz6A0mPqbM,"0,814","0,431",8,"-9,125",1,"0,0936","0,371",0,"0,335","0,542","129,957",268040,4,"32,19452",14,1,6
+My Lovin' (You're Never Gonna Get It),En Vogue,spotify:track:3R97rNX7JnmshCWBwOSFet,"0,767","0,839",8,"-5,519",1,"0,0613","0,0318","9,31E-06","0,111","0,461","98,055",281613,4,"49,1033",12,1,6
+My Name Is,Eminem,spotify:track:75IN3CtuZwTHTnZvYM4qnJ,"0,869","0,68",1,"-6,233",1,"0,318","0,0416","1,12E-06","0,0914","0,815","85,519",268400,4,"101,41937",8,1,6
+My Sweet Fracture,Saves The Day,spotify:track:18WaFfdur1fnT7HORnS8nm,"0,407","0,648",9,"-5,078",1,"0,0468","0,00899",0,"0,343","0,586","143,061",232320,4,"30,87459",10,0,6
+My Up And Down,Adina Howard,spotify:track:3XmaNnRquEYkDjw2ODrjjz,"0,712","0,647",8,"-4,149",1,"0,0987","0,206","1,05E-06","0,046","0,7","140,216",221093,4,"44,03005",8,1,6
+Mystic Land,Yoshihisa Hirano,spotify:track:4s6LQZD3XWFJCZWrLsP4xL,"0,543","0,182",0,"-23,049",1,"0,0289","0,737","0,858","0,11","0,363","82,033",91907,4,"41,81026",6,0,6
+Naima,Pharoah Sanders,spotify:track:2YlpSkS6AsF26XRRAtp32M,"0,259","0,47",8,"-15,241",1,"0,042","0,0408","0,237","0,0979","0,396","79,972",367307,4,"36,61866",17,0,6
+Nann,Trick Daddy Featuring Trina,spotify:track:7d9I42jF759n5HuUeoulzR,"0,837","0,819",2,"-5,245",1,"0,211","0,000507",0,"0,323","0,643","149,918",167400,4,"23,59781",9,1,6
+Nao enche,Caetano Veloso,spotify:track:5X7YQ1Wp36sNprUKZSPLFK,"0,816","0,723",5,"-8,42",0,"0,0656","0,223","8,13E-05","0,0591","0,926","93,953",210133,4,"34,13147",11,0,6
+Não Transo Mais (Parte 1),Made In Brazil,spotify:track:2kWO6D5F9R0lQbqfmtTVGA,"0,356","0,879",9,"-7,415",1,"0,0539","0,00441","2,9E-06","0,377","0,758","172,554",149133,4,"22,95385",7,0,6
+Naomi,Neutral Milk Hotel,spotify:track:64uuKDv6dm6PuUOA3PBQaS,"0,122","0,481",9,"-11,713",1,"0,0361","0,0202","3,1E-06","0,253","0,316","175,238",293067,4,"23,46198",14,0,6
+Need You Around,Smoking Popes,spotify:track:2eVS6981nLGiBo3Hb5TntY,"0,439","0,883",9,"-7,625",1,"0,0453","0,000111","0,513","0,104","0,527","108,183",222093,4,"44,01626",12,0,6
+Nervos de Aço,Joanna,spotify:track:0NbC9rdpSQ6ByxaHWWjs76,"0,711","0,395",11,"-11,124",0,"0,0537","0,613",0,"0,319","0,417","118,086",217373,4,"30,58381",14,0,6
+Never Enough,The Cure,spotify:track:7mMRFDHJRFjkvEoEx5u6jK,"0,507","0,988",7,"-3,877",1,"0,133","0,0658","0,006","0,333","0,482","100,747",268200,4,"65,16117",12,1,6
+Never Ever,All Saints,spotify:track:5FTz9qQ94PyUHETyAyfYZN,"0,738","0,541",1,"-5,485",1,"0,0311","0,559",0,"0,0492","0,309","134,187",387573,4,"32,16853",16,1,6
+Never Gonna Let You Go,Faith Evans,spotify:track:0wqocHOZg8odmys7DOyVER,"0,644","0,443",1,"-7,308",0,"0,0295","0,442",0,"0,117","0,0534","109,936",267400,4,"20,46532",12,1,6
+Never Leave Me Alone,Nate Dogg Featuring Snoop Doggy Dogg,spotify:track:6lah2pPQVdTsfoMSHkyYmn,"0,821","0,549",8,"-3,591",1,"0,0371","0,0437",0,"0,0737","0,963","100,023",360507,4,"30,97036",16,1,6
+New Shiny Shoes,Sandra McCracken,spotify:track:0IhBJgpOvZWVbNoyN1T1A9,"0,687","0,532",10,"-10,818",1,"0,0272","0,108",0,"0,146","0,701","114,011",230853,4,"35,66211",11,0,6
+Nicety,Michel'le,spotify:track:1vw9MuorZMUxhsQBGsgyo1,"0,83","0,712",11,"-7,447",1,"0,0446","0,0105","0,24","0,049","0,814","103,141",211160,4,"56,5586",9,1,6
+night & day,The Real Group,spotify:track:4A6reXnn8MJ1niDuhogBdz,"0,501","0,159",11,"-13,748",0,"0,0346","0,877",0,"0,694","0,0708","112,121",306133,4,"43,18438",13,0,6
+No Fool No More,En Vogue,spotify:track:1RhaF2Eq1Zg1zR1MIaY9I1,"0,53","0,679",2,"-5,987",0,"0,0523","0,444",0,"0,0728","0,338","76,045",257573,4,"35,00537",10,1,6
+No Love,The Get Up Kids,spotify:track:0aQktMvylpZq1TePvgCGDv,"0,191","0,892",2,"-10,574",1,"0,224","0,000154","0,0553","0,114","0,627","183,346",184653,4,"34,98961",7,0,6
+No Mistakes,Patty Smyth,spotify:track:1Ak9nTnQiO4o6CdNWhk7gq,"0,691","0,6",9,"-9,015",1,"0,026","0,0364",0,"0,174","0,518","111,366",323427,4,"49,76024",12,1,6
+No More Tears,Ozzy Osbourne,spotify:track:7w6PJe5KBPyvuRYxFkPssC,"0,346","0,749",6,"-6,506",1,"0,035","0,00167","8,86E-05","0,648","0,315","102,591",443240,4,"32,13953",17,1,6
+No Myth,Michael Penn,spotify:track:4SZozsPsG0vJ2Ti8BGxKsR,"0,633","0,795",0,"-7,617",1,"0,0319","0,054","8,83E-05","0,34","0,833","103,504",250813,4,"72,89685",10,1,6
+No Ordinary Love,Sade,spotify:track:42vYxMAWsFpBOS7hgAdzqW,"0,629","0,364",11,"-12,259",0,"0,038","0,468","0,0198","0,0941","0,699","166,254",440467,4,"36,34936",21,1,6
+No Pigeons,Sporty Thievz Featuring Mr. Woods,spotify:track:6r78MF6BFaeEG8rBw9Y5nQ,"0,79","0,656",8,"-11,13",0,"0,301","0,00913",0,"0,131","0,498","95,583",206240,4,"49,58662",9,1,6
+Nobody Loves Like an Irishman,Lonnie Donegan & His Skiffle Group,spotify:track:7tA4GTABzMgAU2ByqwQYyY,"0,664","0,448",7,"-11,7",1,"0,148","0,715",0,"0,0839","0,68","79,814",163427,4,"30,24634",9,0,6
+Nocturne No. 2 in E-Flat Major. Op. 9 No. 2,Frédéric Chopin,spotify:track:2TB6PQkgnw9rrFRK4VOOrC,"0,411","0,0487",10,"-25,68",1,"0,0383","0,985","0,918","0,0944","0,101","128,856",248933,1,"30,7052",16,0,6
+Not Enough Time,INXS,spotify:track:4nwgKaHg9TJahiSSmt3X1x,"0,668","0,727",2,"-5,679",1,"0,0414","0,0447","0,0104","0,45","0,287","96,006",250653,4,"41,34331",12,1,6
+Nothing Else Matters,Apocalyptica,spotify:track:3uErbNGaNIPJkRlMrLxR9Z,"0,346","0,198",2,"-12,208",0,"0,0334","0,566","0,893","0,0958","0,163","138,103",285533,3,"30,8848",14,0,6
+Notorious B.I.G.,The Notorious B.I.G. Featuring Puff Daddy & Lil' Kim,spotify:track:5ByAIlEEnxYdvpnezg7HTX,"0,889","0,816",9,"-4,67",1,"0,247","0,472",0,"0,204","0,777","96,056",302693,4,"19,67192",11,1,6
+Now And Forever,Richard Marx,spotify:track:2V2pxcEfn5zs79sE7qcewA,"0,441","0,258",7,"-11,227",1,"0,0276","0,661",0,"0,106","0,172","77,988",214827,1,"38,26672",11,1,6
+Now That We Found Love,Heavy D & The Boyz,spotify:track:1KONmY3enP3r3nIPQidWAy,"0,744","0,697",8,"-14,753",1,"0,0631","0,039",0,"0,171","0,683","119,955",258200,4,"24,91855",13,1,6
+Nuttin' But Love,Heavy D & The Boyz,spotify:track:43JSZNyRzLa3nD9W0hfD48,"0,731","0,499",11,"-13,619",0,"0,374","0,0527","0,0015","0,0362","0,47","202,675",213733,4,"35,99987",10,1,6
+O Come All Ye Faithful / O Holy Night - Instrumental,Trans-Siberian Orchestra,spotify:track:0272R2KNbzGpLnXGAWTfZo,"0,123","0,545",5,"-8,333",1,"0,0299","0,00877","0,373","0,129","0,155","168,829",259373,3,"33,37925",14,0,6
+O Grande Amor,Antônio Carlos Jobim,spotify:track:2D5UIphZ0ViZBvOiiY1WQI,"0,49","0,119",2,"-18,107",0,"0,0418","0,967","0,322","0,122","0,277","129,483",326493,4,"19,59134",12,0,6
+O Sol Nascerá (A Sorrir),Cartola,spotify:track:4M2j1X47FwMozJrnJHnYNm,"0,69","0,613",7,"-11,531",1,"0,0332","0,554",0,"0,0673","0,919","100,937",97200,4,"39,63801",5,0,6
+Offering,John Coltrane,spotify:track:0oMc5phoblKOZBrrgqq6K1,"0,312","0,681",11,"-11,445",1,"0,32","0,644","0,00105","0,12","0,597","46,185",502760,4,"42,78978",17,0,6
+Oh Girl,Paul Young,spotify:track:0YqhqbLNpfQetrwuLaVTiK,"0,57","0,575",9,"-7,032",1,"0,0318","0,267",0,"0,0823","0,421","135,903",216373,4,"33,2269",11,1,6
+Oh. No! What We Gonna Do?,VeggieTales,spotify:track:6u5TlYfQeYthV5Fk8AILLl,"0,769","0,55",4,"-8,186",1,"0,416","0,375",0,"0,11","0,632","90,872",119107,4,"82,33543",5,0,6
+Oirectine,Boards of Canada,spotify:track:6FGxhUgXzsj98rI7Yo915Z,"0,826","0,47",1,"-11,804",1,"0,0646","0,225","0,951","0,111","0,174","106,099",311133,4,"75,99269",10,0,6
+Ol' Man River,Bix Beiderbecke,spotify:track:03TEcM6nlUR7cwCeqBeAtL,"0,638","0,163",3,"-15,787",1,"0,136","0,995","0,521","0,268","0,791","169,973",177800,4,"39,56903",8,0,6
+Old To The New,Nice & Smooth,spotify:track:1eyHkqk22jB7DVr7kGXFs8,"0,77","0,878",10,"-6,734",0,"0,0531","0,0052","0,000264","0,0857","0,468","100,418",253333,4,"49,41261",12,1,6
+On Bended Knee,Boyz II Men,spotify:track:7MYmo0JJJDmu4MZTSAF9y3,"0,631","0,516",8,"-8,225",1,"0,0353","0,413",0,"0,115","0,18","116,654",329800,4,"43,33309",14,1,6
+On Point,House Of Pain,spotify:track:2h5hQFc6tPJO3O1tz0bSkY,"0,814","0,537",1,"-10,198",1,"0,0691","0,0464","0,000319","0,0928","0,556","104,21",228867,4,"46,72614",13,1,6
+On the Rhodes Again,Morcheeba,spotify:track:4QYa5naZ0xJpPqzmApbVh4,"0,396","0,766",7,"-8,895",1,"0,133","0,302","0,926","0,244","0,127","75,051",431267,4,"88,9491",11,0,6
+Once Upon the Cross,Deicide,spotify:track:3fsOBwBwxBB4j1IFhh3s9V,"0,205","0,95",10,"-8,498",0,"0,132","1,93E-05","0,805","0,212","0,314","184,43",214213,4,"29,82403",8,0,6
+One And Only Man,Steve Winwood,spotify:track:3Mjn7q1ubHIhTGwciFMrB9,"0,606","0,87",2,"-9,012",0,"0,0282","0,0119","0,00386","0,127","0,855","104,99",302733,4,"40,12425",13,1,6
+One More Try,Kristine W,spotify:track:4fMPX87j0CHJCOJ3QtKe5P,"0,71","0,768",0,"-6,949",1,"0,0345","0,327","0,00329","0,162","0,237","126,122",268267,4,"46,41828",8,1,6
+One Of Us,Joan Osborne,spotify:track:1xNmF1Uep5OGutizZSbKvd,"0,316","0,499",9,"-7,899",1,"0,0298","0,0108","1,81E-05","0,126","0,403","174,782",320467,4,"38,6325",15,1,6
+One Way Ticket,Mr. Review,spotify:track:0MWuLiXqxPiQIGTCjstLgL,"0,696","0,896",9,"-9,134",1,"0,0332","0,165","0,00591","0,121","0,981","166,978",234573,4,"44,20047",10,0,6
+One Week,Barenaked Ladies,spotify:track:29hBRadFZf9QTGRHZmxm65,"0,702","0,898",9,"-6,003",1,"0,0373","0,00854","0,000154","0,0917","0,731","112,845",169760,4,"45,25342",8,1,6
+Only Time Will Tell,Nelson,spotify:track:7FcRdUa2ypO4W6MAiVNUxz,"0,455","0,417",0,"-16,817",0,"0,0303","0,316","1,44E-06","0,0608","0,464","142,25",233718,4,"44,31658",10,1,6
+Only Wanna Be With You,Hootie & The Blowfish,spotify:track:1OFKUn2VLafrHj7ybnap0Q,"0,49","0,873",6,"-5,861",1,"0,0355","0,107","5,19E-06","0,118","0,513","103,272",229587,4,"42,4438",10,1,6
+Ooh Aah... Just A Little Bit,Gina G,spotify:track:7kyMLaXepcGHIrsLqoiTB8,"0,647","0,942",1,"-7,101",1,"0,0341","0,626","0,168","0,0411","0,937","130,978",203120,4,"22,43208",11,1,6
+Ordinary Story,In Flames,spotify:track:0Lc3diklqgtWER4cnESn8u,"0,439","0,983",3,"-4,911",1,"0,123","1,31E-05","0,319","0,183","0,262","156,977",256333,4,"34,18605",9,0,6
+Ordinary World,Duran Duran,spotify:track:0wokCRaKD0zPNhMRXAgVsr,"0,472","0,652",1,"-10,171",0,"0,0305","0,0131","1,12E-05","0,14","0,401","140,124",340200,4,"66,99943",14,1,6
+Our Delight,Jan Lundgren Trio,spotify:track:6VIs7tIJ6XkFvQMAnbo7Nw,"0,464","0,443",10,"-14,391",0,"0,0361","0,743","0,0773","0,713","0,641","112,944",239707,4,"117,39012",5,0,6
+Out Of My Head,Fastball,spotify:track:5tOjRq5shlEdm15nmJBq7Z,"0,531","0,658",4,"-7,382",1,"0,0382","0,412","0,00272","0,16","0,461","78,896",153067,4,"65,61959",7,1,6
+Overture And A Prisoner Of The Crusades (From Chains To Freedom),Michael Kamen,spotify:track:15j9XMtlPVsJpqCrDTv0MW,"0,187","0,264",0,"-15,162",1,"0,035","0,73","0,752","0,104","0,0977","145,012",507560,4,"40,16228",22,0,6
+Oye Mi Canto (Hear My Voice),Gloria Estefan,spotify:track:61ZYmGnSp4eStNQGutEOCX,"0,671","0,684",7,"-12,216",1,"0,0391","0,245","0,00406","0,0592","0,886","119,525",291200,4,"17,62856",13,1,6
+Paroles paroles,Dalida,spotify:track:4VvTGipG8YaF09z0kfGqaD,"0,567","0,549",5,"-9,727",0,"0,0464","0,727",0,"0,136","0,399","125,176",245667,4,"57,17115",12,0,6
+Parras,Los Strwck,spotify:track:1SaEaa5kyQIuAgZCHzIrfV,"0,441","0,77",4,"-6,491",1,"0,0413","0,59","4,17E-06","0,26","0,906","97,342",170080,4,"78,61079",5,0,6
+Peach,Beborn Beton,spotify:track:61u4h6IUG74LyvxzmvFToc,"0,632","0,852",0,"-8,265",1,"0,037","0,0235","0,122","0,056","0,559","125,009",270187,4,"39,4452",15,0,6
+Peaches,The Presidents Of The United States Of America,spotify:track:3VEFybccRTeWSZRkJxDuNR,"0,417","0,849",1,"-4,199",0,"0,0481","0,0146","0,000387","0,0673","0,594","94,267",171693,4,"37,28005",7,1,6
+Pearl - Edit,Chapterhouse,spotify:track:0kCzcpTLcdi6ClEI2x28hb,"0,41","0,885",2,"-7,042",1,"0,0351","0,000104","0,807","0,307","0,618","100,047",290800,4,"24,78784",11,0,6
+Peer Gynt Suite No.1 op. 46 In the Hall of the Mountain King (Alla marciia e molto marcato),Academy of St. Martin in the Fields,spotify:track:3ejpnLTJJeeMe2K7V95iIn,"0,392","0,156",4,"-18,118",0,"0,0385","0,953","0,956","0,0843","0,535","132,058",145467,4,"19,79342",8,0,6
+Pepito en el Nacional,Acerina Y Su Danzonera,spotify:track:1cQgNSKnylErAP4pZjrxxx,"0,543","0,449",2,"-11,012",1,"0,0611","0,488","0,15","0,0323","0,79","135,465",133040,4,"46,51646",7,0,6
+Piano Sonata No. 2: 4. Vif,Pierre Boulez,spotify:track:0LPDTd3IP91H1pjEvKS5iA,"0,507","0,101",7,"-20,403",0,"0,0446","0,986","0,808","0,257","0,183","75,369",612000,3,"53,6798",23,0,6
+Picaíto,Los Angeles Azules,spotify:track:6gQFGdm1bCupAUiLHi6w5e,"0,798","0,699",5,"-4,611",1,"0,0598","0,385","0,000501","0,0494","0,67","94,501",133360,4,"19,42819",9,0,6
+Pico De Gallo,Trout Fishing in America,spotify:track:57vDkCw1lLLJ43NvRG5it2,"0,577","0,584",9,"-7,788",1,"0,0438","0,387",0,"0,775","0,836","136,938",188627,4,"35,79662",11,0,6
+Piedra,Caifanes,spotify:track:3UvB63cZSpGUL3LvAj03dI,"0,643","0,816",7,"-8,535",1,"0,0476","0,0357","7,28E-05","0,218","0,616","115,061",276067,4,"31,51525",14,0,6
+Pimp Of The Year,Dru Down,spotify:track:5f8KgDZ8aQKQii0U1qdRbC,"0,931","0,513",2,"-4,655",1,"0,263","0,108","0,000435","0,272","0,3","101,064",254093,4,"37,20501",13,1,6
+Ping Pong - Remastered,Art Blakey & The Jazz Messengers,spotify:track:1cjVMCYoLlzZ6AeC6fUvZJ,"0,505","0,534",5,"-10,919",0,"0,043","0,503","0,000231","0,0872","0,595","119,209",426867,4,"39,17422",18,0,6
+Pink,Aerosmith,spotify:track:74uGhWp4BYpjFj1V2DzgoO,"0,431","0,751",0,"-5,124",1,"0,0423","0,0134","4,45E-06","0,126","0,777","171,848",235360,4,"69,74034",10,1,6
+Plasma,Plas Johnson,spotify:track:6aBzhEJA2KZpkiUeLdr1L6,"0,607","0,205",0,"-14,275",0,"0,0378","0,141","0,909","0,0635","0,569","116,09",162907,1,"27,11763",9,0,6
+Please,The Kinleys,spotify:track:3rbzfdva1BcGF5ZZ8xGf6U,"0,562","0,54",4,"-6,351",1,"0,0259","0,557",0,"0,0948","0,277","140,77",214827,4,"42,79858",11,1,6
+Please Don't Go,Boyz II Men,spotify:track:6wpz7aQOAk2plmGYrSr61H,"0,644","0,663",6,"-12,847",0,"0,0454","0,197",0,"0,302","0,743","135,622",263960,4,"18,85266",14,1,6
+Please Don't Go,K.W.S.,spotify:track:41DTJjf2ZT7dTuZOKBNKbb,"0,725","0,954",8,"-7,234",1,"0,0375","0,0437","0,0857","0,132","0,594","120,248",373600,4,"33,30201",14,1,6
+Please Return,The Black Devils,spotify:track:4dCUSNs3PClT7ThKrBtDsT,"0,717","0,395",4,"-10,693",1,"0,0266","0,786","0,000246","0,155","0,512","111,682",217333,3,"30,60704",14,0,6
+Pluto,Björk,spotify:track:03794FHTruV54i92ZvNESw,"0,584","0,823",8,"-4,572",1,"0,157","0,00227","0,349","0,0754","0,323","148,068",199240,4,"39,46298",9,0,6
+Poison,Alice Cooper,spotify:track:5XcZRgJv3zMhTqCyESjQrF,"0,28","0,908",2,"-5,509",0,"0,109","0,0327","8,85E-06","0,18","0,26","118,698",270080,4,"36,90502",10,1,6
+Poison,Bell Biv DeVoe,spotify:track:6m59VvDUi0UQsB2eZ9wVbH,"0,84","0,56",6,"-10,53",0,"0,21","0,00195","0,00417","0,633","0,775","111,815",261853,4,"38,13758",13,1,6
+Pomeroy Mountain,Angry Johnny and the Killbillies,spotify:track:6g8EpamrbtVKNOcsodJPEr,"0,669","0,564",7,"-11,133",1,"0,0284","0,433","2,08E-05","0,157","0,946","134,285",302107,4,"54,67647",12,0,6
+Pop Loser,Velocity Girl,spotify:track:1ffCS0pYwGoNArwqFS0iGp,"0,588","0,835",9,"-8,511",0,"0,0301","0,0808","0,00752","0,13","0,978","127,494",144840,4,"30,52254",8,0,6
+Pop Place,Trashcan Sinatras,spotify:track:1XQJJ4nnvYlOurbq8T0FvT,"0,638","0,609",2,"-7,084",1,"0,0251","0,109",0,"0,152","0,874","110,551",188400,4,"28,07624",11,0,6
+Post Houmous,Morcheeba,spotify:track:3TcPdLmJd4bkexN5QeZwre,"0,703","0,359",7,"-11,785",1,"0,0505","0,0822","0,93","0,11","0,0701","92,068",108306,4,"56,70848",5,0,6
+Potion No. 1,Den Baron,spotify:track:4K9PdqmNLi1fO94TnEez6G,"0,353","0,883",0,"-8,561",1,"0,043","0,00911","0,151","0,053","0,564","119,288",188933,5,"34,69665",8,0,6
+Powerful Thing,Trisha Yearwood,spotify:track:726S7vART4JYDbwIZwvHEm,"0,614","0,868",2,"-3,97",1,"0,0459","0,413",0,"0,0366","0,956","147,978",176920,4,"37,24591",9,1,6
+Pra Você Gostar de Mim,Vital Farias,spotify:track:6sCSDp0N4T8RQqWbepEuog,"0,383","0,38",3,"-11,156",1,"0,0308","0,799","0,00164","0,171","0,539","139,827",259374,3,"38,49459",13,0,6
+Praying For Time,George Michael,spotify:track:7CgRXXie9XIxVSkpKi40ID,"0,581","0,622",10,"-14,878",1,"0,0354","0,0471","0,0162","0,0915","0,257","127,814",280981,4,"26,52636",13,1,6
+Prelude and Story,Tony Kinsey,spotify:track:19yNBPOlv3pLFKZ1zoA6yE,"0,295","0,209",5,"-13,146",1,"0,0348","0,916","0,00154","0,138","0,0786","126,328",362600,4,"52,82156",18,0,6
+Pretty Fly (For A White Guy),The Offspring,spotify:track:3SFXsFpeGmBTtQvKiwYMDA,"0,723","0,895",11,"-3,707",0,"0,102","0,088",0,"0,0717","0,963","143,373",188667,4,"16,83781",11,1,6
+Prints Tie,Bobby Hutcherson,spotify:track:6FERZX07fqebws3FeqChTl,"0,331","0,254",6,"-15,98",1,"0,0339","0,824","0,52","0,0911","0,229","83,94",449600,3,"65,76794",19,0,6
+Promentory,Trevor Jones,spotify:track:0l4seNH8AyE2kvjxFfpWi1,"0,183","0,235",2,"-17,632",0,"0,0366","0,000117","0,857","0,136","0,037","107,603",373173,4,"33,3797",22,0,6
+Punk Rock 101,Diesel Boy,spotify:track:4TM8FBojGAfApm4n109A72,"0,327","0,906",1,"-6,617",0,"0,0719","3,28E-05","1,11E-05","0,0655","0,342","102,413",106333,3,"20,69348",6,0,6
+Punta Del Soul,Dave Grusin,spotify:track:28I3FVjb1eeOfNmyZl3gdJ,"0,703","0,507",5,"-11,195",1,"0,0399","0,131","0,683","0,0501","0,603","82,885",331400,4,"24,34",11,0,6
+Que Inhumano,Los Superclasicos,spotify:track:4Iv3HGBWhM59CzZlfMyLiq,"0,583","0,34",10,"-15,228",1,"0,0344","0,79","3,42E-06","0,0793","0,688","111,083",149827,4,"27,8855",7,0,6
+Quem Quiser Encontrar O Amor,Tamba Trio,spotify:track:5kHStdKoIKWa6c06nGRdrp,"0,386","0,292",7,"-18,672",1,"0,0293","0,847","0,332","0,234","0,381","90,72",179160,4,"43,08369",8,0,6
+Quincy Punk Episode,Spoon,spotify:track:51JuqDiKjIh09lVOTNg4QG,"0,488","0,972",9,"-7,017",0,"0,0688","0,00855","0,00116","0,286","0,602","162,833",138053,4,"21,33321",9,0,6
+R-9,Cybotron,spotify:track:4lbgRLLrmnxbM3Kbb6KaiU,"0,636","0,87",6,"-13,175",0,"0,061","0,0033","0,396","0,103","0,64","124,325",314107,4,"21,66429",15,0,6
+Ram It Down,Judas Priest,spotify:track:3LsIuCbWHtl78X3nrTQl4O,"0,309","0,983",2,"-5,991",1,"0,115","0,000809","0,00596","0,278","0,146","141,71",288520,4,"21,30834",10,0,6
+Reach,Gloria Estefan,spotify:track:5XA5gILkpyVfHuoBLl9kfN,"0,451","0,832",5,"-5,371",0,"0,0429","0,314",0,"0,0722","0,435","156,104",230133,4,"23,3596",11,1,6
+Reach For The Sky,Firehouse,spotify:track:4T2CCZX2QjiREym8lZ2G4v,"0,562","0,891",1,"-8,283",1,"0,0361","1,21E-05","0,0588","0,0858","0,524","132,569",286733,4,"31,92332",8,1,6
+Ready To Go,Republica,spotify:track:5Qt8U8Suu7MFH1VcJr17Td,"0,559","0,953",2,"-4,657",1,"0,0568","0,000283","0,188","0,187","0,236","130,053",301067,4,"38,21508",8,1,6
+Real Hip Hop,Das EFX,spotify:track:7Kutf53V4k0CvU4nKu5oK6,"0,858","0,76",4,"-7,895",0,"0,254","0,0217",0,"0,322","0,951","93,082",247613,4,"30,41843",11,1,6
+Really Doe,Ice Cube,spotify:track:1P1drZCIcMAqTMbO2DzImN,"0,773","0,737",8,"-8,314",1,"0,146","0,00993","0,0234","0,295","0,691","96,909",268160,4,"21,10311",12,1,6
+Recover Your Soul,Elton John,spotify:track:6FGfXPvZ8sMpq1xd75FHXp,"0,725","0,653",7,"-9,365",1,"0,0238","0,134","0,00675","0,272","0,582","103,003",318040,4,"25,0056",17,1,6
+Red Clay Halo,The Nashville Bluegrass Band,spotify:track:1bsAluHXof40bcq8CtEunj,"0,678","0,386",0,"-11,385",1,"0,0341","0,864","0,00179","0,213","0,667","129,564",173533,4,"38,50535",9,0,6
+Red Light Blues,Tony Kinsey,spotify:track:0o16V4x9u5XpDBJK4vq9wZ,"0,517","0,0939",7,"-20,157",0,"0,0431","0,766","0,13","0,173","0,5","93,95",229973,4,"48,79887",13,0,6
+Red Light Fever,Demented Are Go,spotify:track:5LRNpyL4VvbFY86H9JxeJm,"0,266","0,98",7,"-4,775",0,"0,113","3,82E-06","0,712","0,105","0,208","119,43",124933,4,"49,23172",7,0,6
+Refractive Light / Harbinger,David Behrman,spotify:track:4MdcUJvtJKe7TDYoRaVmXb,"0,22","0,0512",7,"-23,172",1,"0,0433","0,989","0,835","0,0785","0,0352","99,038",63867,4,"39,35029",4,0,6
+Regret,New Order,spotify:track:1UVll7jjUlqSGxCZ6uXVaD,"0,506","0,931",5,"-5,635",1,"0,0305","0,00146","0,0227","0,27","0,865","129,568",248973,4,"42,28143",11,1,6
+Release Me,Angelina,spotify:track:0Adj9fQY9QurLs8xs1aFBG,"0,869","0,732",8,"-5,405",1,"0,0559","0,0162","5,74E-05","0,0627","0,944","130,064",237267,4,"43,6293",9,1,6
+Release Me,Wilson Phillips,spotify:track:1rIy3lkFJnMsTLZpxFmYU8,"0,724","0,471",0,"-11,143",1,"0,0358","0,448","2,5E-06","0,218","0,442","97,211",295693,4,"47,65505",12,1,6
+Revolution Rock,Los Fabulosos Cadillacs,spotify:track:5RZK7quU1v0QaZYulNfw3G,"0,549","0,915",0,"-6,737",1,"0,0669","0,0813","0,000316","0,0285","0,87","172,12",296040,4,"36,52387",14,0,6
+Rhythm Of Love,DJ Company,spotify:track:73qjbJcnWtMySl3HIvgnd4,"0,552","0,868",1,"-8,242",1,"0,0347","0,00138","0,114","0,17","0,797","142,013",230360,4,"21,07611",12,1,6
+Rhythm Of My Heart,Rod Stewart,spotify:track:6pceknxOgA22HKs99yPEm1,"0,582","0,54",1,"-11,021",1,"0,0321","0,0621",0,"0,178","0,433","94,955",254867,4,"21,41833",12,1,6
+Right Here,SWV,spotify:track:7tUEDtHchueeUJTfEFEhii,"0,615","0,72",9,"-5,16",0,"0,0658","0,068","0,0105","0,0889","0,696","94,002",226947,4,"23,08257",12,1,6
+Riverside Special,African Jazz Pioneers,spotify:track:5eAOYzJ9q6Q7Z25Yml5UTc,"0,567","0,856",5,"-5,095",1,"0,052","0,665","0,469","0,11","0,902","113,641",384813,4,"45,09151",15,0,6
+Rock And Roll Dreams Come Through,Meat Loaf,spotify:track:452fSzvkB2A8FHVI4JKK2S,"0,564","0,888",0,"-3,389",1,"0,0329","0,169","0,000101","0,182","0,461","112,234",350867,4,"39,56157",15,1,6
+Rock n' Roll,Suicide,spotify:track:1MZ2PkMHIdEiGo8yLtZCiy,"0,251","0,34",10,"-15,731",0,"0,0356","0,000124","0,734","0,11","0,0315","101,663",314733,4,"67,56562",8,0,6
+Rock para los Dientes - En Vivo,Patricio Rey y sus Redonditos de Ricota,spotify:track:7lqQj0Be4i6JV65jSlSrsX,"0,455","0,98",4,"-3,699",0,"0,0766","0,201","0,0165","0,989","0,601","111,267",212307,4,"73,57953",7,0,6
+Rock-n-roll - это не работа,Alisa,spotify:track:43YE3dS5p9Gf4wmkPwn4yn,"0,496","0,869",9,"-7,754",1,"0,118","0,179",4E-06,"0,328","0,559","115,275",254240,4,"31,46344",7,0,6
+Roll To Me,Del Amitri,spotify:track:7LF0YY1gON8rBECsyEs0Wb,"0,567","0,821",6,"-5,894",1,"0,0371","0,418",0,"0,108","0,895","150,106",132307,4,"83,96083",6,1,6
+Romance No. 2 In F Major. Op. 50 : Romance No. 2 In F Major. Op. 50,Takako Nishizaki,spotify:track:2bVFtinPWr6qKEapuQeSo6,"0,148","0,0512",5,"-23,233",1,"0,0463","0,964","0,292","0,303","0,0706","185,749",593467,4,"47,02557",27,0,6
+Romantic Call,Patra Featuring Yo-Yo,spotify:track:1siSzxLE2nCUZ4VYTMbCQT,"0,802","0,608",10,"-10,169",0,"0,255","0,0174","0,0174","0,0761","0,766","98,439",243093,4,"47,923",11,1,6
+Romeo,Dino,spotify:track:7xez8LRby1hw2nBvse9E9e,"0,668","0,892",7,"-6,767",0,"0,0775","0,0766",1E-05,"0,135","0,899","108,237",256733,4,"104,88036",8,1,6
+Rosealia,Better Than Ezra,spotify:track:2NlX2HYLvnqpD8v1sBOUyK,"0,392","0,676",7,"-11,914",1,"0,0327","0,00567","0,000111","0,155","0,548","120,926",278973,4,"164,10108",5,1,6
+Rothko Chapel 5,Morton Feldman,spotify:track:3ci95cJaK7fYZN3o9YBTXf,"0,168","0,00198",9,"-40,147",0,"0,0493","0,98","0,957","0,104","0,0279","69,344",172867,3,"32,46112",10,0,6
+Run Away,Real McCoy,spotify:track:0ibYVniVLMJWvc3eNfYk8T,"0,721","0,924",1,"-8,282",1,"0,0396","0,000683","0,00382","0,0817","0,694","130,947",244133,4,"29,70752",12,1,6
+Run-Around,Blues Traveler,spotify:track:500Tkm3vJmVtdUwdCVxCTb,"0,629","0,867",7,"-7,307",1,"0,0603","0,0865",0,"0,126","0,876","151,695",279800,4,"19,30139",16,1,6
+Runaway,The Corrs,spotify:track:6csX1JjmeoLhGqMBXGnZF0,"0,423","0,598",5,"-7,443",1,"0,0268","0,641","1,24E-06","0,34","0,521","151,972",265133,3,"31,42707",11,1,6
+Runaway Train,Soul Asylum,spotify:track:3TW48DvQ7ChwY1Yy1tkMaP,"0,613","0,72",0,"-7,957",1,"0,0425","0,0132",0,"0,104","0,561","117,341",265867,4,"26,84971",11,1,6
+Said I Loved You...But I Lied,Michael Bolton,spotify:track:2nfMrwg3aRhSAv4HX7IzJL,"0,547","0,569",10,"-8,644",1,"0,0271","0,189","7,05E-06","0,156","0,432","159,713",304867,4,"38,744",13,1,6
+Sails,Nikki Iles,spotify:track:5AsOna1ZTeM4BmHRgT3iHe,"0,438","0,00343",2,"-30,785",0,"0,0438","0,996","0,711","0,0796","0,459","74,291",122467,3,"83,84389",4,0,6
+Same Old Look,Jimmy Ryser,spotify:track:7sCkSxXhbq0HlXHAx7RPIS,"0,554","0,927",7,"-6,103",1,"0,0351","0,0309","3,26E-06","0,206","0,531","125,023",276360,4,"14,95971",13,1,6
+Santa's A Fat Bitch,Insane Clown Posse,spotify:track:2h4voue0Zb6X8W902p27sK,"0,85","0,546",1,"-12,971",1,"0,206","0,00574",0,"0,719","0,655","94,28",262525,4,"46,36628",10,1,6
+Sarabande,La Monte Young,spotify:track:1ULw41Hx2vYOBwmmE1E4D2,"0,654","0,0027",7,"-25,959",1,"0,195","0,99","0,945","0,0975","0,0928","97,664",97160,4,"35,6256",5,0,6
+Sarasate: Zigeunerweisen. Op. 20,Pablo de Sarasate,spotify:track:2st9kwCck5g6hjUwwRGQCE,"0,265","0,137",0,"-20,642",0,"0,0491","0,867","0,132","0,048","0,134","82,954",517707,4,"38,97169",22,0,6
+Satin Doll,Duke Ellington,spotify:track:02E4skBHp6ZyoEDgXHcQgu,"0,611","0,0975",0,"-11,57",1,"0,0289","0,745","0,856","0,101","0,399","88,835",179333,4,"36,48749",6,0,6
+Say It,Voices Of Theory,spotify:track:5919i3Sp9U2IE5m7hhlgSw,"0,381","0,415",0,"-10,298",1,"0,0691","0,675",0,"0,0795","0,257","61,908",269467,3,"26,47203",9,1,6
+Say It (Over And Over Again),John Coltrane Quartet,spotify:track:0URXszKHiOp6aav1bwYyBi,"0,482","0,115",3,"-14,606",1,"0,035","0,946","0,286","0,256","0,237","66,801",258093,4,"58,7767",7,0,6
+Say You'll Be There,Spice Girls,spotify:track:1yTQ39my3MoNROlFw3RDNy,"0,726","0,679",1,"-6,219",1,"0,0473","0,0149","1,49E-06","0,0837","0,751","107,02",235973,4,"32,66922",9,1,6
+Schoenberg: 5 Orchestral Pieces. Op. 16: No. 1 Vorgefühle (Forebodings),Arnold Schoenberg,spotify:track:3aLBmGiKnERrkmKyFMnv2o,"0,199","0,254",1,"-17,501",1,"0,0416","0,88","0,918","0,126","0,152","74,757",132373,4,"100,76148",4,0,6
+Sci-Fi Wasabi,Cibo Matto,spotify:track:2DkkPE9FFCbNa0cfymZnVi,"0,678","0,849",6,"-4,183",1,"0,141","0,0174",0,"0,592","0,424","98,401",223027,4,"55,1161",7,0,6
+Scoot,Carl-Henrik Norin,spotify:track:19DP3vzCOtPQTkeVaxpRUJ,"0,747","0,407",8,"-7,692",1,"0,0661","0,327","0,559","0,034","0,713","112,707",154427,4,"21,08032",8,0,6
+Screaming for Vengeance,Judas Priest,spotify:track:1xrZtQGgKrnrbYFWJ1YLmJ,"0,391","0,979",9,"-5,537",1,"0,0936","0,00922","3,43E-06","0,533","0,184","112,928",283907,4,"24,75128",13,0,6
+Sedalia,Tol & Tol,spotify:track:1CBPHiDlNY1ld9eYHiGPcI,"0,679","0,399",5,"-14,321",1,"0,0336","0,178","0,00679","0,0883","0,777","115,073",206907,4,"26,87272",11,0,6
+Seeya Later,Boards of Canada,spotify:track:2LDYvpug35TCwdooo62tD2,"0,728","0,467",1,"-14,021",1,"0,252","0,000163","0,903","0,0374","0,367","94,027",252640,4,"50,55722",10,0,6
+Segura esta Mulher,Silvio Caldas,spotify:track:4KkF4KNWkRFlSW8B5Bulgx,"0,821","0,424",7,"-11,753",1,"0,05","0,925",0,"0,364","0,955","119,675",149200,4,"36,85945",7,0,6
+Sensitivity,Ralph Tresvant,spotify:track:3lRgzwd3g1TewI4zjgbh9V,"0,683","0,661",1,"-12,823",1,"0,0459","0,137","0,557","0,0772","0,707","96,956",281333,4,"24,85299",12,1,6
+Sexual (Li Da Di),Amber,spotify:track:4jCWcK6PhbnzOCAFJEztUm,"0,623","0,898",4,"-6,604",0,"0,0309","0,000192","0,303","0,138","0,786","130,993",226227,4,"30,7697",12,1,6
+Shadowboxin',GZA,spotify:track:7bp5DfkdK1OAvNJ1U4HfDA,"0,704","0,642",1,"-10,11",1,"0,39","0,00704","1,43E-06","0,161","0,72","92,09",209973,4,"23,7503",12,0,6
+Shake Your Bon-Bon,Ricky Martin,spotify:track:1yKDl9K9lrbIFSpPBzEQtb,"0,638","0,937",0,"-4,642",1,"0,0444","0,0942",0,"0,327","0,762","100,03",192333,4,"22,51275",9,1,6
+She - Tous les visages de l’amour,Charles Aznavour,spotify:track:2OxkfL5jW8bvYTCNDLlRSY,"0,348","0,393",1,"-9,787",1,"0,03","0,223",0,"0,151","0,357","132,069",153067,4,"19,42083",10,0,6
+She Made Me,The Brian Jonestown Massacre,spotify:track:1n2LBrEbAJNN5RzKsfkjNI,"0,392","0,638",9,"-12,827",1,"0,0276","0,0484","0,804","0,378","0,51","85,449",282267,4,"49,96054",8,0,6
+She Was Tall. She Was High,The Pretty Things,spotify:track:1ZBAsM0AIjBaCRwL1iOTIZ,"0,444","0,479",7,"-9,731",1,"0,0341","0,0492","2,28E-05","0,236","0,303","140,192",95840,4,"25,19804",7,0,6
+She's Always Right,Clay Walker,spotify:track:6TZIPLYJLGXKw7Q4JJ3ujF,"0,47","0,53",8,"-10,006",1,"0,0317","0,354",0,"0,19","0,444","142,741",201867,4,"39,05795",8,1,6
+She's Playing Hard To Get,Hi-Five,spotify:track:3xRbymJj98leHL7K8Y94WS,"0,525","0,811",1,"-6,148",1,"0,0602","0,00847",0,"0,266","0,751","199,977",276573,4,"41,06696",9,1,6
+Shew Beli Bileney,The Roha Band,spotify:track:5VtsZ6AiLHyKrZEkIhbbh7,"0,625","0,623",7,"-10,101",1,"0,0413","0,112","0,00736","0,145","0,657","90,799",326707,4,"91,45907",11,0,6
+Shine,Collective Soul,spotify:track:6emdJW80SbDBMuHci8PJJn,"0,54","0,423",6,"-8,799",1,"0,0283","0,294","0,0884","0,152","0,353","150,135",306040,4,"39,82054",12,1,6
+Sho Nuff,Tela Featuring Eightball & MJG,spotify:track:3R5G81gtoO5CcZlRCRKVLk,"0,776","0,468",0,"-8,35",1,"0,144","0,00138",0,"0,162","0,233","146,149",308027,4,"27,32608",15,1,6
+Shoop,Salt-N-Pepa,spotify:track:0Pu71wxadDlB8fJXfjIjeJ,"0,939","0,675",0,"-7,232",1,"0,211","0,0915",0,"0,0565","0,795","96,918",248573,4,"22,80835",11,1,6
+Sign of the Zodiac,Rasputina,spotify:track:418zOsoHsqwLJEJ2zBkgCG,"0,335","0,294",2,"-12,386",0,"0,0359","0,805","0,118","0,113","0,0967","132,112",227000,4,"58,92358",8,0,6
+Silent Angel - Guitar Version,Axel Rudi Pell,spotify:track:0Cm2s8fuG042WbsiTK2lMD,"0,157","0,44",11,"-7,523",1,"0,0303","0,00203","0,114","0,109","0,178","87,912",249507,4,"20,82295",15,0,6
+Silk 'n' Satin,Sonny Rollins,spotify:track:5skvhubObjGtF0dsMvJlMk,"0,537","0,132",0,"-14,821",1,"0,0398","0,964","0,638","0,338","0,556","150,377",240000,3,"37,72066",9,0,6
+Sin So Well,Rebekah,spotify:track:3mUmd78qWMY1qxYgXgO0gT,"0,727","0,629",6,"-5,022",0,"0,0331","0,288",0,"0,107","0,518","119,663",219360,4,"23,93764",9,1,6
+Sin Ti No Sé Vivir,Los Angeles Azules,spotify:track:2tkeEsJUjKLM1zKeWJ3RqU,"0,654","0,331",2,"-8,954",1,"0,0395","0,309",0,"0,12","0,802","83,918",224787,4,"38,88316",8,0,6
+Sixteen Tons,Tennessee Ernie Ford,spotify:track:3P6OwCX7Ofiaaqtvujb6i5,"0,693","0,324",11,"-15,085",1,"0,205","0,796",0,"0,246","0,382","144,14",158307,4,"28,18392",9,0,6
+Sixteen Years,Chapterhouse,spotify:track:2pBgETPQ5qblDL0YMOHw96,"0,263","0,539",4,"-10,257",0,"0,0333","2,43E-06","0,81","0,276","0,684","83,527",279187,4,"81,24562",8,0,6
+SK,Sugar Kane,spotify:track:3oMF96m3JwvXmTzGNIv86F,"0,34","0,922",0,"-5,467",1,"0,0451","7,91E-05","0,000579","0,557","0,6","97,077",172613,4,"30,10806",8,0,6
+Ska Mitzvah,King Django,spotify:track:5WD91zmsVZOlSnCHOiI0p0,"0,587","0,671",4,"-7,672",0,"0,0402","0,000831","0,612","0,356","0,924","149,611",183493,4,"61,91895",6,0,6
+Slam,Onyx,spotify:track:0W2mz7mvaBaEsC4rmoRNPn,"0,876","0,71",11,"-12,908",1,"0,347","0,0654","0,00312","0,918","0,724","98,305",218333,4,"19,18055",10,1,6
+Sleeping With You,Firehouse,spotify:track:5M3ZwYKhBoAKgTqebp4BBi,"0,584","0,815",3,"-8,151",1,"0,0325","6,45E-05","0,0367","0,214","0,705","120,799",230733,4,"18,97944",13,1,6
+Slime Rock,Chris Thile,spotify:track:6mMs5J2qLa7Xyw6JSdjlLz,"0,581","0,467",4,"-12,303",1,"0,0316","0,696","0,742","0,227","0,802","112,477",294333,4,"26,38989",15,0,6
+Slow Dance (Hey Mr. DJ),R. Kelly & Public Announcement,spotify:track:5glXpXx8GiA8e045JKS4eP,"0,742","0,619",10,"-4,149",0,"0,0302","0,101",0,"0,122","0,622","119,879",303093,4,"34,26654",13,1,6
+Slow Motion,Color Me Badd,spotify:track:03GzYByXsXHcoEAxjsWv9G,"0,783","0,885",6,"-7,747",0,"0,0648","0,00531","0,752","0,0435","0,941","92,042",265667,4,"49,84596",12,1,6
+Sluttering (May 4th),Jawbreaker,spotify:track:3nJvdMhOmRW4cRLw0NN7qC,"0,433","0,983",9,"-5,415",1,"0,079","0,00338","0,000454","0,228","0,632","158,985",254107,4,"44,02017",10,0,6
+Smack My Bitch Up,The Prodigy,spotify:track:3tehrxZR8eaANHov4cEctL,"0,607","0,993",10,"-4,511",0,"0,148","0,00314","0,593","0,112","0,229","136,208",342733,4,"22,04457",12,1,6
+Smells Like Nirvana,"""""""Weird Al"""" Yankovic""",spotify:track:5Q1qSEtljHQzUygQTt0Ykw,"0,591","0,786",6,"-7,664",1,"0,0749","0,162","0,00178","0,28","0,729","120,762",224533,4,"16,54714",10,1,6
+Smells Like Teen Spirit,Nirvana,spotify:track:5ghIJDpPoe3CfHMGu71E6T,"0,502","0,912",1,"-4,556",1,"0,0564","2,55E-05","0,000173","0,106","0,72","116,761",301920,4,"26,41615",12,1,6
+Smothered In Hugs,Guided By Voices,spotify:track:0491EjDNDRRwo9mBCsLaAX,"0,259","0,691",5,"-10,332",1,"0,0454","0,000817","0,452","0,634","0,396","112,232",180000,4,"35,86568",9,0,6
+So Hard,Pet Shop Boys,spotify:track:14RWSCy9Ec9UvApW0JqjQ0,"0,561","0,893",0,"-7,663",1,"0,038","0,00123","0,408","0,176","0,674","119,863",238387,4,"22,73805",13,1,6
+Solitaire,Strung Out,spotify:track:5srklmlDangVuD4O9hMbCD,"0,353","0,976",7,"-5,544",1,"0,0546","0,000332","0,00227","0,175","0,438","115,657",176587,4,"31,02441",6,0,6
+Somebody's Out There Watching,The Kinleys,spotify:track:1J2q9vOL8xL1MQXFazHB8y,"0,606","0,805",7,"-5,451",1,"0,0318","0,125",0,"0,351","0,44","81,488",215640,4,"47,66",10,1,6
+Someday,Mariah Carey,spotify:track:6TSM5vkz0WzyZsNAKKYDcw,"0,685","0,819",1,"-8,686",0,"0,0405","0,206","2,23E-06","0,0251","0,937","109,855",246107,4,"25,79109",11,1,6
+Someday,Sugar Ray,spotify:track:6NcHJ23mLQKnVxQcOmT7JW,"0,743","0,67",1,"-4,547",0,"0,0293","0,0108","0,0702","0,22","0,934","110,832",243333,4,"25,36994",12,1,6
+Someone To Watch Over Me,Glad,spotify:track:7vHmOeAwCwgPJiSQxTdBVG,"0,314","0,0669",3,"-14,003",1,"0,0299","0,903",0,"0,154","0,0425","101,631",249173,5,"43,66092",13,0,6
+Someone You Used To Know,Collin Raye,spotify:track:022rVz5n3Ga5CelWqme1Sb,"0,589","0,369",9,"-11,477",1,"0,0242","0,123","2,21E-06","0,114","0,295","98,997",225440,4,"23,76194",11,1,6
+Something In Your Eyes,Bell Biv DeVoe,spotify:track:5runzprCX4AqYLnTeo02g6,"0,796","0,623",6,"-9,309",0,"0,0328","0,0301","6,99E-05","0,0285","0,899","128,915",292533,4,"32,34123",13,1,6
+Something Wild,Iggy Pop,spotify:track:18vGIMUWsWCFteG0ADixbS,"0,595","0,772",7,"-10,869",1,"0,0263","0,0463","4,81E-05","0,196","0,679","129,044",241440,4,"74,43606",10,0,6
+Sommar adjö,Jan Johansson,spotify:track:5VOK1wLQc5au6Kl9eu3Hxj,"0,563","0,132",2,"-20,26",1,"0,0358","0,962","0,119","0,148","0,194","121,84",185360,3,"36,2556",8,0,6
+Sonata No 3 (1939): I. Lento. rubato,Giacinto Scelsi,spotify:track:4Omhgq0aaIMm0DPtiXakgH,"0,219","0,0568",9,"-21,672",1,"0,0423","0,975","0,833","0,0792","0,0339","66,817",505009,3,"31,12956",24,0,6
+Sonata. Op.143a - Adagio. Ma Non Troppo,Vagn Holmboe,spotify:track:1SQmK9QofZl3qO2MAuXuhP,"0,156","0,00217",2,"-32,645",1,"0,0465","0,956","0,000898","0,132","0,0985","74,833",161515,3,"26,57168",9,0,6
+Song-Song,Brad Mehldau,spotify:track:12lfqLDBgfRf3I4XB9SxbA,"0,388","0,0939",0,"-22,665",1,"0,044","0,87","0,896","0,083","0,0587","91,626",390867,3,"54,28106",19,0,6
+Soul Sermon,Gregg Karukas,spotify:track:6m24oe3lk1UMxq9zq4iPFi,"0,736","0,419",0,"-10,662",1,"0,03","0,693","0,495","0,0809","0,265","93,982",237267,4,"42,05369",9,0,6
+Southernplayalisticadillacmuzik,OutKast,spotify:track:2pMAmZdHfQHyqJCXJbfhK3,"0,69","0,834",10,"-5,8",0,"0,225","0,0162",0,"0,0559","0,58","172,392",317507,4,"56,91253",14,1,6
+Spanish Point,Béla Fleck,spotify:track:63nDGMlz0tsDmMdO5F8Vye,"0,562","0,574",4,"-14,036",0,"0,0398","0,933","0,911","0,544","0,564","114,238",336400,4,"27,3269",14,0,6
+Special Russian Folk Song,Limpopo,spotify:track:5oZsXoJdZq0RuqVj9dfCg0,"0,519","0,767",7,"-7,855",1,"0,0524","0,429",0,"0,0796","0,938","84,832",160733,4,"79,21143",5,0,6
+Speechless,Cibo Matto,spotify:track:0GpxtleZDqQgDrIBgCK4wf,"0,617","0,818",1,"-7,334",1,"0,0579","0,00514","0,00447","0,138","0,391","95,149",272933,4,"38,94147",8,0,6
+Spend My Life,Slaughter,spotify:track:4xTQdHvWyjASRfEBpaGJoI,"0,504","0,983",0,"-3,071",1,"0,0793","0,019",0,"0,339","0,534","115,178",200640,4,"27,78411",8,1,6
+Spend My Life With You,Eric Benet Featuring Tamia,spotify:track:58s4iqgXFzXhBndBkg2AaD,"0,583","0,435",8,"-8,784",1,"0,0386","0,434","5,49E-05","0,102","0,292","72,01",276013,4,"27,82509",8,1,6
+Spice Up Your Life,Spice Girls,spotify:track:5qGwqO0lkbBXw4xNfzT7SF,"0,556","0,993",1,"-5,067",1,"0,0464","0,0105","0,0341","0,403","0,702","124,016",173667,4,"40,94597",10,1,6
+Spin That Wheel,Hi Tek 3 Featuring Ya Kid K,spotify:track:0sAt5clOC0mNTup5FsjDJE,"0,803","0,924",5,"-7,161",1,"0,0701","0,0112","1,16E-05","0,0671","0,956","128,284",220360,4,"21,69249",13,1,6
+St. Anne's Reel,Scott Vestal,spotify:track:3lin7bs5vxKk5kdIHZB0dM,"0,531","0,535",2,"-13,804",1,"0,0347","0,791","0,953","0,241","0,964","115,394",212533,4,"35,33396",12,0,6
+Stack O'Lee,Mississippi John Hurt,spotify:track:0FQkg9AKa4DevwrrFC1aLK,"0,605","0,141",3,"-17,598",1,"0,0377","0,994","0,402","0,113","0,792","107,992",175093,4,"27,37408",12,0,6
+Stay Close to Me,Bad Brains,spotify:track:3XpMtbAQ0q2U4vYpYPDSrg,"0,546","0,815",6,"-7,36",0,"0,109","0,0601","0,000334","0,267","0,898","96,573",144133,5,"30,98618",9,0,6
+Stay With Me,Spiritualized,spotify:track:7D81EAc9Gk4vXdyOuQHxRo,"0,417","0,289",11,"-12,173",1,"0,0324","0,0101","0,933","0,0989","0,055","129,739",308133,5,"30,4",13,0,6
+Steam,Ty Herndon,spotify:track:2sPXJCnKyQ1SWjc2JdFnQK,"0,676","0,738",6,"-6,693",1,"0,0262","0,0497","2,7E-06","0,0784","0,697","101,944",216693,4,"21,42116",12,1,6
+Steel & Clarinet,Fred Hersch,spotify:track:38gnQCgcj10SFFxEixYecz,"0,49","0,123",0,"-19,207",0,"0,0359","0,925","0,325","0,117","0,442","91,507",287627,3,"92,81861",13,0,6
+Step By Step,New Kids On The Block,spotify:track:6J6RWKCPN5RFKHUKEUFjxS,"0,787","0,63",0,"-12,295",1,"0,0609","0,0274","6,69E-06","0,161","0,882","125,347",267293,4,"46,14574",13,1,6
+Step Down,Sick Of It All,spotify:track:6DE037vHREtIRYjqzZ8fkf,"0,369","0,836",7,"-8,257",1,"0,063","2,32E-05","0,291","0,44","0,541","88,978",189027,4,"50,73619",7,0,6
+Stewball,Mike Seeger,spotify:track:3Cn2HPrUDqIncD68WImchI,"0,64","0,383",0,"-13,177",0,"0,0429","0,801",0,"0,111","0,791","127,247",213040,4,"21,6177",10,0,6
+Still D.R.E.,Dr. Dre Featuring Snoop Dogg,spotify:track:503OTo2dSqe7qk76rgsbep,"0,816","0,775",11,"-3,323",1,"0,234","0,16","0,00031","0,0543","0,527","93,431",270587,4,"28,25741",11,1,6
+Stock Yards Strut,Small Jazz Band,spotify:track:6GPUHTXaKdrvxlYoUnUHk1,"0,802","0,437",8,"-12,955",1,"0,0733","0,712","0,87","0,192","0,981","112,5",254695,4,"77,394",11,0,6
+Stop The World,Extreme,spotify:track:4Vghbo90YLD9BudOpMKW0K,"0,452","0,724",8,"-8,189",1,"0,0435","0,0038","0,00112","0,687","0,325","174,594",357933,4,"23,84338",19,1,6
+Stranger,Beborn Beton,spotify:track:5cF6G55tKSpqS5DUp5dL3v,"0,519","0,839",5,"-7,048",1,"0,0466","0,0181","0,000286","0,156","0,422","164,889",302960,4,"58,97732",12,0,6
+Stranger In Moscow,Michael Jackson,spotify:track:64KrFHj9p5AyCX2yZQr4YJ,"0,802","0,468",1,"-8,629",1,"0,0378","0,248","0,0006","0,32","0,586","129,937",343960,4,"46,19257",11,1,6
+Strawberry Letter 23,Tevin Campbell,spotify:track:2U96QtBPJE158fZ74GIqQX,"0,812","0,834",6,"-7,722",1,"0,0375","0,0663","0,000443","0,115","0,817","106,425",196880,4,"55,2383",9,1,6
+Strength Through Wounding,AFI,spotify:track:6I3ICkKo3D5oOPitKYZS65,"0,323","0,922",11,"-7,731",0,"0,0488","0,000372","0,00218","0,527","0,492","139,819",93427,4,"40,46596",5,0,6
+Strike It Up,Black Box,spotify:track:742hY2twqAjwNYnKkQdilj,"0,876","0,862",6,"-7,694",0,"0,062","0,0117","0,000276","0,0658","0,915","118,396",298691,4,"35,52846",13,1,6
+Suck A Caribou's Ass,Wesley Willis,spotify:track:0sjpphWUG3aWzOfThaNIOv,"0,525","0,801",7,"-7,724",1,"0,0314","0,000158","0,000354","0,216","0,663","160,536",144333,4,"29,07379",9,0,6
+Sunday Morning,"Earth, Wind & Fire",spotify:track:2lnx4mfdXyAYvtVPYXRPcD,"0,613","0,783",8,"-9,55",0,"0,0353","0,00408","4,65E-06","0,0446","0,83","159,291",251867,4,"30,89801",14,1,6
+Sunflower River Blues,John Fahey,spotify:track:6CePeHbXmgwna8B5dC6xKV,"0,317","0,197",5,"-20,666",1,"0,0427","0,665","0,747","0,103","0,119","91,994",200333,4,"68,07635",10,0,6
+Super Unison,Drive Like Jehu,spotify:track:5diNR9OTKnjnP5MF80bPtt,"0,185","0,984",9,"-6,086",1,"0,169","0,00716","0,671","0,0895","0,0929","167,606",444893,4,"28,39654",15,0,6
+Suspicious (West Coast Experimental Pop Art Mix),Psychic TV,spotify:track:4As0uOWi3MhnuaKfkm2eC2,"0,311","0,255",0,"-17,118",1,"0,0336","0,689","0,000645","0,119","0,182","96,419",446107,3,"71,80261",15,0,6
+Swan Lake. Op. 20 : Scene Finale,Slovak Philharmonic,spotify:track:48hWoJLOOjzA73vqpK0HpZ,"0,25","0,3",11,"-16,227",1,"0,0475","0,941","0,943","0,0822","0,0398","116,647",322067,3,"64,16556",12,0,6
+Sweet Bunch Of Daisies,Kenny Baker,spotify:track:0mAGdBTqby1qrwc6ulJDuI,"0,545","0,337",10,"-12,365",1,"0,0326","0,669","0,000531","0,651","0,751","119,026",171467,4,"66,04005",7,0,6
+Sweet Surrender,Sarah McLachlan,spotify:track:46ShsS3tyqJAJdxUjPezdI,"0,627","0,467",9,"-9,81",1,"0,0321","0,00286",0,"0,11","0,61","113,01",240613,4,"31,59659",9,1,6
+Sweet Thing,Mick Jagger,spotify:track:46oxhVXWECsaPytsDW6GKb,"0,811","0,863",1,"-4,133",1,"0,145","0,0126","0,00535","0,11","0,865","104,837",259520,4,"76,29585",9,1,6
+Sweetest Thing,U2,spotify:track:7ndGFo9nZ108KPgXtfYWCe,"0,524","0,641",0,"-8,967",1,"0,0497","0,0437","2,78E-05","0,159","0,482","141,65",184543,4,"46,24419",9,1,6
+Swimming Song,Even As We Speak,spotify:track:7mZoDbttXQ6zUOqGCKODYC,"0,536","0,693",7,"-13,96",1,"0,0413","0,0138","0,000439","0,0677","0,798","142,982",102067,4,"19,50867",8,0,6
+Symphony Of Destruction,Megadeth,spotify:track:51TG9W3y9qyO8BY5RXKgnZ,"0,61","0,891",4,"-5,452",0,"0,0587","0,000805","0,0928","0,0657","0,51","139,903",246733,4,"46,45994",10,1,6
+Take My Advice,Kym Sims,spotify:track:5KhAzdjCDy6MZai1P0RJAe,"0,737","0,814",2,"-10,396",1,"0,0307","0,00019","0,392","0,0844","0,803","120,01",283227,4,"169,11724",8,1,6
+Take Time,Chris Walker,spotify:track:4h1uO4VGG5SDkiEaT4EG79,"0,648","0,743",7,"-9,595",0,"0,0592","0,0799",0,"0,125","0,81","97,059",260840,4,"38,11362",13,1,6
+Talk Show Shhh!,Shae Jones,spotify:track:7hx9lupBCq8SSr1Lm6l0on,"0,884","0,26",10,"-7,458",0,"0,0558","0,0244",0,"0,0688","0,516","121,937",252819,4,"47,96398",9,1,6
+Tango Remembrances,Yo-Yo Ma,spotify:track:1rdIlDREX1Em73iQJdedJg,"0,474","0,149",4,"-14,127",0,"0,0463","0,897","0,15","0,141","0,397","122,212",379840,4,"35,82244",18,0,6
+Tears,The Isley Brothers,spotify:track:3WAgCGsQ88VW3GFSMVK8td,"0,532","0,516",1,"-9,847",1,"0,103","0,755","0,00019","0,328","0,545","150,368",285600,4,"38,43612",15,1,6
+Teenage Chase,Keith Mansfield,spotify:track:1fTBI3r4rA2tLzMsAup4iw,"0,735","0,575",0,"-7,341",1,"0,063","0,195","0,915","0,135","0,848","145,371",141493,4,"26,859",9,0,6
+Tha Crew,Hector & Tito,spotify:track:5MjAIvzJ0wvoSrhA8E7DJ5,"0,8","0,693",0,"-6,413",1,"0,216","0,00193",0,"0,25","0,863","107,896",78367,4,"20,17106",4,0,6
+That Special Place (feat. New Generation Singers Reunion Choir),Daryl Coley,spotify:track:5fJ8BDYdlk7miYgbZlVek4,"0,42","0,432",8,"-11,082",1,"0,0327","0,495",0,"0,601","0,305","148,432",372867,4,"27,86324",15,0,6
+That's Not Her Style,Billy Joel,spotify:track:7EXagPENSPw79YAz500A6A,"0,65","0,899",2,"-4,694",1,"0,0331","0,0412",0,"0,263","0,814","118,245",308000,4,"18,28167",16,1,6
+That's The Way Love Goes,Janet Jackson,spotify:track:29rQJydAlO0uMyWvRIZxQg,"0,703","0,7",5,"-6,789",1,"0,0693","0,302","0,471","0,0718","0,582","97,675",265107,4,"35,34871",9,1,6
+That's The Way Love Goes,Young M.C.,spotify:track:4bw5Pth0q5KcguwvAv0dVt,"0,849","0,694",6,"-14,43",0,"0,0642","0,0232","0,00252","0,0524","0,932","118,309",229307,4,"34,91088",9,1,6
+That's What Love Can Do,Boy Krazy,spotify:track:4VOQLjmETAE5NLcFMwvUXC,"0,783","0,773",5,"-7,541",0,"0,0493","0,0103","0,000162","0,0349","0,744","117,471",202000,4,"38,73341",9,1,6
+The 219 Blues,Lloyd Miller,spotify:track:5IG8YpJLjoRmoUilsx1wRt,"0,522","0,182",9,"-17,453",1,"0,0424","0,899","0,198","0,113","0,453","86,174",276293,4,"34,82076",10,0,6
+The Animal Song,Savage Garden,spotify:track:5TuzQ44lPWTCKbfXbNIEXg,"0,652","0,669",6,"-7,663",1,"0,037","0,0639","3,83E-06","0,0671","0,834","116,088",278000,4,"41,61203",10,1,6
+The Box - Part 2,Orbital,spotify:track:1kV6GsEtVGmPehcGpmYtnr,"0,603","0,72",9,"-12,956",0,"0,0295","0,0075","0,936","0,096","0,66","140,991",359586,4,"28,64798",8,0,6
+The Chicken Cow,Wesley Willis,spotify:track:1sqcAOdbG8jjeKl4BzZk7k,"0,649","0,473",6,"-13,868",0,"0,0428","0,0163",0,"0,132","0,72","170,112",149000,4,"14,16612",9,0,6
+The Christmas Song,Rosemary Clooney,spotify:track:23OheZvcp1ikImwgj4zFFz,"0,359","0,225",7,"-12,624",1,"0,0336","0,9","0,000328","0,111","0,165","130,443",228360,4,"23,99633",11,0,6
+The City Is Mine,Jay-Z Featuring BLACKstreet,spotify:track:3qA9K2uI9v3lxq9ZFFtOmN,"0,888","0,702",0,"-4,059",0,"0,209","0,00358",0,"0,0358","0,754","97,954",242573,4,"29,31391",10,1,6
+The Comfort Zone,Vanessa Williams,spotify:track:7okbmgA8lRBGl5limZ7LFM,"0,528","0,234",3,"-15,784",1,"0,0283","0,641",0,"0,183","0,191","95,911",218733,4,"46,33298",10,1,6
+The Courier,Randy Edelman,spotify:track:3JbN5Maw5CvcCSNkOhtPVX,"0,11","0,319",8,"-20,953",1,"0,0393","0,265","0,93","0,121","0,131","83,743",149667,3,"26,06939",10,0,6
+The Cup Of Life (The Official Song Of The World Cup. France '98),Ricky Martin,spotify:track:68CzXNGAMmb3k5MhLu0xVb,"0,709","0,911",5,"-6,945",0,"0,0433","0,0387","0,000132","0,391","0,661","126,984",279920,4,"26,69459",13,1,6
+The Empress And The Ukraine King,CAN,spotify:track:5ltrE4dIE3FF0ungXDZgRs,"0,593","0,924",2,"-6,456",1,"0,0383","0,331","0,00293","0,228","0,652","100,853",281840,4,"30,05144",11,0,6
+The First Circle,Bob Curnow's L.A. Big Band,spotify:track:2SJZZYP3QFyAEisssMncjS,"0,297","0,398",0,"-11,476",1,"0,0368","0,734","0,764","0,0843","0,314","169,786",534627,3,"41,05695",27,0,6
+The First Night,Monica,spotify:track:5rWzxloNXvbRPhlC1O2b6T,"0,671","0,766",1,"-9,218",0,"0,0634","0,139",0,"0,26","0,906","152,088",235573,4,"30,28588",12,1,6
+The First Time,Surface,spotify:track:4iqnWPNCt4hhZ96KhjlJKq,"0,637","0,354",10,"-11,964",1,"0,0283","0,215","0,000704","0,0961","0,111","126,435",256000,4,"17,77721",15,1,6
+The Fool,Neutral Milk Hotel,spotify:track:2weDkGIMFWvWK908lBUC2s,"0,284","0,683",2,"-4,907",0,"0,0303","0,0557","0,855","0,529","0,308","109,757",113147,3,"69,5824",4,0,6
+The Freshmen,The Verve Pipe,spotify:track:21jEuMn2lf37715rwjow2M,"0,571","0,505",1,"-9,312",0,"0,0238","0,0757","1,04E-05","0,109","0,276","99,562",269467,4,"34,87483",12,1,6
+The Good Mr. Square,The Pretty Things,spotify:track:3tRFo1mXVNC5Wwrv7T8trF,"0,584","0,284",7,"-12,714",1,"0,0409","0,305","0,000903","0,162","0,386","139,087",86693,4,"50,41194",5,0,6
+The Hearts Filthy Lesson,David Bowie,spotify:track:3cEhKEi1L86vFObrip0KDX,"0,565","0,798",11,"-8,295",0,"0,087","0,00146","0,0201","0,33","0,433","88,954",297560,4,"51,1261",9,1,6
+The Humpty Dance,Digital Underground,spotify:track:3OcQkcvTcohs8vO8Rd3sKF,"0,813","0,693",10,-8,0,"0,266","0,0341",0,"0,121","0,618","103,508",391693,4,"30,1895",16,1,6
+The Moon Song,Pat Metheny,spotify:track:39Td6DiaWVzx5RcDCMWQFz,"0,451","0,0461",5,"-22,294",0,"0,0346","0,969","0,924","0,0868","0,207","75,993",416040,4,"65,41302",18,0,6
+The New Democracy,The Nashville Bluegrass Band,spotify:track:06S18NC3FGuEYFRoS8WgsP,"0,513","0,429",2,"-15,271",1,"0,0336","0,471","0,95","0,291","0,819","142,354",176240,4,"74,51253",7,0,6
+The Obvious Child,Paul Simon,spotify:track:1deWgqhgAzI6dY35TbKKh7,"0,523","0,717",8,"-11,611",1,"0,0483","0,576","0,00177","0,028","0,969","92,593",250227,4,"41,75463",10,1,6
+The One I Love is Gone,Hazel Dickens,spotify:track:76QZOE3C7tgXHossRyvrye,"0,287","0,214",8,"-13,261",0,"0,0325","0,847","0,000203","0,0847","0,457","79,557",191467,4,"74,29303",8,0,6
+The Only Thing That Looks Good On Me Is You,Bryan Adams,spotify:track:6XK9BhcB5ZL6rErFZYtuln,"0,641","0,929",7,"-5,466",1,"0,0355","0,0138",0,"0,33","0,911","118,9",215427,4,"69,81217",8,1,6
+The Poor People Of Paris (Jean's Song) - Single Version,Les Baxter,spotify:track:70gZnClysSHCBwI0H4qr5O,"0,567","0,279",10,"-11,763",1,"0,0377","0,693","0,289","0,096","0,764","87,581",146093,4,"84,28648",5,0,6
+The Power,Snap!,spotify:track:0nQLxiNGbbUoSGrxksETLm,"0,74","0,88",0,"-7,693",1,"0,0624","0,0434","0,00798","0,341","0,707","108,9",228994,4,"45,70254",11,1,6
+The Real Love,Bob Seger & The Silver Bullet Band,spotify:track:3FMRulxLH3tZMMal3WiNWI,"0,721","0,546",5,"-6,845",1,"0,0269","0,0362","0,00487","0,114","0,612","115,387",279867,4,"37,51155",10,1,6
+The Right Kinda Lover,Patti LaBelle,spotify:track:39KhQn8GOfE7z9wZbldgaQ,"0,815","0,77",10,"-8,412",0,"0,0512","0,257","0,000227","0,0488","0,811","99,941",292667,4,"45,5476",12,1,6
+The Three Kings and I (What Really Happened),Trans-Siberian Orchestra,spotify:track:2LSjScC20dzWC9hVCSp20T,"0,536","0,597",5,"-9,944",1,"0,0377","0,175","0,00141","0,109","0,388","142,426",389133,4,"42,41522",17,0,6
+The Time Has Come (Pikachu's Goodbye),Pokémon,spotify:track:6jOy7e1JqskcFqu73qp4BF,"0,346","0,332",0,"-8,017",1,"0,036","0,582",0,"0,0661","0,225","199,903",185507,4,"40,60168",12,0,6
+The Unknown Warrior - Song For My Forefathers,Courtney Pine,spotify:track:1OKoBQCvOHniWIZmqpm2pz,"0,39","0,699",5,"-9,506",0,"0,0504","0,0641","0,00178","0,0716","0,471","119,859",399240,4,"32,09261",19,0,6
+The Way I Feel,Tag,spotify:track:5d1dglMOQpQQoYjuq4DHoB,"0,59","0,661",9,"-11,361",0,"0,0304","0,0401","6,95E-05","0,0464","0,406","93,104",249067,4,"45,02391",10,1,6
+The Way It Is,Tesla,spotify:track:3l4L10OL1gbfypzTwjvINb,"0,327","0,823",7,"-7,122",1,"0,0394","0,019","8,2E-05","0,124","0,489","94,023",308867,4,"33,46582",12,1,6
+The Way You Do The Things You Do,UB40,spotify:track:42HaJ7QlInzQ5vHKWb5Ixa,"0,885","0,534",5,"-8,191",0,"0,155","0,248","4,77E-05","0,0357","0,896","80,857",183227,4,"87,57876",4,1,6
+The World That She Sees,Trans-Siberian Orchestra,spotify:track:4p4Gh5rhWjq2dFsGnmg47s,"0,554","0,355",6,"-9,545",1,"0,0278","0,298","0,0142","0,0891","0,109","137,286",359440,3,"29,77269",12,0,6
+There Goes My Baby,Trisha Yearwood,spotify:track:4ke1a35DUJFvPeqINRunaJ,"0,67","0,626",0,"-5,579",1,"0,0236","0,479",0,"0,112","0,593","108,84",233000,4,"46,18147",10,1,6
+There Is No Failure In God,Rev. Milton Brunson,spotify:track:31XFi1borsBwar2sOSn66s,"0,505","0,939",0,"-10,737",1,"0,0708","0,0395","0,0322","0,969","0,662","136,248",288332,4,"33,58114",9,0,6
+There She Goes,Sixpence None The Richer,spotify:track:43z6scIZU2QcEieMQFAJRG,"0,498","0,789",10,"-5,724",1,"0,0319","0,000856","5,83E-06","0,104","0,455","120,176",164280,4,"29,92569",7,1,6
+There Will Never Be Another Tonight,Bryan Adams,spotify:track:44fxmBDtpasWTQHxvwBEoY,"0,517","0,918",9,"-6,965",1,"0,0489","0,0591",0,"0,296","0,641","137,136",280133,4,"39,9848",13,1,6
+There Will Never Be Another You,Lester Young,spotify:track:5uQkJU8FDt9srkxKfKRiBN,"0,567","0,0341",0,"-17,895",0,"0,0525","0,989","0,326","0,0878","0,391","82,881",208469,4,"26,36285",9,0,6
+There'll Be Some Changes Made,Eddie Lang,spotify:track:7wsq3vkpk6IPjUf9a3yUWI,"0,593","0,0986",10,"-15,833",0,"0,0732","0,925","0,843","0,107","0,47","125,146",191267,5,"38,92787",9,0,6
+There's Your Trouble,Dixie Chicks,spotify:track:69m9WDPBvemwujQwdONslk,"0,737","0,869",2,"-5,433",1,"0,0267","0,481",0,"0,308","0,898","126,628",193065,4,"58,20316",7,1,6
+Things I'm Gonna Do,Rasputina,spotify:track:2c8BR1J5nESSDMQ0sFix1w,"0,363","0,519",5,"-11,287",0,"0,126","0,123","0,00401","0,181","0,301","163,52",191653,4,"35,10833",8,0,6
+Think Of You,Usher,spotify:track:1FlDtQBj95pnFbS9kCTZEI,"0,71","0,431",0,"-8,333",1,"0,0388","0,0553","4,23E-05","0,0537","0,553","93,105",229333,4,"24,02991",9,1,6
+Thinkin' Bout It,Gerald Levert,spotify:track:4DDhR1Zd6WYbNiCd13Uu4i,"0,734","0,659",1,"-5,191",1,"0,0711","0,0983",0,"0,252","0,388","116,485",391040,4,"29,15955",15,1,6
+This House,Tracie Spencer,spotify:track:10JIQ4VbdRMlqvSJGvi7El,"0,74","0,738",6,"-9,849",0,"0,0399","0,0303","0,00406","0,0324","0,971","112,589",306533,4,"27,13959",13,1,6
+This Is How We Party,S.O.A.P.,spotify:track:42yb3aUH2iUYzbcIelm2f9,"0,758","0,911",6,"-4,192",0,"0,0409","0,0467","0,00252","0,687","0,911","109,974",198067,4,"49,14451",7,1,6
+This Kiss,Faith Hill,spotify:track:5EYWGM3Ns3iYew8ws0FatB,"0,398","0,804",11,"-5,559",1,"0,0451","0,175",0,"0,181","0,709","186,752",194307,4,"25,78212",9,1,6
+Thought I'd Died And Gone To Heaven,Bryan Adams,spotify:track:68Qv4S2uJ0nLvdtWPrlOVt,"0,44","0,738",4,"-8,193",1,"0,0295","0,0657",0,"0,0988","0,535","174,376",348400,4,"22,48636",12,1,6
+Thrash Under Pressure,Exodus,spotify:track:2vjQLtmUsAAgTl0nPceoV0,"0,373","0,997",11,"-5,442",0,"0,213","0,000402","0,377","0,474","0,182","106,049",159707,4,"18,80157",7,0,6
+Time After Time,Inoj,spotify:track:2N5CvukjQqiWxjzZLMqqBN,"0,776","0,563",0,"-8,84",1,"0,0324","0,223","0,00611","0,0681","0,395","131,728",255673,4,"31,8569",12,1,6
+Time After Time,Timmy T.,spotify:track:2drQ6wg2hdl6RDslarifh8,"0,641","0,573",9,"-9,198",1,"0,0485","0,191",0,"0,317","0,5","149,826",209427,5,"38,54258",11,1,6
+Time And Chance,Color Me Badd,spotify:track:20DRw0Qh9ges1gjlMI8eKM,"0,697","0,451",2,"-7,657",1,"0,0776","0,027","6,26E-06","0,13","0,249","180,53",263200,4,"15,81051",16,1,6
+To Be With You,Mr. Big,spotify:track:3Mmt6Xk0H6VR92PEp6x3hP,"0,688","0,375",4,"-9,601",1,"0,0535","0,286",0,"0,133","0,45","83,635",210480,4,"107,10724",7,1,6
+To The Moon And Back,Savage Garden,spotify:track:6FRtjadDsEhZIQIlh1loEM,"0,584","0,76",0,"-7,369",0,"0,0359","0,0205","7,25E-06","0,1","0,325","104,101",341067,4,"24,32685",10,1,6
+Todo Aquel Ayer,Caribbean Jazz Project,spotify:track:4urxXihKVboY2uyxorVBit,"0,698","0,41",5,"-11,606",0,"0,0284","0,577","0,838","0,221","0,682","98,339",254200,4,"32,19843",14,0,6
+Tonight The Heartache's On Me,Dixie Chicks,spotify:track:5K4Dl7nz6NSUONT4fl4sJV,"0,681","0,731",5,"-4,64",1,"0,0289","0,192",0,"0,356","0,82","120,736",206618,4,"65,55889",9,1,6
+Too Blind To See It,Kym Sims,spotify:track:4SmiFk4zGbPVf0vvoSDvuG,"0,776","0,585",0,"-11,551",1,"0,0361","0,000403","0,227","0,0737","0,698","118,996",211200,4,"25,82171",10,1,6
+Too y Toos Tatoos,La Lupita,spotify:track:0RULGt9V8ITzA3fheSuLlH,"0,448","0,633",11,"-7,305",0,"0,0399","6,69E-05","0,000355","0,111","0,782","128,273",202533,4,"30,48082",11,0,6
+Tootsee Roll,69 Boyz,spotify:track:0SAIjVOwxVnO1l9HGvLuOU,"0,869","0,725",9,"-12,507",0,"0,256","0,0453",0,"0,203","0,699","132,989",261360,4,"47,68012",13,1,6
+Top Of The World,Van Halen,spotify:track:5IpIcYj3omb4iOP76bAoRP,"0,546","0,785",9,"-8,788",1,"0,0297","0,0354","3,6E-06","0,0935","0,804","127,957",232867,4,"44,24606",11,1,6
+Total Eclipse Of The Heart,Nicki French,spotify:track:2hPOOLM9Oefyy43eAXR4Hf,"0,575","0,912",0,"-7,039",1,"0,0285","0,00463","6,01E-05","0,352","0,591","135,988",232347,4,"28,57203",10,1,6
+Touching,Marilyn Crispell,spotify:track:2WLawlAlXKhMh6wYmVLX63,"0,421","0,0875",9,"-23,138",0,"0,0392","0,805","0,794","0,0859","0,0373","115,891",402360,5,"63,72166",18,0,6
+Traces of Reality,Dødheimsgard,spotify:track:30MEZzAFiAQv5qIucrY07Y,"0,184","0,869",0,"-5,639",1,"0,137","1,05E-05","0,885","0,12","0,106","119,585",426960,4,"121,85607",13,0,6
+Transylvanian Concubine (The Manson Mix (Radio Edit))**,Rasputina,spotify:track:2SXswiR0TE3AULlCwvgg5E,"0,666","0,765",1,"-7,859",0,"0,0973","3,86E-05","0,00529","0,81","0,563","103,971",173693,4,"32,5386",9,0,6
+Treat 'Em Right,Chubb Rock,spotify:track:2QHmGfplU3ypWOGgJM46in,"0,932","0,54",1,"-13,168",1,"0,227","0,0362","7,48E-05","0,204","0,57","116,351",283307,4,"29,10572",14,1,6
+Trippin',Total Featuring Missy Elliott,spotify:track:5QfobfsCZuyPnCzXHKGs9r,"0,753","0,831",11,"-6,431",0,"0,0958","0,173","1,23E-05","0,0927","0,505","124,151",267328,4,"50,14441",10,1,6
+Trouble Man,Reuben Wilson,spotify:track:4czhquY9qnTihGvQfbY1j9,"0,496","0,47",9,"-10,193",0,"0,0703","0,513","0,58","0,101","0,48","163,029",495093,3,"51,02723",20,0,6
+Tryin' To Get Over You,Vince Gill,spotify:track:2rKtSHDkql7aZuWKUdSylq,"0,578","0,371",2,"-10,537",1,"0,0283","0,632","1,75E-05","0,165","0,188","60,504",225627,4,"48,10375",8,1,6
+Tsar Saltan. Op. 57: Flight of the Bumblebee,Nikolai Rimsky-Korsakov,spotify:track:08ttJ6UR1O7Ofrpu1Qe939,"0,458","0,11",9,"-22,234",0,"0,0309","0,977","0,903","0,359","0,481","83,43",84267,4,"51,06891",4,0,6
+Tubthumping,Chumbawamba,spotify:track:5YScXJKtefsgdskIy60N7A,"0,263","0,871",2,"-7,496",1,"0,131","0,106",0,"0,363","0,622","206,679",278960,4,"25,21243",10,1,6
+Tucker's Town,Hootie & The Blowfish,spotify:track:5wDeYEOMGyOEKjlo7bbKsE,"0,419","0,666",0,"-7,781",1,"0,0401","0,0372",0,"0,281","0,481","79,78",241973,4,"38,65826",6,1,6
+Twilight Zone,2 Unlimited,spotify:track:4UuhI4gOPHmv15xOnGIJ9x,"0,7","0,99",3,"-7,559",0,"0,0499","0,0873","0,00211","0,151","0,77","127,884",248197,4,"31,12469",15,1,6
+Twisted,Keith Sweat,spotify:track:69QIVIjPMnI1ABLBqh9P1b,"0,615","0,514",11,"-9,759",1,"0,0466","0,393",0,"0,248","0,822","175,849",260667,4,"47,70674",11,1,6
+Two Studies. Op. 39: Folk Tune,Eugene Goossens,spotify:track:2w5vt5IVKzNegZ52R79viM,"0,367","0,0282",9,"-26,375",0,"0,0647","0,995","0,873","0,073","0,0713","202,513",136333,4,"61,30165",7,0,6
+Two To Make It Right,Seduction,spotify:track:6GS6uE1vDmtzxO8GztAR2O,"0,772","0,598",7,"-10,857",0,"0,0429","0,204","0,00345","0,513","0,717","114,419",282267,4,"35,55838",13,1,6
+Two-Headed Boy Pt. 2,Neutral Milk Hotel,spotify:track:6lnZW2wFfcTABaoRJUgMyx,"0,448","0,365",8,"-7,159",1,"0,0264","0,697",0,"0,136","0,134","91,19",313973,3,"33,53105",7,0,6
+Unchained Melody,The Righteous Brothers,spotify:track:1jFhnVoJkcB4lf9tT0rSZS,"0,361","0,219",0,"-16,553",1,"0,0285","0,563",0,"0,558","0,26","98,532",216267,3,"51,3972",11,1,6
+Uncle Tom's Cabin,Warrant,spotify:track:3WW3g2scq0m7ZY5JCxrdWw,"0,633","0,732",8,"-6,785",1,"0,0707","0,186","1,37E-05","0,13","0,273","126,567",241507,4,"34,58011",9,1,6
+Under The Bridge,Red Hot Chili Peppers,spotify:track:3d9DChrdc6BOeFsbrZ3Is0,"0,559","0,345",4,"-13,496",1,"0,0459","0,0576","0,000105","0,141","0,458","84,581",264307,4,"58,74428",10,1,6
+Universal Heart-Beat,Juliana Hatfield,spotify:track:7Hj5QvOZvdZKtlBuq8nTXE,"0,534","0,814",2,"-7,978",1,"0,0717","0,0359","0,00539","0,721","0,686","127,967",205907,4,"53,22886",8,1,6
+Unskinny Bop,Poison,spotify:track:1Z6lKdYhwp8WYoBqGCKxlM,"0,574","0,93",1,"-2,949",1,"0,0413","0,0657","7,78E-06","0,108","0,69","92,303",228067,4,"22,29365",10,1,6
+Until Your Love Comes Back Around,RTZ,spotify:track:5gfy2vyy0SmXEwOgSfMjec,"0,55","0,534",8,"-10,6",1,"0,0331","0,229",0,"0,0714","0,311","134,662",360400,4,"37,74389",12,1,6
+Up on the Blue Ridge,Scott Vestal,spotify:track:7r8NX1HNmO73rL5t9xmvDA,"0,403","0,632",4,"-13,879",0,"0,0344","0,624","0,968","0,293","0,911","161,636",157800,4,"46,25304",9,0,6
+Use Your Heart,SWV,spotify:track:5mCQirG6bW3iDN0gpdoxrP,"0,625","0,456",9,"-9,537",1,"0,0364","0,104","0,000161","0,334","0,642","73,927",289240,4,"30,38872",9,1,6
+Valse a Pop,BeauSoleil,spotify:track:58Q4sVXSUPWF9dJ1ArIlp9,"0,534","0,651",0,"-9,019",1,"0,0361","0,311",0,"0,367","0,96","160,576",205973,3,"53,2252",10,0,6
+Verdadeiro Amor - Ao Vivo,Banda Magníficos,spotify:track:6sCGgj59qkhjaH8FXeT0R9,"0,507","0,832",5,"-7,707",1,"0,0467","0,0149",7E-06,"0,429","0,553","105,923",181307,4,"49,13849",8,0,6
+Vibeology,Paula Abdul,spotify:track:6IXKljJrwMJlyRhzHRbEDW,"0,722","0,758",1,"-9,33",1,"0,0622","0,00485","0,00246","0,0768","0,645","117,975",316333,4,"73,99133",13,1,6
+Victory,Puff Daddy & The Family Featuring The Notorious B.I.G. & Busta Rh,spotify:track:2B9aYvlGefTIgKLhM6ia8t,"0,609","0,731",9,"-6,846",1,"0,322","0,397",0,"0,664","0,685","91,778",296267,4,"33,53861",11,1,6
+VLetrmx,Autechre,spotify:track:7iupjrZvckPcvC4aeqeqcC,"0,193","0,266",0,"-15,888",1,"0,0455","0,928","0,91","0,0913","0,0366","115,909",507373,4,"40,79516",27,0,6
+Void of Fire,Metalium,spotify:track:5EF77TZ03IhgzItyHJRhGb,"0,363","0,985",1,"-4,126",1,"0,146","1,56E-05","0,741","0,142","0,249","180,05",158707,4,"30,90434",9,0,6
+Wade in the Water,Ella Jenkins,spotify:track:7exER11O6jaBmUWhOvWRGh,"0,486","0,262",2,"-11,864",0,"0,0381","0,83",0,"0,16","0,329","128,764",244160,4,"24,69182",11,0,6
+Waiting For That Day,George Michael,spotify:track:1y8pNONQUfiCDXWME7IQBa,"0,612","0,777",0,"-10,903",1,"0,0403","0,217","0,000454","0,104","0,557","172,412",289997,4,"34,60379",15,1,6
+Was It Nothing At All,Michael Damian,spotify:track:3SCeWq0qHsc8i2JxtJPSkd,"0,487","0,648",2,"-5,332",1,"0,0279","0,0397","0,00072","0,321","0,442","134,95",282665,4,"18,69072",14,1,6
+Watch For The Hook,"Cool Breeze Featuring OutKast, Goodie Mob & Witchdoctor",spotify:track:6ixxG8aM1RKFYEjH0odRcP,"0,561","0,72",1,"-4,854",1,"0,355","0,0211",0,"0,353","0,518","86,953",271600,4,"27,08999",10,1,6
+Watch Out Now,The Beatnuts Featuring Yellaklaw,spotify:track:6sWZn6kTuTrBkbOEQFoB3a,"0,781","0,633",11,"-6,983",0,"0,291","0,0969","0,000984","0,154","0,913","100,414",174800,4,"19,77989",8,1,6
+Waterfalls,TLC,spotify:track:6qspW4YKycviDFjHBOaqUY,"0,77","0,505",1,"-7,345",1,"0,0828","0,311","7,4E-05","0,0777","0,757","171,798",279507,4,"33,47424",14,1,6
+We Want a Rock,They Might Be Giants,spotify:track:3MQ2v8wNLG8TnKxZtPecao,"0,549","0,762",7,"-8,002",1,"0,0309","0,0606",0,"0,158","0,805","86,001",167800,4,"36,58362",8,0,6
+We Will Rock You,Ludwig Von 88,spotify:track:3OEcxifTOtsSH3xL0C7Kcx,"0,486","0,577",7,"-10,164",1,"0,0786","0,0399","0,000799","0,0791","0,586","188,651",227067,4,"30,87912",11,0,6
+Weekend Love,Queen Latifah,spotify:track:4ZlwcqC7NG6Fb1QJIqsJLn,"0,79","0,574",8,"-11,129",0,"0,0622","0,00838","0,0182","0,0963","0,82","98,034",249000,4,"21,02595",11,1,6
+We'll Recover,Matt Nathanson,spotify:track:06KkYeqHeM9S4zFty9c1Aw,"0,537","0,458",6,"-8,739",1,"0,0314","0,321",0,"0,107","0,419","111,972",192067,4,"49,69756",9,0,6
+Wendepunkt,Bo Nilsson,spotify:track:6uq0VJ8TewP7EQHXwhUosv,"0,146","0,00787",5,"-24,586",1,"0,0407","0,989","0,846","0,0717","0,0284","66,998",275040,3,"35,96436",12,0,6
+We've Got It Goin' On,Backstreet Boys,spotify:track:2rtDTRFjBoqyj2rgi5mOAF,"0,758","0,875",3,"-4,518",0,"0,0363","0,0851",0,"0,227","0,91","112,966",219467,4,"25,03803",7,1,6
+What About Us,Total,spotify:track:6Ph7bndA7A5ExoHIZPX4TJ,"0,736","0,721",1,"-6,188",1,"0,0396","0,0143",0,"0,0451","0,72","96,365",243783,4,"44,82272",11,1,6
+What Mattered Most,Ty Herndon,spotify:track:09nWHcNuohUS7HMPdIDwrr,"0,529","0,509",0,"-8,926",1,"0,0253","0,415",0,"0,171","0,27","142,311",221427,4,"41,27974",12,1,6
+What Time Is Love?,The KLF,spotify:track:2aS9u5Bh0PkoeDamlXYDxE,"0,618","0,749",6,"-9,841",1,"0,0803","0,00187","9,51E-05","0,213","0,669","120,099",214320,4,"48,61253",11,1,6
+Whateva Man,Redman,spotify:track:0pSaDwrMLM7F82LWJg9v6s,"0,581","0,712",6,"-7,803",0,"0,476","0,268",0,"0,895","0,709","172,567",188547,4,"55,31669",10,1,6
+What's Up,4 Non Blondes,spotify:track:20fT0s1mDYQ1VVLNql1HSE,"0,694","0,268",9,"-13,184",1,"0,064","0,986","0,885","0,121","0,207","128,156",313124,4,"29,86197",15,1,6
+When I Give My Love,Keith Sweat,spotify:track:4wiwUgr26EF6CgmjUvG4Yg,"0,659","0,538",9,"-8,381",0,"0,0365","0,074",0,"0,085","0,518","116,566",365893,4,"32,62585",16,1,6
+When I Said I Do,Clint Black,spotify:track:6NBaOUmCVpNAaqBDFiJkCn,"0,507","0,411",10,"-8,657",1,"0,0276","0,308",0,"0,106","0,184","102,806",268960,3,"17,45857",11,1,6
+When I'm Back On My Feet Again,Michael Bolton,spotify:track:47SOobTLWvyZpUfpmuUARJ,"0,429","0,326",5,"-12,703",1,"0,03","0,377",0,"0,101","0,185","77,849",228267,4,"21,60423",11,1,6
+When It's Sleepytime Down South,Wynton Marsalis,spotify:track:0ZO3xca4fN38Be1un20nc9,"0,532","0,132",8,"-15,891",1,"0,047","0,865","0,159","0,166","0,332","89,321",309000,4,"44,3113",13,0,6
+When The Lights Go Out,Five,spotify:track:37giHQffMdB94OqVy4ZBd8,"0,854","0,827",5,"-6,424",1,"0,0335","0,0636",0,"0,123","0,961","104,001",249600,4,"42,51889",11,1,6
+When Will I See You Smile Again?,Bell Biv DeVoe,spotify:track:3q0QmvdwHBETS89ZvelClL,"0,727","0,436",6,"-11,862",0,"0,0281","0,0492","0,00338","0,0686","0,381","124,021",307133,4,"24,0258",12,1,6
+When You Don't See Me (Remastered),Sisters of Mercy,spotify:track:7nu1rAUwlMIeOlaPbrK9Du,"0,666","0,803",9,"-10,91",0,"0,0299","0,00837","0,187","0,304","0,862","121,258",294320,4,"49,7856",9,0,6
+When You Talk About Love,Patti LaBelle,spotify:track:2Lux20V5A95rJRGtT7GfuD,"0,859","0,761",8,"-5,504",0,"0,0321","0,0156","0,254","0,687","0,922","97,99",333373,4,"39,69022",9,1,6
+Where Do U Want Me To Put It,Solo,spotify:track:2PezcbOknrIxEylhhzedVT,"0,782","0,759",8,"-5,87",1,"0,0447","0,261",0,"0,102","0,779","87,01",243667,4,"94,58122",7,1,6
+Where Does That Leave Love,George LaMond,spotify:track:0uCblGxozywHsi40jeutqr,"0,619","0,978",4,"-4,378",1,"0,0844","0,00495","0,00549","0,0902","0,453","119,029",244958,4,"33,52079",8,1,6
+Where Have All The Cowboys Gone?,Paula Cole,spotify:track:2ck13qfgRZ1msyEJlDqzvk,"0,588","0,826",11,"-6,182",0,"0,0569","0,0351",0,"0,454","0,621","129,021",263653,4,"20,54807",11,1,6
+Wherever Would I Be,Cheap Trick,spotify:track:5u6tE49JDHC6qiA0d2Ci6i,"0,49","0,516",7,"-12,549",1,"0,0265","0,208",0,"0,101","0,22","73,922",246187,4,"39,70327",8,1,6
+While My Guitar Gently Weeps,Russ Freeman & The Rippingtons,spotify:track:438EAa6MpBeDZSWwzZxtqS,"0,68","0,721",6,"-7,09",1,"0,0336","0,00512","0,0693","0,0396","0,758","121,194",286467,4,"60,51365",10,0,6
+White Jazz,Joe Loss And His Band,spotify:track:6Af3IyfIqkNd52ZiSqqoAw,"0,867","0,338",0,"-13,159",0,"0,0794","0,926","0,434","0,106","0,659","111,439",184067,4,"34,67008",9,0,6
+Who Am I,Beenie Man,spotify:track:4PaV16f3DUo9QxbQMUzMKH,"0,628","0,753",11,"-8,778",1,"0,468","0,211",0,"0,12","0,559","86,194",196000,4,"23,28395",13,1,6
+Who Can I Run To,Xscape,spotify:track:0wdaPticLmmqJdhgLDJ9zI,"0,71","0,545",4,"-9,599",1,"0,0588","0,483",0,"0,0644","0,632","140,233",216333,4,"37,61331",9,1,6
+Who Got The Props,Black Moon,spotify:track:2wReOKtzUIgMspOYtv37JV,"0,868","0,579",8,-15,0,"0,245","0,0239",0,"0,336","0,684","100,135",281907,4,"59,00734",9,1,6
+Who Is It,Michael Jackson,spotify:track:4HWcWgleTuUAWnVPNwW4CM,"0,862","0,595",5,"-4,655",1,"0,121","0,0152","0,000343","0,104","0,502","103,168",393307,4,"40,91468",13,1,6
+Who Said I Would,Phil Collins,spotify:track:6JrbcoCC9Zotanq4Or4nST,"0,688","0,9",5,"-5,534",1,"0,049","0,164","0,00988","0,291","0,491","131,031",241787,4,"45,37201",9,1,6
+Who Stole The Cookies?,Music For Little People Choir,spotify:track:7upszzU6ZIXewzi1cTBDCJ,"0,594","0,258",2,"-18,513",1,"0,349","0,588","0,000102","0,12","0,663","81,261",130000,4,"32,49932",6,0,6
+Whoomp! (There It Is),Tag Team,spotify:track:70jtZsS59vhmyZSsln0std,"0,8","0,639",4,"-7,406",0,"0,0439","0,00123",0,"0,0803","0,45","129,443",226027,4,"31,41174",14,1,6
+Who's Got Your Love,Nyasia,spotify:track:44e6togOkEOuPLpaop4FN5,"0,721","0,923",1,"-8,19",1,"0,0881","0,0498","0,000224","0,286","0,882","122,865",294800,4,"48,59658",15,1,6
+Why Can't You Come Home,Ex-Girlfriend,spotify:track:7FT7qUTOQE4XO6PNZPE0av,"0,777","0,47",7,"-13,376",1,"0,0412","0,00754","7,29E-05","0,0648","0,712","103,452",348600,4,"88,2523",14,1,6
+Wild Wild West,Will Smith Featuring Dru Hill & Kool Mo Dee,spotify:track:5AMvBCtX2rspUdoeJ9IsPN,"0,861","0,597",10,"-7,221",0,"0,162","0,0983",0,"0,176","0,694","107,016",268453,4,"55,1764",9,1,6
+Will You Be There (In The Morning),Heart,spotify:track:78fh8ymSUdo9oWkShDZbT8,"0,553","0,743",9,"-6,794",1,"0,0281","0,0365","1,65E-05","0,194","0,528","166,499",269800,4,"48,47567",12,1,6
+Won't Talk About It,Beats International,spotify:track:3cgWQzRlXoDkMKBb6AEi4s,"0,732","0,566",11,"-15,492",0,"0,0337","0,0299","0,00174","0,229","0,943","105,826",276227,4,"33,67955",13,1,6
+Woof,Snoop Dogg Featuring Mystikal And Fiend,spotify:track:2bryPxmm98dhBU73ut3lw3,"0,797","0,786",6,"-7,135",0,"0,385","0,066",0,"0,272","0,85","166,239",261867,4,"19,03742",13,1,6
+Work To Do,Vanessa Williams,spotify:track:2906fV2q5W2xRmAEf9vCoW,"0,762","0,666",7,"-12,051",1,"0,0577","0,0511","2,36E-05","0,131","0,679","93,109",276533,4,"75,74365",11,1,6
+Worker Man,Patra,spotify:track:1RoLlFWeFHxc36TU4Bg2eS,"0,814","0,759",7,"-11,117",1,"0,11","0,129",0,"0,306","0,881","82,366",296827,4,"28,65709",13,1,6
+Working With Meat,Jack Off Jill,spotify:track:4bLU7naM4vxb0VbFKgNu5S,"0,271","0,835",9,"-6,764",1,"0,0671","0,0111",0,"0,0701","0,529","190,646",123159,4,"40,01797",6,0,6
+Wrong Again,Martina McBride,spotify:track:2grwz4trMgDLOfEITQgAv3,"0,531","0,554",0,"-5,231",1,"0,0265","0,215",0,"0,101","0,102","141,434",195400,4,"41,1094",10,1,6
+Y Tú Con Él,Industria del Amor,spotify:track:1UcuiA4y04FqFZnWUBGIDS,"0,522","0,339",11,"-13,437",1,"0,0289","0,506","4,14E-06","0,338","0,616","98,994",217027,3,"40,11018",10,0,6
+Yamral Tiletish,The Roha Band,spotify:track:5euumLX8rQyUPztEepOtkt,"0,672","0,697",0,"-9,754",1,"0,031","0,436","2,59E-06","0,123","0,846","112,137",341600,4,"20,57658",14,0,6
+Yo No Soy Rebelde,Los Locos Del Ritmo,spotify:track:08U1KWevchrVHDNkQV2iO7,"0,677","0,716",0,"-8,777",0,"0,145","0,899","0,00684","0,0836","0,945","108,955",80765,4,"22,29296",6,0,6
+Yolanda,Reality,spotify:track:6auKJC7E0UN96e3kQuEaT1,"0,763","0,678",8,"-9,25",0,"0,0577","0,00049","2,26E-06","0,013","0,943","123,927",307049,4,"30,25096",13,1,6
+You,Jesse Powell,spotify:track:0hcW7qPqWWJc8189OaqQvX,"0,728","0,324",0,"-9,467",0,"0,0258","0,307","0,00198","0,0554","0,252","112,212",318467,4,"26,51395",14,1,6
+You Better Wait,Steve Perry,spotify:track:004ZH9ISUSEwansKKbUdJs,"0,348","0,924",7,"-3,048",1,"0,0945","0,236",0,"0,102","0,0869","114,117",291800,4,"39,12136",13,1,6
+You Get What You Give,New Radicals,spotify:track:1Cwsd5xI8CajJz795oy4XF,"0,621","0,901",2,"-5,396",1,"0,0302","0,17",0,"0,0875","0,744","113,967",300773,4,"26,02721",12,1,6
+You Mean The World To Me,Toni Braxton,spotify:track:1d0GYRpnCb0XNQcQdKhfKL,"0,595","0,736",11,"-6,648",1,"0,0469","0,0964","9,28E-06","0,104","0,521","167,669",296400,4,"28,32539",18,1,6
+You Put A Move On My Heart,Quincy Jones Introducing Tamia,spotify:track:3bhZuw0gZRLEOGeggjWzpP,"0,492","0,438",5,"-6,984",1,"0,0273","0,591","9,62E-05","0,116","0,204","149,74",372640,3,"44,80168",16,1,6
+You Said,Mona Lisa,spotify:track:3KBpe2oTYKFXzkYihkdcmb,"0,556","0,498",5,"-6,796",1,"0,16","0,274","2,15E-05","0,0813","0,59","180,21",287960,4,"27,73118",14,1,6
+You Stepped Out Of A Dream,Tal Farlow,spotify:track:5iQW7ODq8KocmoMHKx9VbW,"0,426","0,396",7,"-13,434",0,"0,0443","0,932","0,907","0,166","0,703","140,153",343133,4,"32,12602",16,0,6
+You Still Touch Me,Sting,spotify:track:5kFCKt7T3ObVmDZjMKcBSP,"0,666","0,577",7,"-9,012",1,"0,022","0,0543",0,"0,0837","0,634","101,283",226760,4,"43,64186",12,1,6
+You Used To Love Me,Faith Evans,spotify:track:0KhXVmAN4sqeEgsqRd39f2,"0,702","0,458",0,"-8,195",1,"0,035","0,247","1,64E-06","0,126","0,678","89,271",269173,4,"31,86601",12,1,6
+You Won't Forget Me,La Bouche,spotify:track:5XeQ0rudxvqNA2mJmZBjBK,"0,722","0,91",1,"-4,135",1,"0,032","0,0182","1,17E-06","0,0872","0,687","133,045",196347,4,"23,02591",9,1,6
+You'll Be In My Heart,Phil Collins,spotify:track:6kvnSiMBa65Nz29g2TYmyW,"0,569","0,744",8,"-6,48",1,"0,0298","0,0559","3,19E-06","0,0915","0,655","96,596",258400,4,"31,93791",13,1,6
+Your Body's Callin',R. Kelly,spotify:track:4iXZFxEUzTTLMLE5jCyKEb,"0,658","0,55",9,"-6,705",1,"0,0302","0,457","0,000728","0,114","0,727","168,289",277493,4,"45,39778",12,1,6
+You're The Inspiration,Peter Cetera Featuring Az Yet,spotify:track:2ukfmf2Yup3nwpIyV8znKz,"0,645","0,6",10,"-7,605",1,"0,0252","0,0834",0,"0,0599","0,411","143,48",246880,4,"42,81537",9,1,6
+You're The One,SWV,spotify:track:67ZorjDM25q7bETfLbHdfS,"0,79","0,608",6,"-7,151",1,"0,0363","0,522","0,00491","0,193","0,958","94,166",282600,4,"33,21772",13,1,6
+До смерті і довше - Drum & Base and Rock Remix,Skryabin,spotify:track:6CxyIPTqSPvAPXfrIZczs4,"0,513","0,76",4,"-10,077",1,"0,0355","1,72E-05","0,00339","0,153","0,961","153,166",430653,4,"25,57331",20,0,6
+เพลงนั้น,Viyada Komarakul Na Nakorn,spotify:track:48C2dvxBLAQl6Qp5pM5bBc,"0,617","0,427",0,"-10,343",0,"0,0238","0,556","3,11E-05","0,105","0,477","145,786",224667,4,"17,07316",11,0,6
+แพ้ใจ,Mai Charoenpura,spotify:track:6Z5nlPYAN6WfubM40ELc6X,"0,672","0,398",0,"-8,758",1,"0,0281","0,57",0,"0,16","0,314","74,007",221387,4,"38,42628",10,0,6
+ขอจันทร์,Viyada Komarakul Na Nakorn,spotify:track:0U0w3Ih5zX45OJCW12xlaj,"0,689","0,366",9,"-11,952",1,"0,0287","0,838","0,000135","0,056","0,371","129,805",240267,4,"71,54559",10,0,6
+คงเดิม,Asanee & Wasan,spotify:track:6yVQGme4IdVTzznp9MmeON,"0,707","0,603",7,"-9,533",1,"0,0267","0,477","1,23E-06","0,098","0,756","119,995",222360,4,"44,53343",12,0,6
+วิมานดิน,Nantida Kaewbuasai,spotify:track:05Hdc4jTJq9yyl89kXGCvy,"0,646","0,389",3,"-7,438",1,"0,0252","0,866",0,"0,187","0,242","131,986",251813,4,"47,49447",10,0,6
+หยุดเลย,J Jetrin,spotify:track:34ymFuVHX4eH1q3uXTh4pQ,"0,586","0,546",9,"-8,547",0,"0,0265","0,454",0,"0,0935","0,262","140,824",250387,4,"41,72215",11,0,6
+
